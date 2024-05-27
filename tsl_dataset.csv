@@ -1,0 +1,1883 @@
+Date,Season,Week,home,visitor,FT,hgoal,vgoal,division,tier,totgoal,goaldiff,result,HT,hgoal_half,vgoal_half,half_totgoal,half_goaldiff,result_half,fans,neutral,home_red_card,visitor_red_card
+2015-01-03,2014,16,Fenerbahce,Basaksehir FK,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2015-01-03,2014,16,Bursaspor,Akhisarspor,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,1,0,0,0
+2015-01-03,2014,16,Caykur Rizespor,Konyaspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2015-01-04,2014,16,Kayseri Erciyesspor,Kasimpasa,2-5,2,5,T1,1,7,-3,A,1-2,1,2,3,-1,A,1,0,0,0
+2015-01-04,2014,16,Sivasspor,Kardemir Karabukspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2015-01-04,2014,16,Eskisehirspor,Gaziantepspor,1-3,1,3,T1,1,4,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2015-01-04,2014,16,Besiktas,Galatasaray,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,1,0
+2015-01-05,2014,16,Balikesirspor,Trabzonspor,2-2,2,2,T1,1,4,0,D,2-0,2,0,2,2,H,1,0,0,0
+2015-01-05,2014,16,Mersin Idmanyurdu,Genclerbirligi,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-01-23,2014,17,Konyaspor,Bursaspor,2-3,2,3,T1,1,5,-1,A,1-2,1,2,3,-1,A,1,0,0,0
+2015-01-23,2014,17,Trabzonspor,Sivasspor,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,0,0
+2015-01-24,2014,17,Kasimpasa,Fenerbahce,0-3,0,3,T1,1,3,-3,A,0-1,0,1,1,-1,A,1,0,0,0
+2015-01-24,2014,17,Akhisarspor,Eskisehirspor,2-2,2,2,T1,1,4,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2015-01-24,2014,17,Basaksehir FK,Mersin Idmanyurdu,2-2,2,2,T1,1,4,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2015-01-24,2014,17,Gaziantepspor,Balikesirspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-01-25,2014,17,Kardemir Karabukspor,Kayseri Erciyesspor,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,1,0,2,0
+2015-01-25,2014,17,Galatasaray,Caykur Rizespor,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,1,0,0,0
+2015-01-26,2014,17,Genclerbirligi,Besiktas,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,1
+2015-01-30,2014,18,Trabzonspor,Kayseri Erciyesspor,2-1,2,1,T1,1,3,1,H,2-0,2,0,2,2,H,1,0,0,1
+2015-01-30,2014,18,Akhisarspor,Balikesirspor,2-2,2,2,T1,1,4,0,D,2-0,2,0,2,2,H,1,0,0,0
+2015-01-31,2014,18,Kardemir Karabukspor,Fenerbahce,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2015-01-31,2014,18,Gaziantepspor,Sivasspor,1-3,1,3,T1,1,4,-2,A,1-0,1,0,1,1,H,1,0,1,0
+2015-01-31,2014,18,Kasimpasa,Basaksehir FK,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,2,0
+2015-02-01,2014,18,Genclerbirligi,Caykur Rizespor,0-2,0,2,T1,1,2,-2,A,0-2,0,2,2,-2,A,1,0,3,0
+2015-02-01,2014,18,Konyaspor,Eskisehirspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2015-02-01,2014,18,Besiktas,Mersin Idmanyurdu,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2015-02-01,2014,18,Galatasaray,Bursaspor,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,0,1
+2015-02-06,2014,19,Basaksehir FK,Kardemir Karabukspor,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,1,0
+2015-02-07,2014,19,Sivasspor,Akhisarspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2015-02-07,2014,19,Kayseri Erciyesspor,Gaziantepspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2015-02-07,2014,19,Fenerbahce,Trabzonspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,1,0
+2015-02-08,2014,19,Caykur Rizespor,Besiktas,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,1,0,2,0
+2015-02-08,2014,19,Bursaspor,Genclerbirligi,3-1,3,1,T1,1,4,2,H,0-1,0,1,1,-1,A,1,0,0,0
+2015-02-08,2014,19,Balikesirspor,Konyaspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2015-02-08,2014,19,Mersin Idmanyurdu,Kasimpasa,6-2,6,2,T1,1,8,4,H,1-0,1,0,1,1,H,1,0,0,0
+2015-02-09,2014,19,Eskisehirspor,Galatasaray,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2015-02-14,2014,20,Kardemir Karabukspor,Kasimpasa,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-02-14,2014,20,Akhisarspor,Kayseri Erciyesspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-02-14,2014,20,Gaziantepspor,Fenerbahce,0-5,0,5,T1,1,5,-5,A,0-1,0,1,1,-1,A,1,0,0,0
+2015-02-15,2014,20,Trabzonspor,Basaksehir FK,3-2,3,2,T1,1,5,1,H,2-2,2,2,4,0,D,1,0,0,0
+2015-02-15,2014,20,Besiktas,Bursaspor,3-2,3,2,T1,1,5,1,H,1-1,1,1,2,0,D,1,0,0,1
+2015-02-15,2014,20,Konyaspor,Sivasspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2015-02-15,2014,20,Caykur Rizespor,Mersin Idmanyurdu,0-4,0,4,T1,1,4,-4,A,0-1,0,1,1,-1,A,1,0,0,0
+2015-02-16,2014,20,Genclerbirligi,Eskisehirspor,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,2,0
+2015-02-16,2014,20,Galatasaray,Balikesirspor,3-1,3,1,T1,1,4,2,H,3-0,3,0,3,3,H,1,0,0,1
+2015-02-20,2014,21,Kayseri Erciyesspor,Konyaspor,3-0,3,0,T1,1,3,3,H,3-0,3,0,3,3,H,1,0,0,0
+2015-02-21,2014,21,Basaksehir FK,Gaziantepspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2015-02-21,2014,21,Bursaspor,Caykur Rizespor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,1,0
+2015-02-21,2014,21,Sivasspor,Galatasaray,2-3,2,3,T1,1,5,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2015-02-22,2014,21,Eskisehirspor,Besiktas,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2015-02-22,2014,21,Kasimpasa,Trabzonspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2015-02-22,2014,21,Mersin Idmanyurdu,Kardemir Karabukspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2015-02-22,2014,21,Balikesirspor,Genclerbirligi,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2015-02-23,2014,21,Fenerbahce,Akhisarspor,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2015-02-27,2014,22,Galatasaray,Kayseri Erciyesspor,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,0,0
+2015-02-28,2014,22,Genclerbirligi,Sivasspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-02-28,2014,22,Caykur Rizespor,Eskisehirspor,3-0,3,0,T1,1,3,3,H,2-0,2,0,2,2,H,1,0,0,1
+2015-02-28,2014,22,Konyaspor,Fenerbahce,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2015-03-01,2014,22,Besiktas,Balikesirspor,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,1,0,1,0
+2015-03-01,2014,22,Gaziantepspor,Kasimpasa,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,1
+2015-03-01,2014,22,Akhisarspor,Basaksehir FK,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,0
+2015-03-01,2014,22,Bursaspor,Mersin Idmanyurdu,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,1,0,1,0
+2015-03-02,2014,22,Trabzonspor,Kardemir Karabukspor,3-2,3,2,T1,1,5,1,H,1-2,1,2,3,-1,A,1,0,0,0
+2015-03-06,2014,23,Kasimpasa,Akhisarspor,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,1,0,0,0
+2015-03-07,2014,23,Kayseri Erciyesspor,Genclerbirligi,2-4,2,4,T1,1,6,-2,A,0-2,0,2,2,-2,A,1,0,1,0
+2015-03-07,2014,23,Balikesirspor,Caykur Rizespor,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,1,0,0,0
+2015-03-07,2014,23,Eskisehirspor,Bursaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-03-08,2014,23,Basaksehir FK,Konyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-03-08,2014,23,Sivasspor,Besiktas,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2015-03-08,2014,23,Kardemir Karabukspor,Gaziantepspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-03-08,2014,23,Fenerbahce,Galatasaray,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-03-09,2014,23,Mersin Idmanyurdu,Trabzonspor,1-5,1,5,T1,1,6,-4,A,0-2,0,2,2,-2,A,1,0,0,0
+2015-03-13,2014,24,Bursaspor,Balikesirspor,4-2,4,2,T1,1,6,2,H,2-2,2,2,4,0,D,1,0,0,0
+2015-03-13,2014,24,Konyaspor,Kasimpasa,2-1,2,1,T1,1,3,1,H,2-1,2,1,3,1,H,1,0,1,0
+2015-03-14,2014,24,Caykur Rizespor,Sivasspor,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-03-14,2014,24,Galatasaray,Basaksehir FK,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,1,0,0,0
+2015-03-14,2014,24,Akhisarspor,Kardemir Karabukspor,5-1,5,1,T1,1,6,4,H,2-0,2,0,2,2,H,1,0,0,0
+2015-03-15,2014,24,Genclerbirligi,Fenerbahce,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2015-03-15,2014,24,Besiktas,Kayseri Erciyesspor,5-1,5,1,T1,1,6,4,H,3-0,3,0,3,3,H,1,0,0,0
+2015-03-15,2014,24,Eskisehirspor,Mersin Idmanyurdu,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,1,0,0,0
+2015-03-16,2014,24,Gaziantepspor,Trabzonspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2015-03-20,2014,25,Kardemir Karabukspor,Konyaspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2015-03-20,2014,25,Balikesirspor,Eskisehirspor,4-1,4,1,T1,1,5,3,H,2-1,2,1,3,1,H,1,0,0,0
+2015-03-21,2014,25,Mersin Idmanyurdu,Gaziantepspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2015-03-21,2014,25,Kayseri Erciyesspor,Caykur Rizespor,0-3,0,3,T1,1,3,-3,A,0-2,0,2,2,-2,A,1,0,1,0
+2015-03-21,2014,25,Sivasspor,Bursaspor,4-1,4,1,T1,1,5,3,H,4-0,4,0,4,4,H,1,0,0,2
+2015-03-21,2014,25,Kasimpasa,Galatasaray,2-3,2,3,T1,1,5,-1,A,2-0,2,0,2,2,H,1,0,0,0
+2015-03-22,2014,25,Basaksehir FK,Genclerbirligi,3-1,3,1,T1,1,4,2,H,0-0,0,0,0,0,D,1,0,0,0
+2015-03-22,2014,25,Trabzonspor,Akhisarspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2015-03-22,2014,25,Fenerbahce,Besiktas,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-04-04,2014,26,Genclerbirligi,Kasimpasa,5-2,5,2,T1,1,7,3,H,2-1,2,1,3,1,H,1,0,0,0
+2015-04-04,2014,26,Balikesirspor,Mersin Idmanyurdu,1-3,1,3,T1,1,4,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2015-04-04,2014,26,Eskisehirspor,Sivasspor,1-3,1,3,T1,1,4,-2,A,1-0,1,0,1,1,H,1,0,0,0
+2015-04-04,2014,26,Caykur Rizespor,Fenerbahce,1-5,1,5,T1,1,6,-4,A,0-3,0,3,3,-3,A,1,0,0,0
+2015-04-05,2014,26,Galatasaray,Kardemir Karabukspor,4-2,4,2,T1,1,6,2,H,1-0,1,0,1,1,H,1,0,0,0
+2015-04-05,2014,26,Konyaspor,Trabzonspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-04-05,2014,26,Akhisarspor,Gaziantepspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2015-04-05,2014,26,Bursaspor,Kayseri Erciyesspor,3-0,3,0,T1,1,3,3,H,2-0,2,0,2,2,H,1,0,0,0
+2015-04-06,2014,26,Besiktas,Basaksehir FK,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-04-17,2014,27,Gaziantepspor,Konyaspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2015-04-18,2014,27,Kardemir Karabukspor,Genclerbirligi,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,1
+2015-04-18,2014,27,Kasimpasa,Besiktas,1-5,1,5,T1,1,6,-4,A,1-2,1,2,3,-1,A,1,0,2,0
+2015-04-19,2014,27,Basaksehir FK,Caykur Rizespor,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,1,0,0,0
+2015-04-19,2014,27,Trabzonspor,Galatasaray,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,1,0
+2015-04-19,2014,27,Kayseri Erciyesspor,Eskisehirspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2015-04-19,2014,27,Sivasspor,Balikesirspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-04-20,2014,27,Mersin Idmanyurdu,Akhisarspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-04-20,2014,27,Fenerbahce,Bursaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-04-24,2014,28,Sivasspor,Mersin Idmanyurdu,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2015-04-25,2014,28,Bursaspor,Basaksehir FK,4-1,4,1,T1,1,5,3,H,0-1,0,1,1,-1,A,1,0,0,0
+2015-04-25,2014,28,Caykur Rizespor,Kasimpasa,1-3,1,3,T1,1,4,-2,A,0-1,0,1,1,-1,A,1,0,0,1
+2015-04-25,2014,28,Eskisehirspor,Fenerbahce,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2015-04-26,2014,28,Genclerbirligi,Trabzonspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,1,0
+2015-04-26,2014,28,Balikesirspor,Kayseri Erciyesspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2015-04-26,2014,28,Konyaspor,Akhisarspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2015-04-26,2014,28,Galatasaray,Gaziantepspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-04-27,2014,28,Besiktas,Kardemir Karabukspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,1,1
+2015-05-02,2014,29,Basaksehir FK,Eskisehirspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-05-02,2014,29,Mersin Idmanyurdu,Konyaspor,3-1,3,1,T1,1,4,2,H,3-1,3,1,4,2,H,1,0,0,0
+2015-05-02,2014,29,Kardemir Karabukspor,Caykur Rizespor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2015-05-02,2014,29,Fenerbahce,Balikesirspor,4-3,4,3,T1,1,7,1,H,3-3,3,3,6,0,D,1,0,0,0
+2015-05-03,2014,29,Kasimpasa,Bursaspor,5-3,5,3,T1,1,8,2,H,2-2,2,2,4,0,D,1,0,0,0
+2015-05-03,2014,29,Gaziantepspor,Genclerbirligi,0-3,0,3,T1,1,3,-3,A,0-0,0,0,0,0,D,1,0,0,0
+2015-05-03,2014,29,Trabzonspor,Besiktas,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,0
+2015-05-04,2014,29,Akhisarspor,Galatasaray,0-2,0,2,T1,1,2,-2,A,0-2,0,2,2,-2,A,1,0,0,0
+2015-05-04,2014,29,Kayseri Erciyesspor,Sivasspor,2-3,2,3,T1,1,5,-1,A,2-0,2,0,2,2,H,1,0,0,0
+2015-05-08,2014,30,Galatasaray,Konyaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-05-08,2014,30,Kayseri Erciyesspor,Mersin Idmanyurdu,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,1,0,1,0
+2015-05-08,2014,30,Eskisehirspor,Kasimpasa,4-1,4,1,T1,1,5,3,H,3-0,3,0,3,3,H,1,0,0,0
+2015-05-09,2014,30,Genclerbirligi,Akhisarspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,1,1
+2015-05-09,2014,30,Bursaspor,Kardemir Karabukspor,7-1,7,1,T1,1,8,6,H,2-1,2,1,3,1,H,1,0,0,0
+2015-05-09,2014,30,Balikesirspor,Basaksehir FK,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,1,1
+2015-05-09,2014,30,Sivasspor,Fenerbahce,2-3,2,3,T1,1,5,-1,A,2-1,2,1,3,1,H,1,0,0,0
+2015-05-10,2014,30,Caykur Rizespor,Trabzonspor,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2015-05-10,2014,30,Besiktas,Gaziantepspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,1
+2015-05-12,2014,31,Mersin Idmanyurdu,Galatasaray,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2015-05-12,2014,31,Kardemir Karabukspor,Eskisehirspor,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,1,0,0,0
+2015-05-12,2014,31,Konyaspor,Genclerbirligi,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-05-12,2014,31,Basaksehir FK,Sivasspor,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,1,0,0,0
+2015-05-12,2014,31,Kasimpasa,Balikesirspor,2-3,2,3,T1,1,5,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2015-05-13,2014,31,Trabzonspor,Bursaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-05-13,2014,31,Gaziantepspor,Caykur Rizespor,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2015-05-13,2014,31,Fenerbahce,Kayseri Erciyesspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2015-05-14,2014,31,Akhisarspor,Besiktas,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2015-05-16,2014,32,Sivasspor,Kasimpasa,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-05-16,2014,32,Galatasaray,Genclerbirligi,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-05-16,2014,32,Balikesirspor,Kardemir Karabukspor,4-2,4,2,T1,1,6,2,H,2-1,2,1,3,1,H,1,0,0,0
+2015-05-17,2014,32,Kayseri Erciyesspor,Basaksehir FK,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2015-05-17,2014,32,Bursaspor,Gaziantepspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,1
+2015-05-17,2014,32,Eskisehirspor,Trabzonspor,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,1,0,0,0
+2015-05-17,2014,32,Mersin Idmanyurdu,Fenerbahce,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,1,0
+2015-05-18,2014,32,Besiktas,Konyaspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2015-05-18,2014,32,Caykur Rizespor,Akhisarspor,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,1,0,0,0
+2015-05-22,2014,33,Genclerbirligi,Mersin Idmanyurdu,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2015-05-23,2014,33,Konyaspor,Caykur Rizespor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2015-05-23,2014,33,Trabzonspor,Balikesirspor,3-2,3,2,T1,1,5,1,H,1-1,1,1,2,0,D,1,0,0,0
+2015-05-23,2014,33,Kasimpasa,Kayseri Erciyesspor,3-3,3,3,T1,1,6,0,D,1-1,1,1,2,0,D,1,0,0,0
+2015-05-24,2014,33,Gaziantepspor,Eskisehirspor,3-2,3,2,T1,1,5,1,H,2-0,2,0,2,2,H,1,0,1,0
+2015-05-24,2014,33,Kardemir Karabukspor,Sivasspor,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,1,0,0,0
+2015-05-24,2014,33,Galatasaray,Besiktas,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2015-05-25,2014,33,Akhisarspor,Bursaspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2015-05-25,2014,33,Basaksehir FK,Fenerbahce,2-2,2,2,T1,1,4,0,D,0-0,0,0,0,0,D,1,0,0,4
+2015-05-29,2014,34,Eskisehirspor,Akhisarspor,1-3,1,3,T1,1,4,-2,A,0-1,0,1,1,-1,A,1,0,0,1
+2015-05-29,2014,34,Besiktas,Genclerbirligi,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2015-05-29,2014,34,Kayseri Erciyesspor,Kardemir Karabukspor,4-3,4,3,T1,1,7,1,H,1-2,1,2,3,-1,A,1,0,0,1
+2015-05-29,2014,34,Balikesirspor,Gaziantepspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2015-05-30,2014,34,Caykur Rizespor,Galatasaray,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,1
+2015-05-30,2014,34,Fenerbahce,Kasimpasa,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2015-05-30,2014,34,Bursaspor,Konyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,1,1
+2015-05-30,2014,34,Mersin Idmanyurdu,Basaksehir FK,2-2,2,2,T1,1,4,0,D,0-0,0,0,0,0,D,1,0,1,0
+2015-05-30,2014,34,Sivasspor,Trabzonspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2015-08-14,2015,1,Fenerbahce,Eskisehirspor,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,1,0,0,1
+2015-08-15,2015,1,Basaksehir FK,Antalyaspor,2-3,2,3,T1,1,5,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2015-08-15,2015,1,Sivasspor,Galatasaray,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,1,0,0,0
+2015-08-15,2015,1,Trabzonspor,Bursaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-08-16,2015,1,Konyaspor,Akhisarspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2015-08-16,2015,1,Osmanlispor FK,Kayserispor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-08-16,2015,1,Gaziantepspor,Kasimpasa,0-3,0,3,T1,1,3,-3,A,0-0,0,0,0,0,D,1,0,1,0
+2015-08-16,2015,1,Mersin Idmanyurdu,Besiktas,2-5,2,5,T1,1,7,-3,A,1-2,1,2,3,-1,A,1,0,1,0
+2015-08-17,2015,1,Genclerbirligi,Caykur Rizespor,2-3,2,3,T1,1,5,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2015-08-21,2015,2,Kasimpasa,Basaksehir FK,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2015-08-22,2015,2,Besiktas,Trabzonspor,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,1,0,1,0
+2015-08-22,2015,2,Akhisarspor,Mersin Idmanyurdu,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,1,0,1
+2015-08-22,2015,2,Kayserispor,Konyaspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,0,0,0,0
+2015-08-23,2015,2,Bursaspor,Gaziantepspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2015-08-23,2015,2,Eskisehirspor,Sivasspor,4-2,4,2,T1,1,6,2,H,2-0,2,0,2,2,H,1,0,0,0
+2015-08-23,2015,2,Antalyaspor,Genclerbirligi,3-1,3,1,T1,1,4,2,H,0-1,0,1,1,-1,A,1,0,0,0
+2015-08-23,2015,2,Caykur Rizespor,Fenerbahce,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2015-08-24,2015,2,Galatasaray,Osmanlispor FK,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2015-08-28,2015,3,Gaziantepspor,Besiktas,0-4,0,4,T1,1,4,-4,A,0-0,0,0,0,0,D,1,0,0,0
+2015-08-29,2015,3,Mersin Idmanyurdu,Kayserispor,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2015-08-29,2015,3,Konyaspor,Galatasaray,1-4,1,4,T1,1,5,-3,A,1-2,1,2,3,-1,A,1,0,0,1
+2015-08-29,2015,3,Basaksehir FK,Bursaspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,1
+2015-08-29,2015,3,Genclerbirligi,Kasimpasa,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-08-30,2015,3,Eskisehirspor,Caykur Rizespor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-08-30,2015,3,Trabzonspor,Akhisarspor,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,1,0,0,0
+2015-08-30,2015,3,Fenerbahce,Antalyaspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2015-08-30,2015,3,Sivasspor,Osmanlispor FK,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,1
+2015-09-12,2015,4,Antalyaspor,Eskisehirspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2015-09-12,2015,4,Galatasaray,Mersin Idmanyurdu,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,1,1
+2015-09-12,2015,4,Akhisarspor,Gaziantepspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,1,0
+2015-09-12,2015,4,Bursaspor,Genclerbirligi,3-2,3,2,T1,1,5,1,H,1-0,1,0,1,1,H,1,0,0,0
+2015-09-13,2015,4,Caykur Rizespor,Sivasspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,1,0
+2015-09-13,2015,4,Besiktas,Basaksehir FK,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2015-09-13,2015,4,Osmanlispor FK,Konyaspor,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,1,0,0,1
+2015-09-13,2015,4,Kasimpasa,Fenerbahce,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,1,0
+2015-09-14,2015,4,Kayserispor,Trabzonspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2015-09-18,2015,5,Basaksehir FK,Akhisarspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2015-09-18,2015,5,Mersin Idmanyurdu,Osmanlispor FK,0-4,0,4,T1,1,4,-4,A,0-2,0,2,2,-2,A,1,0,0,0
+2015-09-19,2015,5,Trabzonspor,Galatasaray,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2015-09-19,2015,5,Sivasspor,Konyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,1,0
+2015-09-19,2015,5,Caykur Rizespor,Antalyaspor,5-1,5,1,T1,1,6,4,H,3-1,3,1,4,2,H,1,0,0,0
+2015-09-19,2015,5,Eskisehirspor,Kasimpasa,0-3,0,3,T1,1,3,-3,A,0-1,0,1,1,-1,A,1,0,0,0
+2015-09-20,2015,5,Gaziantepspor,Kayserispor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,1,0
+2015-09-20,2015,5,Fenerbahce,Bursaspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2015-09-21,2015,5,Genclerbirligi,Besiktas,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2015-09-26,2015,6,Osmanlispor FK,Trabzonspor,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,1,0,1,0
+2015-09-26,2015,6,Galatasaray,Gaziantepspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2015-09-26,2015,6,Akhisarspor,Genclerbirligi,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-09-27,2015,6,Konyaspor,Mersin Idmanyurdu,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2015-09-27,2015,6,Antalyaspor,Sivasspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2015-09-27,2015,6,Besiktas,Fenerbahce,3-2,3,2,T1,1,5,1,H,2-1,2,1,3,1,H,1,0,0,0
+2015-09-28,2015,6,Kayserispor,Basaksehir FK,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2015-09-28,2015,6,Kasimpasa,Caykur Rizespor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,2
+2015-09-28,2015,6,Bursaspor,Eskisehirspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2015-10-02,2015,7,Sivasspor,Mersin Idmanyurdu,2-2,2,2,T1,1,4,0,D,2-0,2,0,2,2,H,1,0,1,0
+2015-10-02,2015,7,Trabzonspor,Konyaspor,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,1,0,1,0
+2015-10-03,2015,7,Genclerbirligi,Kayserispor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2015-10-03,2015,7,Gaziantepspor,Osmanlispor FK,2-1,2,1,T1,1,3,1,H,2-1,2,1,3,1,H,1,0,1,1
+2015-10-03,2015,7,Basaksehir FK,Galatasaray,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,0
+2015-10-04,2015,7,Fenerbahce,Akhisarspor,2-2,2,2,T1,1,4,0,D,2-0,2,0,2,2,H,1,0,0,0
+2015-10-04,2015,7,Antalyaspor,Kasimpasa,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-10-04,2015,7,Eskisehirspor,Besiktas,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2015-10-04,2015,7,Caykur Rizespor,Bursaspor,2-3,2,3,T1,1,5,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2015-10-17,2015,8,Bursaspor,Antalyaspor,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,1,0
+2015-10-17,2015,8,Galatasaray,Genclerbirligi,4-1,4,1,T1,1,5,3,H,0-1,0,1,1,-1,A,1,0,0,0
+2015-10-17,2015,8,Konyaspor,Gaziantepspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2015-10-18,2015,8,Kasimpasa,Sivasspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2015-10-18,2015,8,Kayserispor,Fenerbahce,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,1,0
+2015-10-18,2015,8,Akhisarspor,Eskisehirspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-10-18,2015,8,Besiktas,Caykur Rizespor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-10-19,2015,8,Osmanlispor FK,Basaksehir FK,0-3,0,3,T1,1,3,-3,A,0-0,0,0,0,0,D,1,0,0,0
+2015-10-19,2015,8,Mersin Idmanyurdu,Trabzonspor,3-2,3,2,T1,1,5,1,H,2-0,2,0,2,2,H,1,0,1,0
+2015-10-23,2015,9,Caykur Rizespor,Akhisarspor,0-2,0,2,T1,1,2,-2,A,0-2,0,2,2,-2,A,1,0,0,0
+2015-10-23,2015,9,Eskisehirspor,Kayserispor,1-3,1,3,T1,1,4,-2,A,1-2,1,2,3,-1,A,1,0,0,1
+2015-10-24,2015,9,Genclerbirligi,Osmanlispor FK,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2015-10-24,2015,9,Kasimpasa,Bursaspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,1
+2015-10-24,2015,9,Gaziantepspor,Mersin Idmanyurdu,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-10-24,2015,9,Sivasspor,Trabzonspor,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,1,1
+2015-10-25,2015,9,Fenerbahce,Galatasaray,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2015-10-25,2015,9,Basaksehir FK,Konyaspor,4-0,4,0,T1,1,4,4,H,1-0,1,0,1,1,H,1,0,0,0
+2015-10-26,2015,9,Antalyaspor,Besiktas,1-5,1,5,T1,1,6,-4,A,1-2,1,2,3,-1,A,1,0,0,0
+2015-10-28,2015,10,Kayserispor,Caykur Rizespor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-10-28,2015,10,Bursaspor,Sivasspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-10-28,2015,10,Trabzonspor,Gaziantepspor,2-2,2,2,T1,1,4,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2015-10-29,2015,10,Mersin Idmanyurdu,Basaksehir FK,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,1,0
+2015-10-29,2015,10,Osmanlispor FK,Fenerbahce,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2015-10-29,2015,10,Galatasaray,Eskisehirspor,4-0,4,0,T1,1,4,4,H,3-0,3,0,3,3,H,1,0,0,0
+2015-10-30,2015,10,Konyaspor,Genclerbirligi,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-10-30,2015,10,Akhisarspor,Antalyaspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2015-10-30,2015,10,Besiktas,Kasimpasa,3-3,3,3,T1,1,6,0,D,1-2,1,2,3,-1,A,1,0,0,0
+2015-11-06,2015,11,Eskisehirspor,Osmanlispor FK,0-2,0,2,T1,1,2,-2,A,0-2,0,2,2,-2,A,1,0,0,0
+2015-11-06,2015,11,Genclerbirligi,Mersin Idmanyurdu,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2015-11-07,2015,11,Kasimpasa,Akhisarspor,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,1,0,0,0
+2015-11-07,2015,11,Caykur Rizespor,Galatasaray,4-3,4,3,T1,1,7,1,H,2-1,2,1,3,1,H,1,0,0,1
+2015-11-07,2015,11,Antalyaspor,Kayserispor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2015-11-07,2015,11,Basaksehir FK,Trabzonspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2015-11-08,2015,11,Fenerbahce,Konyaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-11-08,2015,11,Bursaspor,Besiktas,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2015-11-08,2015,11,Sivasspor,Gaziantepspor,3-0,3,0,T1,1,3,3,H,0-0,0,0,0,0,D,1,0,1,0
+2015-11-21,2015,12,Akhisarspor,Bursaspor,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,1,0,0,0
+2015-11-21,2015,12,Mersin Idmanyurdu,Fenerbahce,1-3,1,3,T1,1,4,-2,A,0-1,0,1,1,-1,A,1,0,1,0
+2015-11-21,2015,12,Kayserispor,Kasimpasa,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-11-21,2015,12,Galatasaray,Antalyaspor,3-3,3,3,T1,1,6,0,D,1-0,1,0,1,1,H,1,0,0,0
+2015-11-22,2015,12,Trabzonspor,Genclerbirligi,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-11-22,2015,12,Besiktas,Sivasspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2015-11-22,2015,12,Konyaspor,Eskisehirspor,3-2,3,2,T1,1,5,1,H,0-1,0,1,1,-1,A,1,0,0,0
+2015-11-22,2015,12,Osmanlispor FK,Caykur Rizespor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2015-11-23,2015,12,Gaziantepspor,Basaksehir FK,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2015-11-27,2015,13,Bursaspor,Kayserispor,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,0,0,0,0
+2015-11-27,2015,13,Caykur Rizespor,Konyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-11-27,2015,13,Antalyaspor,Osmanlispor FK,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-11-28,2015,13,Sivasspor,Basaksehir FK,2-2,2,2,T1,1,4,0,D,2-1,2,1,3,1,H,1,0,0,0
+2015-11-28,2015,13,Eskisehirspor,Mersin Idmanyurdu,3-2,3,2,T1,1,5,1,H,2-0,2,0,2,2,H,1,0,0,0
+2015-11-29,2015,13,Besiktas,Akhisarspor,0-2,0,2,T1,1,2,-2,A,0-2,0,2,2,-2,A,1,0,0,0
+2015-11-29,2015,13,Genclerbirligi,Gaziantepspor,2-2,2,2,T1,1,4,0,D,2-0,2,0,2,2,H,1,0,0,2
+2015-11-29,2015,13,Kasimpasa,Galatasaray,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,0,0
+2015-11-30,2015,13,Fenerbahce,Trabzonspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,1
+2015-12-04,2015,14,Galatasaray,Bursaspor,3-0,3,0,T1,1,3,3,H,0-0,0,0,0,0,D,1,0,0,0
+2015-12-05,2015,14,Osmanlispor FK,Kasimpasa,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,1,0
+2015-12-05,2015,14,Konyaspor,Antalyaspor,3-2,3,2,T1,1,5,1,H,2-0,2,0,2,2,H,1,0,0,0
+2015-12-05,2015,14,Kayserispor,Besiktas,1-2,1,2,T1,1,3,-1,A,1-2,1,2,3,-1,A,1,0,0,0
+2015-12-06,2015,14,Basaksehir FK,Genclerbirligi,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2015-12-06,2015,14,Mersin Idmanyurdu,Caykur Rizespor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2015-12-06,2015,14,Gaziantepspor,Fenerbahce,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,1,0,0,1
+2015-12-07,2015,14,Trabzonspor,Eskisehirspor,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,1,0,0,1
+2015-12-07,2015,14,Akhisarspor,Sivasspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-12-11,2015,15,Bursaspor,Osmanlispor FK,0-4,0,4,T1,1,4,-4,A,0-3,0,3,3,-3,A,1,0,0,0
+2015-12-12,2015,15,Kasimpasa,Konyaspor,2-1,2,1,T1,1,3,1,H,2-0,2,0,2,2,H,1,0,0,0
+2015-12-12,2015,15,Eskisehirspor,Gaziantepspor,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,0,1
+2015-12-12,2015,15,Antalyaspor,Mersin Idmanyurdu,3-2,3,2,T1,1,5,1,H,0-2,0,2,2,-2,A,1,0,1,0
+2015-12-12,2015,15,Caykur Rizespor,Trabzonspor,3-0,3,0,T1,1,3,3,H,2-0,2,0,2,2,H,1,0,0,0
+2015-12-13,2015,15,Genclerbirligi,Sivasspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2015-12-13,2015,15,Kayserispor,Akhisarspor,3-2,3,2,T1,1,5,1,H,2-1,2,1,3,1,H,1,0,1,0
+2015-12-13,2015,15,Fenerbahce,Basaksehir FK,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,1
+2015-12-14,2015,15,Besiktas,Galatasaray,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,0
+2015-12-19,2015,16,Mersin Idmanyurdu,Kasimpasa,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,1,1
+2015-12-19,2015,16,Trabzonspor,Antalyaspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,1
+2015-12-19,2015,16,Gaziantepspor,Caykur Rizespor,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,1,0,0,0
+2015-12-19,2015,16,Konyaspor,Bursaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,1
+2015-12-20,2015,16,Genclerbirligi,Fenerbahce,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2015-12-20,2015,16,Basaksehir FK,Eskisehirspor,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,1,0,0,0
+2015-12-20,2015,16,Sivasspor,Kayserispor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-12-20,2015,16,Galatasaray,Akhisarspor,3-2,3,2,T1,1,5,1,H,2-0,2,0,2,2,H,1,0,0,0
+2015-12-21,2015,16,Osmanlispor FK,Besiktas,2-3,2,3,T1,1,5,-1,A,2-1,2,1,3,1,H,1,0,0,0
+2015-12-26,2015,17,Caykur Rizespor,Basaksehir FK,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,1,0,0,1
+2015-12-26,2015,17,Antalyaspor,Gaziantepspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,1,1
+2015-12-26,2015,17,Kasimpasa,Trabzonspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2015-12-27,2015,17,Bursaspor,Mersin Idmanyurdu,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,1,0,0,0
+2015-12-27,2015,17,Kayserispor,Galatasaray,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2015-12-27,2015,17,Akhisarspor,Osmanlispor FK,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2015-12-27,2015,17,Besiktas,Konyaspor,4-0,4,0,T1,1,4,4,H,0-0,0,0,0,0,D,1,0,0,0
+2015-12-28,2015,17,Eskisehirspor,Genclerbirligi,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,1,0,1,0
+2015-12-28,2015,17,Fenerbahce,Sivasspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2016-01-16,2015,18,Kayserispor,Osmanlispor FK,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2016-01-16,2015,18,Kasimpasa,Gaziantepspor,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2016-01-16,2015,18,Akhisarspor,Konyaspor,0-2,0,2,T1,1,2,-2,A,0-2,0,2,2,-2,A,1,0,0,0
+2016-01-16,2015,18,Galatasaray,Sivasspor,3-1,3,1,T1,1,4,2,H,2-0,2,0,2,2,H,1,0,0,0
+2016-01-17,2015,18,Antalyaspor,Basaksehir FK,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2016-01-17,2015,18,Bursaspor,Trabzonspor,4-2,4,2,T1,1,6,2,H,2-2,2,2,4,0,D,1,0,0,0
+2016-01-17,2015,18,Caykur Rizespor,Genclerbirligi,2-3,2,3,T1,1,5,-1,A,1-2,1,2,3,-1,A,1,0,0,0
+2016-01-18,2015,18,Eskisehirspor,Fenerbahce,0-3,0,3,T1,1,3,-3,A,0-1,0,1,1,-1,A,1,0,1,0
+2016-01-23,2015,19,Konyaspor,Kayserispor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,1
+2016-01-23,2015,19,Mersin Idmanyurdu,Akhisarspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-01-23,2015,19,Osmanlispor FK,Galatasaray,3-2,3,2,T1,1,5,1,H,2-2,2,2,4,0,D,1,0,0,0
+2016-01-24,2015,19,Fenerbahce,Caykur Rizespor,2-1,2,1,T1,1,3,1,H,2-0,2,0,2,2,H,1,0,0,0
+2016-01-24,2015,19,Sivasspor,Eskisehirspor,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,1,0
+2016-01-24,2015,19,Genclerbirligi,Antalyaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2016-01-24,2015,19,Gaziantepspor,Bursaspor,2-3,2,3,T1,1,5,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2016-01-25,2015,19,Basaksehir FK,Kasimpasa,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2016-02-05,2015,20,Osmanlispor FK,Sivasspor,4-0,4,0,T1,1,4,4,H,2-0,2,0,2,2,H,1,0,0,0
+2016-02-05,2015,20,Antalyaspor,Fenerbahce,4-2,4,2,T1,1,6,2,H,1-0,1,0,1,1,H,1,0,0,0
+2016-02-06,2015,20,Bursaspor,Basaksehir FK,3-3,3,3,T1,1,6,0,D,1-0,1,0,1,1,H,1,0,2,0
+2016-02-06,2015,20,Kayserispor,Mersin Idmanyurdu,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,1,0
+2016-02-06,2015,20,Galatasaray,Konyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-02-07,2015,20,Besiktas,Gaziantepspor,4-0,4,0,T1,1,4,4,H,2-0,2,0,2,2,H,1,0,0,0
+2016-02-07,2015,20,Akhisarspor,Trabzonspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,1
+2016-02-07,2015,20,Caykur Rizespor,Eskisehirspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2016-02-08,2015,20,Kasimpasa,Genclerbirligi,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,1,0
+2016-02-12,2015,21,Fenerbahce,Kasimpasa,3-1,3,1,T1,1,4,2,H,2-0,2,0,2,2,H,1,0,0,1
+2016-02-13,2015,21,Genclerbirligi,Bursaspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2016-02-13,2015,21,Konyaspor,Osmanlispor FK,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-02-13,2015,21,Mersin Idmanyurdu,Galatasaray,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,1
+2016-02-14,2015,21,Eskisehirspor,Antalyaspor,3-2,3,2,T1,1,5,1,H,0-1,0,1,1,-1,A,1,0,1,0
+2016-02-14,2015,21,Gaziantepspor,Akhisarspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2016-02-14,2015,21,Sivasspor,Caykur Rizespor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,1,0
+2016-02-14,2015,21,Basaksehir FK,Besiktas,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,1,0,0,0
+2016-02-15,2015,21,Trabzonspor,Kayserispor,2-1,2,1,T1,1,3,1,H,2-0,2,0,2,2,H,1,0,0,0
+2016-02-17,2015,18,Besiktas,Mersin Idmanyurdu,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2016-02-19,2015,22,Konyaspor,Sivasspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2016-02-20,2015,22,Kasimpasa,Eskisehirspor,2-1,2,1,T1,1,3,1,H,2-0,2,0,2,2,H,1,0,0,0
+2016-02-20,2015,22,Antalyaspor,Caykur Rizespor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2016-02-20,2015,22,Bursaspor,Fenerbahce,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,0,0,0,0
+2016-02-21,2015,22,Galatasaray,Trabzonspor,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,1,0,0,4
+2016-02-21,2015,22,Kayserispor,Gaziantepspor,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,1,0,0,0
+2016-02-21,2015,22,Osmanlispor FK,Mersin Idmanyurdu,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,0,0
+2016-02-21,2015,22,Akhisarspor,Basaksehir FK,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-02-22,2015,22,Besiktas,Genclerbirligi,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2016-02-26,2015,23,Basaksehir FK,Kayserispor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2016-02-27,2015,23,Mersin Idmanyurdu,Konyaspor,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,1,0
+2016-02-27,2015,23,Caykur Rizespor,Kasimpasa,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2016-02-27,2015,23,Eskisehirspor,Bursaspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-02-27,2015,23,Trabzonspor,Osmanlispor FK,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-02-28,2015,23,Gaziantepspor,Galatasaray,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2016-02-28,2015,23,Sivasspor,Antalyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,1,0
+2016-02-28,2015,23,Genclerbirligi,Akhisarspor,3-1,3,1,T1,1,4,2,H,0-1,0,1,1,-1,A,1,0,0,0
+2016-02-29,2015,23,Fenerbahce,Besiktas,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2016-03-04,2015,24,Mersin Idmanyurdu,Sivasspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2016-03-05,2015,24,Kayserispor,Genclerbirligi,0-2,0,2,T1,1,2,-2,A,0-2,0,2,2,-2,A,1,0,0,0
+2016-03-05,2015,24,Bursaspor,Caykur Rizespor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2016-03-05,2015,24,Osmanlispor FK,Gaziantepspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-03-06,2015,24,Akhisarspor,Fenerbahce,0-3,0,3,T1,1,3,-3,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-03-06,2015,24,Kasimpasa,Antalyaspor,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,2
+2016-03-06,2015,24,Galatasaray,Basaksehir FK,3-3,3,3,T1,1,6,0,D,0-2,0,2,2,-2,A,1,0,0,0
+2016-03-06,2015,24,Konyaspor,Trabzonspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,1
+2016-03-07,2015,24,Besiktas,Eskisehirspor,3-1,3,1,T1,1,4,2,H,2-0,2,0,2,2,H,1,0,0,0
+2016-03-11,2015,25,Trabzonspor,Mersin Idmanyurdu,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2016-03-12,2015,25,Basaksehir FK,Osmanlispor FK,2-3,2,3,T1,1,5,-1,A,1-2,1,2,3,-1,A,1,0,0,0
+2016-03-12,2015,25,Caykur Rizespor,Besiktas,1-2,1,2,T1,1,3,-1,A,0-2,0,2,2,-2,A,1,0,0,0
+2016-03-12,2015,25,Gaziantepspor,Konyaspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-03-13,2015,25,Eskisehirspor,Akhisarspor,3-3,3,3,T1,1,6,0,D,2-1,2,1,3,1,H,1,0,0,0
+2016-03-13,2015,25,Genclerbirligi,Galatasaray,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2016-03-13,2015,25,Fenerbahce,Kayserispor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,3
+2016-03-14,2015,25,Sivasspor,Kasimpasa,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2016-03-14,2015,25,Antalyaspor,Bursaspor,3-0,3,0,T1,1,3,3,H,0-0,0,0,0,0,D,1,0,0,1
+2016-03-15,2015,19,Trabzonspor,Besiktas,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,0
+2016-03-18,2015,26,Kayserispor,Eskisehirspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-03-18,2015,26,Akhisarspor,Caykur Rizespor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-03-19,2015,26,Osmanlispor FK,Genclerbirligi,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,0,0
+2016-03-19,2015,26,Trabzonspor,Sivasspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2016-03-19,2015,26,Besiktas,Antalyaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2016-03-20,2015,26,Konyaspor,Basaksehir FK,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2016-03-20,2015,26,Mersin Idmanyurdu,Gaziantepspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-03-20,2015,26,Bursaspor,Kasimpasa,4-1,4,1,T1,1,5,3,H,3-0,3,0,3,3,H,1,0,0,0
+2016-04-02,2015,27,Eskisehirspor,Galatasaray,4-3,4,3,T1,1,7,1,H,1-1,1,1,2,0,D,1,0,0,0
+2016-04-02,2015,27,Gaziantepspor,Trabzonspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2016-04-02,2015,27,Genclerbirligi,Konyaspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2016-04-03,2015,27,Sivasspor,Bursaspor,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2016-04-03,2015,27,Basaksehir FK,Mersin Idmanyurdu,3-0,3,0,T1,1,3,3,H,2-0,2,0,2,2,H,1,0,0,0
+2016-04-03,2015,27,Antalyaspor,Akhisarspor,2-2,2,2,T1,1,4,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2016-04-03,2015,27,Fenerbahce,Osmanlispor FK,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-04-04,2015,27,Caykur Rizespor,Kayserispor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-04-04,2015,27,Kasimpasa,Besiktas,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2016-04-08,2015,28,Gaziantepspor,Sivasspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-04-09,2015,28,Osmanlispor FK,Eskisehirspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-04-09,2015,28,Galatasaray,Caykur Rizespor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-04-09,2015,28,Konyaspor,Fenerbahce,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2016-04-10,2015,28,Mersin Idmanyurdu,Genclerbirligi,1-3,1,3,T1,1,4,-2,A,0-2,0,2,2,-2,A,1,0,0,0
+2016-04-10,2015,28,Kayserispor,Antalyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-04-10,2015,28,Trabzonspor,Basaksehir FK,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,1,0
+2016-04-11,2015,28,Akhisarspor,Kasimpasa,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,1,0
+2016-04-11,2015,28,Besiktas,Bursaspor,3-2,3,2,T1,1,5,1,H,1-1,1,1,2,0,D,1,0,1,1
+2016-04-13,2015,26,Galatasaray,Fenerbahce,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-04-16,2015,29,Sivasspor,Besiktas,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2016-04-16,2015,29,Antalyaspor,Galatasaray,4-2,4,2,T1,1,6,2,H,1-1,1,1,2,0,D,1,0,0,1
+2016-04-16,2015,29,Caykur Rizespor,Osmanlispor FK,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2016-04-16,2015,29,Eskisehirspor,Konyaspor,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,1,0
+2016-04-17,2015,29,Basaksehir FK,Gaziantepspor,4-1,4,1,T1,1,5,3,H,3-1,3,1,4,2,H,1,0,0,1
+2016-04-17,2015,29,Kasimpasa,Kayserispor,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2016-04-17,2015,29,Bursaspor,Akhisarspor,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,0
+2016-04-17,2015,29,Fenerbahce,Mersin Idmanyurdu,4-1,4,1,T1,1,5,3,H,2-1,2,1,3,1,H,1,0,0,0
+2016-04-18,2015,29,Genclerbirligi,Trabzonspor,3-1,3,1,T1,1,4,2,H,2-0,2,0,2,2,H,1,0,0,0
+2016-04-22,2015,30,Kayserispor,Bursaspor,2-1,2,1,T1,1,3,1,H,2-1,2,1,3,1,H,1,0,0,0
+2016-04-23,2015,30,Akhisarspor,Besiktas,3-3,3,3,T1,1,6,0,D,1-1,1,1,2,0,D,1,0,1,0
+2016-04-23,2015,30,Osmanlispor FK,Antalyaspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2016-04-23,2015,30,Basaksehir FK,Sivasspor,2-2,2,2,T1,1,4,0,D,1-2,1,2,3,-1,A,1,0,0,0
+2016-04-24,2015,30,Mersin Idmanyurdu,Eskisehirspor,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2016-04-24,2015,30,Konyaspor,Caykur Rizespor,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,0,0
+2016-04-24,2015,30,Galatasaray,Kasimpasa,4-1,4,1,T1,1,5,3,H,1-1,1,1,2,0,D,1,0,0,0
+2016-04-24,2015,30,Trabzonspor,Fenerbahce,0-4,0,4,T1,1,4,-4,A,0-2,0,2,2,-2,A,1,0,0,0
+2016-04-25,2015,30,Gaziantepspor,Genclerbirligi,1-3,1,3,T1,1,4,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-04-29,2015,31,Bursaspor,Galatasaray,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2016-04-29,2015,31,Caykur Rizespor,Mersin Idmanyurdu,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2016-04-30,2015,31,Genclerbirligi,Basaksehir FK,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-04-30,2015,31,Eskisehirspor,Trabzonspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,1
+2016-04-30,2015,31,Besiktas,Kayserispor,4-0,4,0,T1,1,4,4,H,3-0,3,0,3,3,H,1,0,0,0
+2016-05-01,2015,31,Sivasspor,Akhisarspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,1,0
+2016-05-01,2015,31,Antalyaspor,Konyaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2016-05-01,2015,31,Fenerbahce,Gaziantepspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2016-05-02,2015,31,Kasimpasa,Osmanlispor FK,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,1,0
+2016-05-07,2015,32,Sivasspor,Genclerbirligi,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,1,0,1,0
+2016-05-07,2015,32,Gaziantepspor,Eskisehirspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2016-05-07,2015,32,Osmanlispor FK,Bursaspor,3-3,3,3,T1,1,6,0,D,0-2,0,2,2,-2,A,1,0,0,0
+2016-05-08,2015,32,Akhisarspor,Kayserispor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2016-05-08,2015,32,Trabzonspor,Caykur Rizespor,6-0,6,0,T1,1,6,6,H,4-0,4,0,4,4,H,0,0,0,0
+2016-05-08,2015,32,Mersin Idmanyurdu,Antalyaspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,1
+2016-05-08,2015,32,Galatasaray,Besiktas,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2016-05-09,2015,32,Basaksehir FK,Fenerbahce,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,0
+2016-05-09,2015,32,Konyaspor,Kasimpasa,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2016-05-13,2015,33,Antalyaspor,Trabzonspor,7-0,7,0,T1,1,7,7,H,3-0,3,0,3,3,H,1,0,0,1
+2016-05-14,2015,33,Caykur Rizespor,Gaziantepspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2016-05-14,2015,33,Eskisehirspor,Basaksehir FK,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2016-05-14,2015,33,Bursaspor,Konyaspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2016-05-14,2015,33,Kayserispor,Sivasspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2016-05-15,2015,33,Besiktas,Osmanlispor FK,3-1,3,1,T1,1,4,2,H,2-0,2,0,2,2,H,1,0,0,0
+2016-05-15,2015,33,Kasimpasa,Mersin Idmanyurdu,7-0,7,0,T1,1,7,7,H,3-0,3,0,3,3,H,1,0,0,0
+2016-05-15,2015,33,Fenerbahce,Genclerbirligi,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2016-05-15,2015,33,Akhisarspor,Galatasaray,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-05-18,2015,34,Konyaspor,Besiktas,2-1,2,1,T1,1,3,1,H,2-1,2,1,3,1,H,1,0,0,0
+2016-05-18,2015,34,Mersin Idmanyurdu,Bursaspor,2-5,2,5,T1,1,7,-3,A,1-2,1,2,3,-1,A,1,0,0,0
+2016-05-18,2015,34,Basaksehir FK,Caykur Rizespor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2016-05-19,2015,34,Galatasaray,Kayserispor,6-0,6,0,T1,1,6,6,H,3-0,3,0,3,3,H,1,0,0,0
+2016-05-19,2015,34,Sivasspor,Fenerbahce,2-2,2,2,T1,1,4,0,D,2-1,2,1,3,1,H,1,0,0,0
+2016-05-19,2015,34,Trabzonspor,Kasimpasa,0-6,0,6,T1,1,6,-6,A,0-3,0,3,3,-3,A,1,0,0,0
+2016-05-19,2015,34,Genclerbirligi,Eskisehirspor,3-1,3,1,T1,1,4,2,H,2-1,2,1,3,1,H,1,0,0,0
+2016-05-19,2015,34,Gaziantepspor,Antalyaspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2016-05-19,2015,34,Osmanlispor FK,Akhisarspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2016-08-19,2016,1,Adanaspor,Bursaspor,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2016-08-20,2016,1,Caykur Rizespor,Konyaspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-08-20,2016,1,Trabzonspor,Kasimpasa,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,0,0,0,0
+2016-08-20,2016,1,Besiktas,Alanyaspor,4-1,4,1,T1,1,5,3,H,2-0,2,0,2,2,H,1,0,0,0
+2016-08-21,2016,1,Antalyaspor,Osmanlispor FK,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,1,0
+2016-08-21,2016,1,Kayserispor,Akhisarspor,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,0
+2016-08-21,2016,1,Genclerbirligi,Gaziantepspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2016-08-21,2016,1,Basaksehir FK,Fenerbahce,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,1,1
+2016-08-22,2016,1,Galatasaray,Kardemir Karabukspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,0,0,0,0
+2016-08-26,2016,2,Alanyaspor,Antalyaspor,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,1,0,0,0
+2016-08-26,2016,2,Konyaspor,Besiktas,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,0,1
+2016-08-27,2016,2,Kasimpasa,Adanaspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2016-08-27,2016,2,Akhisarspor,Galatasaray,1-3,1,3,T1,1,4,-2,A,1-1,1,1,2,0,D,1,0,0,0
+2016-08-27,2016,2,Gaziantepspor,Trabzonspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,1,0
+2016-08-28,2016,2,Kardemir Karabukspor,Caykur Rizespor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2016-08-28,2016,2,Bursaspor,Basaksehir FK,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-08-28,2016,2,Fenerbahce,Kayserispor,3-3,3,3,T1,1,6,0,D,2-2,2,2,4,0,D,1,0,1,0
+2016-08-28,2016,2,Osmanlispor FK,Genclerbirligi,2-2,2,2,T1,1,4,0,D,2-1,2,1,3,1,H,1,0,0,0
+2016-09-10,2016,3,Besiktas,Kardemir Karabukspor,3-1,3,1,T1,1,4,2,H,2-0,2,0,2,2,H,1,0,0,1
+2016-09-10,2016,3,Genclerbirligi,Alanyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-09-10,2016,3,Basaksehir FK,Kasimpasa,3-1,3,1,T1,1,4,2,H,0-1,0,1,1,-1,A,1,0,0,0
+2016-09-10,2016,3,Kayserispor,Galatasaray,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2016-09-10,2016,3,Adanaspor,Gaziantepspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-09-11,2016,3,Antalyaspor,Konyaspor,1-3,1,3,T1,1,4,-2,A,0-0,0,0,0,0,D,1,0,0,0
+2016-09-11,2016,3,Caykur Rizespor,Akhisarspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,1
+2016-09-11,2016,3,Trabzonspor,Osmanlispor FK,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,0,0,0,0
+2016-09-11,2016,3,Fenerbahce,Bursaspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-09-16,2016,4,Bursaspor,Kayserispor,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,1,0
+2016-09-16,2016,4,Kardemir Karabukspor,Antalyaspor,3-2,3,2,T1,1,5,1,H,0-0,0,0,0,0,D,0,0,0,0
+2016-09-17,2016,4,Alanyaspor,Trabzonspor,3-0,3,0,T1,1,3,3,H,0-0,0,0,0,0,D,1,0,0,0
+2016-09-17,2016,4,Galatasaray,Caykur Rizespor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2016-09-18,2016,4,Osmanlispor FK,Adanaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2016-09-18,2016,4,Konyaspor,Genclerbirligi,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2016-09-18,2016,4,Gaziantepspor,Basaksehir FK,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2016-09-18,2016,4,Akhisarspor,Besiktas,0-2,0,2,T1,1,2,-2,A,0-2,0,2,2,-2,A,1,0,0,0
+2016-09-19,2016,4,Kasimpasa,Fenerbahce,1-5,1,5,T1,1,6,-4,A,0-3,0,3,3,-3,A,1,0,0,0
+2016-09-23,2016,5,Antalyaspor,Akhisarspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-09-24,2016,5,Besiktas,Galatasaray,2-2,2,2,T1,1,4,0,D,0-2,0,2,2,-2,A,1,0,0,0
+2016-09-24,2016,5,Trabzonspor,Konyaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2016-09-24,2016,5,Basaksehir FK,Osmanlispor FK,2-2,2,2,T1,1,4,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2016-09-25,2016,5,Kayserispor,Caykur Rizespor,2-1,2,1,T1,1,3,1,H,2-0,2,0,2,2,H,1,0,0,0
+2016-09-25,2016,5,Bursaspor,Kasimpasa,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,1,0
+2016-09-25,2016,5,Fenerbahce,Gaziantepspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2016-09-25,2016,5,Genclerbirligi,Kardemir Karabukspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,1
+2016-09-26,2016,5,Adanaspor,Alanyaspor,3-2,3,2,T1,1,5,1,H,2-1,2,1,3,1,H,1,0,0,0
+2016-09-30,2016,6,Akhisarspor,Genclerbirligi,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-10-01,2016,6,Caykur Rizespor,Besiktas,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2016-10-01,2016,6,Gaziantepspor,Bursaspor,3-2,3,2,T1,1,5,1,H,1-1,1,1,2,0,D,1,0,0,1
+2016-10-01,2016,6,Kasimpasa,Kayserispor,3-1,3,1,T1,1,4,2,H,0-1,0,1,1,-1,A,1,0,0,1
+2016-10-01,2016,6,Kardemir Karabukspor,Trabzonspor,4-0,4,0,T1,1,4,4,H,0-0,0,0,0,0,D,0,0,0,0
+2016-10-02,2016,6,Alanyaspor,Basaksehir FK,0-5,0,5,T1,1,5,-5,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-10-02,2016,6,Galatasaray,Antalyaspor,3-1,3,1,T1,1,4,2,H,0-1,0,1,1,-1,A,1,0,0,0
+2016-10-02,2016,6,Konyaspor,Adanaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2016-10-02,2016,6,Osmanlispor FK,Fenerbahce,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2016-10-15,2016,7,Adanaspor,Kardemir Karabukspor,1-2,1,2,T1,1,3,-1,A,0-2,0,2,2,-2,A,1,0,1,0
+2016-10-15,2016,7,Genclerbirligi,Galatasaray,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-10-15,2016,7,Kasimpasa,Gaziantepspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,2
+2016-10-15,2016,7,Kayserispor,Besiktas,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,1,0
+2016-10-16,2016,7,Basaksehir FK,Konyaspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-10-16,2016,7,Bursaspor,Osmanlispor FK,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-10-16,2016,7,Fenerbahce,Alanyaspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,1
+2016-10-16,2016,7,Trabzonspor,Akhisarspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,1,0
+2016-10-17,2016,7,Antalyaspor,Caykur Rizespor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-10-21,2016,8,Gaziantepspor,Kayserispor,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2016-10-21,2016,8,Caykur Rizespor,Genclerbirligi,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2016-10-22,2016,8,Galatasaray,Trabzonspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-10-22,2016,8,Alanyaspor,Bursaspor,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,0
+2016-10-22,2016,8,Akhisarspor,Adanaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,1,0
+2016-10-23,2016,8,Kardemir Karabukspor,Basaksehir FK,0-2,0,2,T1,1,2,-2,A,0-2,0,2,2,-2,A,1,0,0,0
+2016-10-23,2016,8,Osmanlispor FK,Kasimpasa,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2016-10-23,2016,8,Besiktas,Antalyaspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,1
+2016-10-24,2016,8,Konyaspor,Fenerbahce,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-10-28,2016,9,Genclerbirligi,Besiktas,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2016-10-29,2016,9,Bursaspor,Konyaspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2016-10-29,2016,9,Adanaspor,Galatasaray,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2016-10-29,2016,9,Gaziantepspor,Osmanlispor FK,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,0,1
+2016-10-30,2016,9,Basaksehir FK,Akhisarspor,5-1,5,1,T1,1,6,4,H,4-1,4,1,5,3,H,1,0,0,0
+2016-10-30,2016,9,Trabzonspor,Caykur Rizespor,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,0,0
+2016-10-30,2016,9,Fenerbahce,Kardemir Karabukspor,5-0,5,0,T1,1,5,5,H,2-0,2,0,2,2,H,1,0,0,1
+2016-10-31,2016,9,Kasimpasa,Alanyaspor,2-1,2,1,T1,1,3,1,H,2-1,2,1,3,1,H,1,0,0,0
+2016-10-31,2016,9,Kayserispor,Antalyaspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-11-04,2016,10,Galatasaray,Basaksehir FK,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2016-11-05,2016,10,Antalyaspor,Genclerbirligi,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2016-11-05,2016,10,Besiktas,Trabzonspor,2-1,2,1,T1,1,3,1,H,2-1,2,1,3,1,H,1,0,0,0
+2016-11-05,2016,10,Kardemir Karabukspor,Bursaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-11-05,2016,10,Alanyaspor,Gaziantepspor,4-3,4,3,T1,1,7,1,H,1-2,1,2,3,-1,A,1,0,0,0
+2016-11-06,2016,10,Caykur Rizespor,Adanaspor,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,0,0
+2016-11-06,2016,10,Osmanlispor FK,Kayserispor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-11-06,2016,10,Akhisarspor,Fenerbahce,1-3,1,3,T1,1,4,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-11-06,2016,10,Konyaspor,Kasimpasa,2-1,2,1,T1,1,3,1,H,2-0,2,0,2,2,H,1,0,0,0
+2016-11-19,2016,11,Gaziantepspor,Konyaspor,0-3,0,3,T1,1,3,-3,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-11-19,2016,11,Bursaspor,Akhisarspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-11-19,2016,11,Osmanlispor FK,Alanyaspor,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,1,0,0,0
+2016-11-19,2016,11,Adanaspor,Besiktas,1-2,1,2,T1,1,3,-1,A,0-2,0,2,2,-2,A,1,0,1,0
+2016-11-20,2016,11,Kasimpasa,Kardemir Karabukspor,2-2,2,2,T1,1,4,0,D,1-2,1,2,3,-1,A,1,0,0,0
+2016-11-20,2016,11,Kayserispor,Genclerbirligi,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,0
+2016-11-20,2016,11,Fenerbahce,Galatasaray,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2016-11-21,2016,11,Basaksehir FK,Caykur Rizespor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2016-11-21,2016,11,Trabzonspor,Antalyaspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-11-25,2016,12,Alanyaspor,Kayserispor,3-0,3,0,T1,1,3,3,H,0-0,0,0,0,0,D,1,0,0,1
+2016-11-25,2016,12,Galatasaray,Bursaspor,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,0,0
+2016-11-26,2016,12,Antalyaspor,Adanaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2016-11-26,2016,12,Besiktas,Basaksehir FK,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2016-11-26,2016,12,Akhisarspor,Kasimpasa,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2016-11-26,2016,12,Kardemir Karabukspor,Gaziantepspor,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,1,0,0,1
+2016-11-27,2016,12,Genclerbirligi,Trabzonspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,1,0
+2016-11-27,2016,12,Caykur Rizespor,Fenerbahce,1-5,1,5,T1,1,6,-4,A,1-3,1,3,4,-2,A,1,0,1,0
+2016-11-28,2016,12,Konyaspor,Osmanlispor FK,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,1
+2016-12-03,2016,13,Basaksehir FK,Antalyaspor,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,1,1
+2016-12-03,2016,13,Fenerbahce,Besiktas,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-12-04,2016,13,Alanyaspor,Konyaspor,2-3,2,3,T1,1,5,-1,A,0-2,0,2,2,-2,A,1,0,0,1
+2016-12-04,2016,13,Gaziantepspor,Akhisarspor,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2016-12-04,2016,13,Osmanlispor FK,Kardemir Karabukspor,2-1,2,1,T1,1,3,1,H,2-1,2,1,3,1,H,1,0,0,0
+2016-12-04,2016,13,Adanaspor,Genclerbirligi,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-12-04,2016,13,Kasimpasa,Galatasaray,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,1,0
+2016-12-05,2016,13,Kayserispor,Trabzonspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-12-05,2016,13,Bursaspor,Caykur Rizespor,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,0
+2016-12-09,2016,14,Trabzonspor,Adanaspor,4-1,4,1,T1,1,5,3,H,1-1,1,1,2,0,D,1,0,0,1
+2016-12-10,2016,14,Genclerbirligi,Basaksehir FK,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-12-10,2016,14,Besiktas,Bursaspor,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,1
+2016-12-10,2016,14,Caykur Rizespor,Kasimpasa,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,1
+2016-12-11,2016,14,Kardemir Karabukspor,Alanyaspor,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-12-11,2016,14,Akhisarspor,Osmanlispor FK,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2016-12-11,2016,14,Konyaspor,Kayserispor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2016-12-11,2016,14,Galatasaray,Gaziantepspor,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,1,0,0,1
+2016-12-12,2016,14,Antalyaspor,Fenerbahce,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2016-12-17,2016,15,Basaksehir FK,Trabzonspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2016-12-17,2016,15,Kasimpasa,Besiktas,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,1,0,0,0
+2016-12-18,2016,15,Kardemir Karabukspor,Konyaspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2016-12-18,2016,15,Gaziantepspor,Caykur Rizespor,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,1
+2016-12-18,2016,15,Adanaspor,Kayserispor,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,1,0,0,0
+2016-12-18,2016,15,Alanyaspor,Akhisarspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2016-12-18,2016,15,Osmanlispor FK,Galatasaray,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,0,0
+2016-12-19,2016,15,Bursaspor,Antalyaspor,2-1,2,1,T1,1,3,1,H,2-1,2,1,3,1,H,1,0,0,0
+2016-12-19,2016,15,Fenerbahce,Genclerbirligi,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2016-12-24,2016,16,Besiktas,Gaziantepspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2016-12-24,2016,16,Adanaspor,Basaksehir FK,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2016-12-25,2016,16,Kayserispor,Kardemir Karabukspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,1
+2016-12-25,2016,16,Antalyaspor,Kasimpasa,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,0
+2016-12-25,2016,16,Caykur Rizespor,Osmanlispor FK,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2016-12-25,2016,16,Akhisarspor,Konyaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2016-12-25,2016,16,Galatasaray,Alanyaspor,5-1,5,1,T1,1,6,4,H,2-1,2,1,3,1,H,1,0,0,1
+2016-12-26,2016,16,Trabzonspor,Fenerbahce,0-3,0,3,T1,1,3,-3,A,0-2,0,2,2,-2,A,1,0,1,0
+2016-12-26,2016,16,Genclerbirligi,Bursaspor,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,0,0
+2017-01-13,2016,17,Bursaspor,Trabzonspor,1-2,1,2,T1,1,3,-1,A,1-2,1,2,3,-1,A,1,0,0,1
+2017-01-14,2016,17,Alanyaspor,Caykur Rizespor,2-3,2,3,T1,1,5,-1,A,0-2,0,2,2,-2,A,1,0,1,0
+2017-01-14,2016,17,Kardemir Karabukspor,Akhisarspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2017-01-14,2016,17,Basaksehir FK,Kayserispor,5-0,5,0,T1,1,5,5,H,2-0,2,0,2,2,H,1,0,0,0
+2017-01-14,2016,17,Konyaspor,Galatasaray,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,1,0
+2017-01-15,2016,17,Fenerbahce,Adanaspor,2-2,2,2,T1,1,4,0,D,1-2,1,2,3,-1,A,1,0,0,0
+2017-01-15,2016,17,Kasimpasa,Genclerbirligi,3-0,3,0,T1,1,3,3,H,3-0,3,0,3,3,H,1,0,0,1
+2017-01-15,2016,17,Gaziantepspor,Antalyaspor,0-3,0,3,T1,1,3,-3,A,0-2,0,2,2,-2,A,1,0,1,0
+2017-01-16,2016,17,Osmanlispor FK,Besiktas,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2017-01-21,2016,18,Akhisarspor,Kayserispor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-01-21,2016,18,Konyaspor,Caykur Rizespor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2017-01-21,2016,18,Kardemir Karabukspor,Galatasaray,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,1
+2017-01-21,2016,18,Bursaspor,Adanaspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2017-01-22,2016,18,Kasimpasa,Trabzonspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2017-01-22,2016,18,Osmanlispor FK,Antalyaspor,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2017-01-22,2016,18,Fenerbahce,Basaksehir FK,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2017-01-23,2016,18,Alanyaspor,Besiktas,1-4,1,4,T1,1,5,-3,A,0-2,0,2,2,-2,A,1,0,0,0
+2017-01-28,2016,19,Caykur Rizespor,Kardemir Karabukspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,1,0
+2017-01-28,2016,19,Antalyaspor,Alanyaspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2017-01-28,2016,19,Galatasaray,Akhisarspor,6-0,6,0,T1,1,6,6,H,4-0,4,0,4,4,H,1,0,0,0
+2017-01-29,2016,19,Genclerbirligi,Osmanlispor FK,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2017-01-29,2016,19,Basaksehir FK,Bursaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2017-01-29,2016,19,Trabzonspor,Gaziantepspor,4-0,4,0,T1,1,4,4,H,2-0,2,0,2,2,H,1,0,0,0
+2017-01-29,2016,19,Kayserispor,Fenerbahce,4-1,4,1,T1,1,5,3,H,1-1,1,1,2,0,D,1,0,0,0
+2017-01-30,2016,19,Adanaspor,Kasimpasa,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2017-01-30,2016,19,Besiktas,Konyaspor,5-1,5,1,T1,1,6,4,H,2-0,2,0,2,2,H,1,0,0,0
+2017-02-10,2016,20,Kardemir Karabukspor,Besiktas,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,0
+2017-02-11,2016,20,Osmanlispor FK,Trabzonspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2017-02-11,2016,20,Alanyaspor,Genclerbirligi,3-0,3,0,T1,1,3,3,H,2-0,2,0,2,2,H,1,0,0,0
+2017-02-11,2016,20,Bursaspor,Fenerbahce,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,1,0
+2017-02-12,2016,20,Kasimpasa,Basaksehir FK,4-0,4,0,T1,1,4,4,H,2-0,2,0,2,2,H,1,0,0,0
+2017-02-12,2016,20,Galatasaray,Kayserispor,1-2,1,2,T1,1,3,-1,A,0-2,0,2,2,-2,A,1,0,0,0
+2017-02-12,2016,20,Konyaspor,Antalyaspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,2
+2017-02-12,2016,20,Akhisarspor,Caykur Rizespor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2017-02-13,2016,20,Gaziantepspor,Adanaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2017-02-17,2016,21,Kayserispor,Bursaspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,1
+2017-02-18,2016,21,Antalyaspor,Kardemir Karabukspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2017-02-18,2016,21,Basaksehir FK,Gaziantepspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-02-18,2016,21,Caykur Rizespor,Galatasaray,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2017-02-19,2016,21,Genclerbirligi,Konyaspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2017-02-19,2016,21,Fenerbahce,Kasimpasa,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-02-19,2016,21,Adanaspor,Osmanlispor FK,1-5,1,5,T1,1,6,-4,A,0-2,0,2,2,-2,A,1,0,0,0
+2017-02-19,2016,21,Besiktas,Akhisarspor,3-1,3,1,T1,1,4,2,H,2-0,2,0,2,2,H,1,0,0,0
+2017-02-20,2016,21,Trabzonspor,Alanyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-02-24,2016,22,Caykur Rizespor,Kayserispor,2-4,2,4,T1,1,6,-2,A,1-2,1,2,3,-1,A,1,0,1,0
+2017-02-24,2016,22,Kasimpasa,Bursaspor,4-0,4,0,T1,1,4,4,H,1-0,1,0,1,1,H,1,0,0,1
+2017-02-25,2016,22,Alanyaspor,Adanaspor,4-1,4,1,T1,1,5,3,H,2-0,2,0,2,2,H,1,0,0,0
+2017-02-25,2016,22,Akhisarspor,Antalyaspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2017-02-25,2016,22,Konyaspor,Trabzonspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-02-26,2016,22,Gaziantepspor,Fenerbahce,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2017-02-26,2016,22,Kardemir Karabukspor,Genclerbirligi,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2017-02-26,2016,22,Osmanlispor FK,Basaksehir FK,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,1
+2017-02-27,2016,22,Galatasaray,Besiktas,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2017-03-03,2016,23,Trabzonspor,Kardemir Karabukspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2017-03-04,2016,23,Bursaspor,Gaziantepspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2017-03-04,2016,23,Besiktas,Caykur Rizespor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2017-03-05,2016,23,Basaksehir FK,Alanyaspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2017-03-05,2016,23,Adanaspor,Konyaspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2017-03-05,2016,23,Fenerbahce,Osmanlispor FK,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,1
+2017-03-05,2016,23,Kayserispor,Kasimpasa,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,0,0
+2017-03-06,2016,23,Genclerbirligi,Akhisarspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2017-03-06,2016,23,Antalyaspor,Galatasaray,2-3,2,3,T1,1,5,-1,A,1-2,1,2,3,-1,A,1,0,0,1
+2017-03-10,2016,24,Alanyaspor,Fenerbahce,2-3,2,3,T1,1,5,-1,A,2-2,2,2,4,0,D,1,0,0,0
+2017-03-11,2016,24,Gaziantepspor,Kasimpasa,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,0
+2017-03-11,2016,24,Kardemir Karabukspor,Adanaspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2017-03-11,2016,24,Osmanlispor FK,Bursaspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2017-03-11,2016,24,Galatasaray,Genclerbirligi,3-2,3,2,T1,1,5,1,H,2-1,2,1,3,1,H,1,0,0,0
+2017-03-12,2016,24,Besiktas,Kayserispor,2-2,2,2,T1,1,4,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-03-12,2016,24,Konyaspor,Basaksehir FK,0-3,0,3,T1,1,3,-3,A,0-1,0,1,1,-1,A,1,0,0,0
+2017-03-12,2016,24,Caykur Rizespor,Antalyaspor,1-2,1,2,T1,1,3,-1,A,0-2,0,2,2,-2,A,1,0,1,0
+2017-03-13,2016,24,Akhisarspor,Trabzonspor,1-3,1,3,T1,1,4,-2,A,1-0,1,0,1,1,H,1,0,0,0
+2017-03-17,2016,25,Fenerbahce,Konyaspor,2-3,2,3,T1,1,5,-1,A,1-2,1,2,3,-1,A,1,0,0,0
+2017-03-18,2016,25,Trabzonspor,Galatasaray,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,1,0
+2017-03-18,2016,25,Kayserispor,Gaziantepspor,3-4,3,4,T1,1,7,-1,A,2-2,2,2,4,0,D,1,0,0,0
+2017-03-18,2016,25,Adanaspor,Akhisarspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2017-03-18,2016,25,Kasimpasa,Osmanlispor FK,3-2,3,2,T1,1,5,1,H,2-2,2,2,4,0,D,1,0,0,0
+2017-03-19,2016,25,Genclerbirligi,Caykur Rizespor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2017-03-19,2016,25,Basaksehir FK,Kardemir Karabukspor,3-3,3,3,T1,1,6,0,D,1-1,1,1,2,0,D,1,0,0,0
+2017-03-19,2016,25,Bursaspor,Alanyaspor,1-3,1,3,T1,1,4,-2,A,1-1,1,1,2,0,D,1,0,0,0
+2017-03-19,2016,25,Antalyaspor,Besiktas,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,1
+2017-04-01,2016,26,Akhisarspor,Basaksehir FK,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,0
+2017-04-01,2016,26,Alanyaspor,Kasimpasa,3-1,3,1,T1,1,4,2,H,2-0,2,0,2,2,H,1,0,0,0
+2017-04-01,2016,26,Kardemir Karabukspor,Fenerbahce,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2017-04-01,2016,26,Antalyaspor,Kayserispor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,1,1
+2017-04-02,2016,26,Caykur Rizespor,Trabzonspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2017-04-02,2016,26,Osmanlispor FK,Gaziantepspor,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2017-04-02,2016,26,Konyaspor,Bursaspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2017-04-02,2016,26,Besiktas,Genclerbirligi,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2017-04-03,2016,26,Galatasaray,Adanaspor,4-0,4,0,T1,1,4,4,H,1-0,1,0,1,1,H,1,0,0,0
+2017-04-07,2016,27,Bursaspor,Kardemir Karabukspor,3-0,3,0,T1,1,3,3,H,0-0,0,0,0,0,D,1,0,0,0
+2017-04-08,2016,27,Gaziantepspor,Alanyaspor,2-3,2,3,T1,1,5,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2017-04-08,2016,27,Trabzonspor,Besiktas,3-4,3,4,T1,1,7,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2017-04-08,2016,27,Genclerbirligi,Antalyaspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2017-04-09,2016,27,Kayserispor,Osmanlispor FK,1-4,1,4,T1,1,5,-3,A,1-2,1,2,3,-1,A,1,0,0,0
+2017-04-09,2016,27,Fenerbahce,Akhisarspor,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,1,0,0,0
+2017-04-09,2016,27,Adanaspor,Caykur Rizespor,1-3,1,3,T1,1,4,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2017-04-10,2016,27,Kasimpasa,Konyaspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2017-04-10,2016,27,Basaksehir FK,Galatasaray,4-0,4,0,T1,1,4,4,H,2-0,2,0,2,2,H,1,0,0,0
+2017-04-12,2016,18,Gaziantepspor,Genclerbirligi,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2017-04-21,2016,28,Konyaspor,Gaziantepspor,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2017-04-21,2016,28,Kardemir Karabukspor,Kasimpasa,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-04-22,2016,28,Antalyaspor,Trabzonspor,0-3,0,3,T1,1,3,-3,A,0-0,0,0,0,0,D,1,0,0,0
+2017-04-22,2016,28,Genclerbirligi,Kayserispor,2-1,2,1,T1,1,3,1,H,2-1,2,1,3,1,H,1,0,0,0
+2017-04-22,2016,28,Alanyaspor,Osmanlispor FK,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2017-04-22,2016,28,Caykur Rizespor,Basaksehir FK,3-3,3,3,T1,1,6,0,D,1-1,1,1,2,0,D,1,0,1,0
+2017-04-23,2016,28,Akhisarspor,Bursaspor,5-1,5,1,T1,1,6,4,H,4-1,4,1,5,3,H,1,0,0,0
+2017-04-23,2016,28,Galatasaray,Fenerbahce,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2017-04-24,2016,28,Besiktas,Adanaspor,3-2,3,2,T1,1,5,1,H,1-1,1,1,2,0,D,1,0,0,0
+2017-04-28,2016,29,Gaziantepspor,Kardemir Karabukspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-04-29,2016,29,Kayserispor,Alanyaspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,1
+2017-04-29,2016,29,Trabzonspor,Genclerbirligi,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,1
+2017-04-30,2016,29,Basaksehir FK,Besiktas,3-1,3,1,T1,1,4,2,H,3-0,3,0,3,3,H,1,0,0,0
+2017-04-30,2016,29,Adanaspor,Antalyaspor,2-5,2,5,T1,1,7,-3,A,0-3,0,3,3,-3,A,1,0,0,0
+2017-04-30,2016,29,Kasimpasa,Akhisarspor,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,0
+2017-04-30,2016,29,Fenerbahce,Caykur Rizespor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,1
+2017-05-01,2016,29,Bursaspor,Galatasaray,0-5,0,5,T1,1,5,-5,A,0-2,0,2,2,-2,A,1,0,0,0
+2017-05-01,2016,29,Osmanlispor FK,Konyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-05-05,2016,30,Antalyaspor,Basaksehir FK,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2017-05-06,2016,30,Genclerbirligi,Adanaspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2017-05-06,2016,30,Trabzonspor,Kayserispor,2-3,2,3,T1,1,5,-1,A,2-2,2,2,4,0,D,1,0,0,0
+2017-05-06,2016,30,Galatasaray,Kasimpasa,1-3,1,3,T1,1,4,-2,A,0-1,0,1,1,-1,A,0,0,1,0
+2017-05-06,2016,30,Konyaspor,Alanyaspor,2-3,2,3,T1,1,5,-1,A,1-1,1,1,2,0,D,1,0,1,0
+2017-05-07,2016,30,Besiktas,Fenerbahce,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,2
+2017-05-07,2016,30,Caykur Rizespor,Bursaspor,6-0,6,0,T1,1,6,6,H,4-0,4,0,4,4,H,1,0,0,0
+2017-05-08,2016,30,Akhisarspor,Gaziantepspor,6-0,6,0,T1,1,6,6,H,1-0,1,0,1,1,H,1,0,0,0
+2017-05-08,2016,30,Kardemir Karabukspor,Osmanlispor FK,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2017-05-12,2016,31,Kasimpasa,Caykur Rizespor,4-2,4,2,T1,1,6,2,H,0-0,0,0,0,0,D,1,0,0,1
+2017-05-12,2016,31,Kayserispor,Konyaspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2017-05-13,2016,31,Basaksehir FK,Genclerbirligi,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,1,0,0,0
+2017-05-13,2016,31,Fenerbahce,Antalyaspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2017-05-13,2016,31,Adanaspor,Trabzonspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,1,0
+2017-05-14,2016,31,Alanyaspor,Kardemir Karabukspor,4-2,4,2,T1,1,6,2,H,1-1,1,1,2,0,D,1,0,0,0
+2017-05-14,2016,31,Osmanlispor FK,Akhisarspor,0-4,0,4,T1,1,4,-4,A,0-1,0,1,1,-1,A,1,0,0,0
+2017-05-14,2016,31,Gaziantepspor,Galatasaray,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2017-05-15,2016,31,Bursaspor,Besiktas,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,0
+2017-05-19,2016,32,Galatasaray,Osmanlispor FK,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,1,0,0,0
+2017-05-20,2016,32,Caykur Rizespor,Gaziantepspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2017-05-20,2016,32,Kayserispor,Adanaspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2017-05-20,2016,32,Antalyaspor,Bursaspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2017-05-20,2016,32,Besiktas,Kasimpasa,4-1,4,1,T1,1,5,3,H,2-1,2,1,3,1,H,1,0,0,0
+2017-05-21,2016,32,Konyaspor,Kardemir Karabukspor,3-0,3,0,T1,1,3,3,H,2-0,2,0,2,2,H,1,0,0,0
+2017-05-21,2016,32,Trabzonspor,Basaksehir FK,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-05-22,2016,32,Akhisarspor,Alanyaspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2017-05-22,2016,32,Genclerbirligi,Fenerbahce,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2017-05-27,2016,33,Basaksehir FK,Adanaspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,1,0
+2017-05-27,2016,33,Fenerbahce,Trabzonspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2017-05-27,2016,33,Kasimpasa,Antalyaspor,0-3,0,3,T1,1,3,-3,A,0-1,0,1,1,-1,A,1,0,0,0
+2017-05-27,2016,33,Konyaspor,Akhisarspor,0-3,0,3,T1,1,3,-3,A,0-2,0,2,2,-2,A,1,0,0,0
+2017-05-28,2016,33,Osmanlispor FK,Caykur Rizespor,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2017-05-28,2016,33,Bursaspor,Genclerbirligi,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2017-05-28,2016,33,Kardemir Karabukspor,Kayserispor,2-2,2,2,T1,1,4,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2017-05-28,2016,33,Gaziantepspor,Besiktas,0-4,0,4,T1,1,4,-4,A,0-2,0,2,2,-2,A,1,0,0,0
+2017-05-29,2016,33,Alanyaspor,Galatasaray,2-3,2,3,T1,1,5,-1,A,1-3,1,3,4,-2,A,1,0,0,0
+2017-06-02,2016,34,Antalyaspor,Gaziantepspor,4-1,4,1,T1,1,5,3,H,2-1,2,1,3,1,H,1,0,0,0
+2017-06-02,2016,34,Genclerbirligi,Kasimpasa,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2017-06-02,2016,34,Akhisarspor,Kardemir Karabukspor,2-3,2,3,T1,1,5,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2017-06-03,2016,34,Kayserispor,Basaksehir FK,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2017-06-03,2016,34,Adanaspor,Fenerbahce,1-3,1,3,T1,1,4,-2,A,1-2,1,2,3,-1,A,1,0,0,0
+2017-06-03,2016,34,Galatasaray,Konyaspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2017-06-03,2016,34,Caykur Rizespor,Alanyaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2017-06-03,2016,34,Trabzonspor,Bursaspor,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2017-06-03,2016,34,Besiktas,Osmanlispor FK,4-0,4,0,T1,1,4,4,H,2-0,2,0,2,2,H,1,0,0,0
+2017-08-11,2017,1,Basaksehir FK,Bursaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2017-08-12,2017,1,Alanyaspor,Kasimpasa,1-3,1,3,T1,1,4,-2,A,1-2,1,2,3,-1,A,1,0,0,0
+2017-08-12,2017,1,Goztepe,Fenerbahce,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,0,0,0,0
+2017-08-12,2017,1,Genclerbirligi,Kardemir Karabukspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2017-08-12,2017,1,Akhisarspor,Sivasspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2017-08-13,2017,1,Yeni Malatyaspor,Osmanlispor FK,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,0,0,0,1
+2017-08-13,2017,1,Trabzonspor,Konyaspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2017-08-13,2017,1,Besiktas,Antalyaspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,0,0,0,0
+2017-08-14,2017,1,Galatasaray,Kayserispor,4-1,4,1,T1,1,5,3,H,3-1,3,1,4,2,H,1,0,0,1
+2017-08-18,2017,2,Kasimpasa,Besiktas,2-2,2,2,T1,1,4,0,D,1-2,1,2,3,-1,A,1,0,0,0
+2017-08-19,2017,2,Osmanlispor FK,Galatasaray,1-3,1,3,T1,1,4,-2,A,0-2,0,2,2,-2,A,1,0,0,0
+2017-08-19,2017,2,Sivasspor,Yeni Malatyaspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2017-08-19,2017,2,Kardemir Karabukspor,Basaksehir FK,3-1,3,1,T1,1,4,2,H,2-1,2,1,3,1,H,1,0,0,0
+2017-08-19,2017,2,Bursaspor,Alanyaspor,3-2,3,2,T1,1,5,1,H,2-0,2,0,2,2,H,1,0,0,0
+2017-08-20,2017,2,Kayserispor,Goztepe,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2017-08-20,2017,2,Fenerbahce,Trabzonspor,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,0,0
+2017-08-20,2017,2,Antalyaspor,Akhisarspor,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,0,0
+2017-08-21,2017,2,Konyaspor,Genclerbirligi,3-0,3,0,T1,1,3,3,H,2-0,2,0,2,2,H,0,0,0,0
+2017-08-25,2017,3,Galatasaray,Sivasspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2017-08-25,2017,3,Alanyaspor,Kardemir Karabukspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2017-08-26,2017,3,Besiktas,Bursaspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2017-08-26,2017,3,Yeni Malatyaspor,Antalyaspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2017-08-26,2017,3,Kayserispor,Osmanlispor FK,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,1,1
+2017-08-26,2017,3,Goztepe,Trabzonspor,3-2,3,2,T1,1,5,1,H,2-2,2,2,4,0,D,0,0,0,0
+2017-08-27,2017,3,Genclerbirligi,Fenerbahce,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,2,0
+2017-08-27,2017,3,Basaksehir FK,Konyaspor,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,1
+2017-08-27,2017,3,Akhisarspor,Kasimpasa,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,1,0
+2017-09-09,2017,4,Fenerbahce,Basaksehir FK,2-3,2,3,T1,1,5,-1,A,1-2,1,2,3,-1,A,1,0,0,0
+2017-09-09,2017,4,Konyaspor,Alanyaspor,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,0,0,0,0
+2017-09-09,2017,4,Sivasspor,Kayserispor,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2017-09-09,2017,4,Kardemir Karabukspor,Besiktas,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,1
+2017-09-10,2017,4,Osmanlispor FK,Goztepe,0-2,0,2,T1,1,2,-2,A,0-2,0,2,2,-2,A,1,0,0,0
+2017-09-10,2017,4,Trabzonspor,Genclerbirligi,3-1,3,1,T1,1,4,2,H,0-1,0,1,1,-1,A,1,0,0,0
+2017-09-10,2017,4,Bursaspor,Akhisarspor,3-0,3,0,T1,1,3,3,H,0-0,0,0,0,0,D,1,0,0,0
+2017-09-10,2017,4,Antalyaspor,Galatasaray,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2017-09-11,2017,4,Kasimpasa,Yeni Malatyaspor,3-2,3,2,T1,1,5,1,H,1-1,1,1,2,0,D,1,0,0,0
+2017-09-15,2017,5,Kayserispor,Antalyaspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2017-09-16,2017,5,Galatasaray,Kasimpasa,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2017-09-16,2017,5,Yeni Malatyaspor,Bursaspor,2-4,2,4,T1,1,6,-2,A,0-2,0,2,2,-2,A,1,0,0,0
+2017-09-16,2017,5,Akhisarspor,Kardemir Karabukspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2017-09-17,2017,5,Basaksehir FK,Trabzonspor,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,0,0
+2017-09-17,2017,5,Osmanlispor FK,Sivasspor,2-4,2,4,T1,1,6,-2,A,2-4,2,4,6,-2,A,1,0,0,0
+2017-09-17,2017,5,Goztepe,Genclerbirligi,3-2,3,2,T1,1,5,1,H,2-1,2,1,3,1,H,1,0,0,0
+2017-09-17,2017,5,Alanyaspor,Fenerbahce,1-4,1,4,T1,1,5,-3,A,1-2,1,2,3,-1,A,1,0,0,0
+2017-09-18,2017,5,Besiktas,Konyaspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2017-09-22,2017,6,Trabzonspor,Alanyaspor,3-4,3,4,T1,1,7,-1,A,3-1,3,1,4,2,H,1,0,0,0
+2017-09-23,2017,6,Genclerbirligi,Basaksehir FK,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2017-09-23,2017,6,Fenerbahce,Besiktas,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,2,3
+2017-09-23,2017,6,Konyaspor,Akhisarspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,0,0,0,0
+2017-09-24,2017,6,Sivasspor,Goztepe,2-3,2,3,T1,1,5,-1,A,1-2,1,2,3,-1,A,1,0,1,0
+2017-09-24,2017,6,Kardemir Karabukspor,Yeni Malatyaspor,2-4,2,4,T1,1,6,-2,A,0-3,0,3,3,-3,A,1,0,0,0
+2017-09-24,2017,6,Kasimpasa,Kayserispor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2017-09-24,2017,6,Bursaspor,Galatasaray,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2017-09-25,2017,6,Antalyaspor,Osmanlispor FK,3-0,3,0,T1,1,3,3,H,2-0,2,0,2,2,H,1,0,1,0
+2017-09-29,2017,7,Akhisarspor,Fenerbahce,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,2
+2017-09-30,2017,7,Galatasaray,Kardemir Karabukspor,3-2,3,2,T1,1,5,1,H,2-1,2,1,3,1,H,1,0,0,0
+2017-09-30,2017,7,Kayserispor,Bursaspor,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,0,0
+2017-09-30,2017,7,Sivasspor,Antalyaspor,3-1,3,1,T1,1,4,2,H,3-0,3,0,3,3,H,1,0,1,0
+2017-09-30,2017,7,Osmanlispor FK,Kasimpasa,3-0,3,0,T1,1,3,3,H,2-0,2,0,2,2,H,1,0,0,0
+2017-10-01,2017,7,Yeni Malatyaspor,Konyaspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,1,0
+2017-10-01,2017,7,Alanyaspor,Genclerbirligi,4-1,4,1,T1,1,5,3,H,2-0,2,0,2,2,H,1,0,1,0
+2017-10-01,2017,7,Goztepe,Basaksehir FK,1-2,1,2,T1,1,3,-1,A,0-2,0,2,2,-2,A,1,0,0,0
+2017-10-01,2017,7,Besiktas,Trabzonspor,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,0,0
+2017-10-13,2017,8,Genclerbirligi,Besiktas,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,1
+2017-10-14,2017,8,Antalyaspor,Goztepe,1-3,1,3,T1,1,4,-2,A,1-2,1,2,3,-1,A,1,0,1,0
+2017-10-14,2017,8,Konyaspor,Galatasaray,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,0,0,0,0
+2017-10-14,2017,8,Kardemir Karabukspor,Kayserispor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,1,0
+2017-10-14,2017,8,Basaksehir FK,Alanyaspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2017-10-15,2017,8,Fenerbahce,Yeni Malatyaspor,3-1,3,1,T1,1,4,2,H,3-0,3,0,3,3,H,1,0,0,0
+2017-10-15,2017,8,Trabzonspor,Akhisarspor,1-6,1,6,T1,1,7,-5,A,0-3,0,3,3,-3,A,1,0,0,0
+2017-10-15,2017,8,Kasimpasa,Sivasspor,2-3,2,3,T1,1,5,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2017-10-16,2017,8,Bursaspor,Osmanlispor FK,3-1,3,1,T1,1,4,2,H,2-1,2,1,3,1,H,1,0,1,0
+2017-10-20,2017,9,Antalyaspor,Kasimpasa,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,1
+2017-10-20,2017,9,Goztepe,Alanyaspor,3-3,3,3,T1,1,6,0,D,1-0,1,0,1,1,H,1,0,0,0
+2017-10-21,2017,9,Osmanlispor FK,Kardemir Karabukspor,3-0,3,0,T1,1,3,3,H,0-0,0,0,0,0,D,1,0,0,0
+2017-10-21,2017,9,Akhisarspor,Genclerbirligi,3-3,3,3,T1,1,6,0,D,1-3,1,3,4,-2,A,1,0,0,1
+2017-10-21,2017,9,Yeni Malatyaspor,Trabzonspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,2
+2017-10-22,2017,9,Sivasspor,Bursaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-10-22,2017,9,Kayserispor,Konyaspor,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,0
+2017-10-22,2017,9,Galatasaray,Fenerbahce,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,1,0
+2017-10-23,2017,9,Besiktas,Basaksehir FK,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-10-27,2017,10,Kasimpasa,Goztepe,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,1,0,0,0
+2017-10-28,2017,10,Genclerbirligi,Yeni Malatyaspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,1,0
+2017-10-28,2017,10,Basaksehir FK,Akhisarspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2017-10-28,2017,10,Alanyaspor,Besiktas,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2017-10-29,2017,10,Bursaspor,Antalyaspor,4-0,4,0,T1,1,4,4,H,1-0,1,0,1,1,H,1,0,0,1
+2017-10-29,2017,10,Trabzonspor,Galatasaray,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,1,2
+2017-10-29,2017,10,Konyaspor,Osmanlispor FK,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,0,0,0,0
+2017-10-29,2017,10,Kardemir Karabukspor,Sivasspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2017-10-30,2017,10,Fenerbahce,Kayserispor,3-3,3,3,T1,1,6,0,D,1-1,1,1,2,0,D,1,0,0,0
+2017-11-03,2017,11,Galatasaray,Genclerbirligi,5-1,5,1,T1,1,6,4,H,2-0,2,0,2,2,H,1,0,0,0
+2017-11-04,2017,11,Kasimpasa,Bursaspor,2-2,2,2,T1,1,4,0,D,2-0,2,0,2,2,H,1,0,1,0
+2017-11-04,2017,11,Kayserispor,Trabzonspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-11-04,2017,11,Antalyaspor,Kardemir Karabukspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,1
+2017-11-04,2017,11,Osmanlispor FK,Fenerbahce,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2017-11-05,2017,11,Goztepe,Besiktas,1-3,1,3,T1,1,4,-2,A,0-1,0,1,1,-1,A,1,0,1,0
+2017-11-05,2017,11,Sivasspor,Konyaspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2017-11-05,2017,11,Yeni Malatyaspor,Basaksehir FK,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2017-11-05,2017,11,Akhisarspor,Alanyaspor,0-4,0,4,T1,1,4,-4,A,0-2,0,2,2,-2,A,1,0,0,0
+2017-11-17,2017,12,Besiktas,Akhisarspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,1
+2017-11-18,2017,12,Bursaspor,Goztepe,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-11-18,2017,12,Konyaspor,Antalyaspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-11-18,2017,12,Basaksehir FK,Galatasaray,5-1,5,1,T1,1,6,4,H,2-0,2,0,2,2,H,1,0,0,0
+2017-11-19,2017,12,Trabzonspor,Osmanlispor FK,4-3,4,3,T1,1,7,1,H,2-2,2,2,4,0,D,1,0,0,0
+2017-11-19,2017,12,Genclerbirligi,Kayserispor,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2017-11-19,2017,12,Alanyaspor,Yeni Malatyaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2017-11-19,2017,12,Fenerbahce,Sivasspor,4-1,4,1,T1,1,5,3,H,1-0,1,0,1,1,H,1,0,0,1
+2017-11-20,2017,12,Kardemir Karabukspor,Kasimpasa,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,0
+2017-11-24,2017,13,Osmanlispor FK,Genclerbirligi,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2017-11-25,2017,13,Goztepe,Akhisarspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2017-11-25,2017,13,Yeni Malatyaspor,Besiktas,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-11-25,2017,13,Galatasaray,Alanyaspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2017-11-26,2017,13,Bursaspor,Kardemir Karabukspor,2-1,2,1,T1,1,3,1,H,2-0,2,0,2,2,H,1,0,0,0
+2017-11-26,2017,13,Sivasspor,Trabzonspor,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2017-11-26,2017,13,Kasimpasa,Konyaspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2017-11-26,2017,13,Antalyaspor,Fenerbahce,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2017-11-27,2017,13,Kayserispor,Basaksehir FK,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2017-12-02,2017,14,Akhisarspor,Yeni Malatyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-12-02,2017,14,Kardemir Karabukspor,Goztepe,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2017-12-02,2017,14,Besiktas,Galatasaray,3-0,3,0,T1,1,3,3,H,0-0,0,0,0,0,D,1,0,0,0
+2017-12-03,2017,14,Genclerbirligi,Sivasspor,4-0,4,0,T1,1,4,4,H,1-0,1,0,1,1,H,1,0,0,0
+2017-12-03,2017,14,Konyaspor,Bursaspor,0-3,0,3,T1,1,3,-3,A,0-3,0,3,3,-3,A,1,0,0,0
+2017-12-03,2017,14,Basaksehir FK,Osmanlispor FK,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2017-12-03,2017,14,Fenerbahce,Kasimpasa,4-2,4,2,T1,1,6,2,H,1-1,1,1,2,0,D,1,0,0,0
+2017-12-04,2017,14,Alanyaspor,Kayserispor,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,1,0
+2017-12-04,2017,14,Trabzonspor,Antalyaspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2017-12-08,2017,15,Bursaspor,Fenerbahce,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2017-12-09,2017,15,Kasimpasa,Trabzonspor,0-3,0,3,T1,1,3,-3,A,0-1,0,1,1,-1,A,1,0,0,0
+2017-12-09,2017,15,Yeni Malatyaspor,Goztepe,2-3,2,3,T1,1,5,-1,A,1-3,1,3,4,-2,A,1,0,0,0
+2017-12-09,2017,15,Antalyaspor,Genclerbirligi,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-12-09,2017,15,Galatasaray,Akhisarspor,4-2,4,2,T1,1,6,2,H,0-2,0,2,2,-2,A,1,0,1,1
+2017-12-10,2017,15,Osmanlispor FK,Alanyaspor,3-0,3,0,T1,1,3,3,H,3-0,3,0,3,3,H,1,0,0,0
+2017-12-10,2017,15,Sivasspor,Basaksehir FK,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,1,0
+2017-12-10,2017,15,Kayserispor,Besiktas,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,1,0
+2017-12-11,2017,15,Konyaspor,Kardemir Karabukspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2017-12-16,2017,16,Trabzonspor,Bursaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2017-12-16,2017,16,Alanyaspor,Sivasspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-12-16,2017,16,Genclerbirligi,Kasimpasa,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-12-17,2017,16,Akhisarspor,Kayserispor,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2017-12-17,2017,16,Basaksehir FK,Antalyaspor,4-1,4,1,T1,1,5,3,H,0-1,0,1,1,-1,A,1,0,0,0
+2017-12-17,2017,16,Yeni Malatyaspor,Galatasaray,2-1,2,1,T1,1,3,1,H,2-0,2,0,2,2,H,1,0,0,0
+2017-12-17,2017,16,Besiktas,Osmanlispor FK,5-1,5,1,T1,1,6,4,H,2-0,2,0,2,2,H,1,0,0,0
+2017-12-18,2017,16,Fenerbahce,Kardemir Karabukspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2017-12-18,2017,16,Goztepe,Konyaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2017-12-22,2017,17,Antalyaspor,Alanyaspor,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,0,0
+2017-12-23,2017,17,Konyaspor,Fenerbahce,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-12-23,2017,17,Bursaspor,Genclerbirligi,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-12-23,2017,17,Sivasspor,Besiktas,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2017-12-24,2017,17,Kardemir Karabukspor,Trabzonspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2017-12-24,2017,17,Kayserispor,Yeni Malatyaspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2017-12-24,2017,17,Kasimpasa,Basaksehir FK,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2017-12-24,2017,17,Galatasaray,Goztepe,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,0,0
+2017-12-25,2017,17,Osmanlispor FK,Akhisarspor,3-2,3,2,T1,1,5,1,H,1-1,1,1,2,0,D,1,0,0,1
+2018-01-19,2017,18,Kasimpasa,Alanyaspor,3-2,3,2,T1,1,5,1,H,1-2,1,2,3,-1,A,1,0,0,1
+2018-01-20,2017,18,Fenerbahce,Goztepe,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-01-20,2017,18,Osmanlispor FK,Yeni Malatyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-01-20,2017,18,Kardemir Karabukspor,Genclerbirligi,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,0
+2018-01-21,2017,18,Konyaspor,Trabzonspor,2-2,2,2,T1,1,4,0,D,0-0,0,0,0,0,D,1,0,1,1
+2018-01-21,2017,18,Sivasspor,Akhisarspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,1
+2018-01-21,2017,18,Bursaspor,Basaksehir FK,0-3,0,3,T1,1,3,-3,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-01-21,2017,18,Antalyaspor,Besiktas,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2018-01-22,2017,18,Kayserispor,Galatasaray,1-3,1,3,T1,1,4,-2,A,0-2,0,2,2,-2,A,1,0,0,0
+2018-01-26,2017,19,Genclerbirligi,Konyaspor,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,1,0,1,0
+2018-01-26,2017,19,Besiktas,Kasimpasa,2-1,2,1,T1,1,3,1,H,2-0,2,0,2,2,H,1,0,0,0
+2018-01-27,2017,19,Goztepe,Kayserispor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,2
+2018-01-27,2017,19,Galatasaray,Osmanlispor FK,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2018-01-27,2017,19,Alanyaspor,Bursaspor,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,0,0
+2018-01-28,2017,19,Yeni Malatyaspor,Sivasspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-01-28,2017,19,Akhisarspor,Antalyaspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2018-01-28,2017,19,Trabzonspor,Fenerbahce,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-01-29,2017,19,Basaksehir FK,Kardemir Karabukspor,5-0,5,0,T1,1,5,5,H,5-0,5,0,5,5,H,1,0,0,0
+2018-02-02,2017,20,Bursaspor,Besiktas,2-2,2,2,T1,1,4,0,D,2-1,2,1,3,1,H,1,0,0,0
+2018-02-03,2017,20,Fenerbahce,Genclerbirligi,2-2,2,2,T1,1,4,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2018-02-03,2017,20,Kardemir Karabukspor,Alanyaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-02-03,2017,20,Antalyaspor,Yeni Malatyaspor,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,0,1
+2018-02-04,2017,20,Sivasspor,Galatasaray,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-02-04,2017,20,Konyaspor,Basaksehir FK,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,1
+2018-02-04,2017,20,Osmanlispor FK,Kayserispor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-02-04,2017,20,Kasimpasa,Akhisarspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2018-02-05,2017,20,Trabzonspor,Goztepe,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-02-09,2017,21,Yeni Malatyaspor,Kasimpasa,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2018-02-10,2017,21,Genclerbirligi,Trabzonspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-02-10,2017,21,Goztepe,Osmanlispor FK,3-3,3,3,T1,1,6,0,D,2-1,2,1,3,1,H,1,0,0,0
+2018-02-10,2017,21,Besiktas,Kardemir Karabukspor,5-0,5,0,T1,1,5,5,H,2-0,2,0,2,2,H,1,0,0,0
+2018-02-11,2017,21,Basaksehir FK,Fenerbahce,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-02-11,2017,21,Alanyaspor,Konyaspor,1-2,1,2,T1,1,3,-1,A,1-2,1,2,3,-1,A,1,0,0,1
+2018-02-11,2017,21,Kayserispor,Sivasspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-02-11,2017,21,Akhisarspor,Bursaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-02-12,2017,21,Galatasaray,Antalyaspor,3-0,3,0,T1,1,3,3,H,3-0,3,0,3,3,H,1,0,1,0
+2018-02-16,2017,22,Konyaspor,Besiktas,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2018-02-17,2017,22,Antalyaspor,Kayserispor,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-02-17,2017,22,Sivasspor,Osmanlispor FK,3-2,3,2,T1,1,5,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-02-17,2017,22,Fenerbahce,Alanyaspor,3-0,3,0,T1,1,3,3,H,2-0,2,0,2,2,H,1,0,0,0
+2018-02-18,2017,22,Kasimpasa,Galatasaray,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2018-02-18,2017,22,Trabzonspor,Basaksehir FK,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-02-18,2017,22,Bursaspor,Yeni Malatyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-02-18,2017,22,Kardemir Karabukspor,Akhisarspor,0-3,0,3,T1,1,3,-3,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-02-19,2017,22,Genclerbirligi,Goztepe,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,1
+2018-02-23,2017,23,Galatasaray,Bursaspor,5-0,5,0,T1,1,5,5,H,2-0,2,0,2,2,H,1,0,0,1
+2018-02-23,2017,23,Akhisarspor,Konyaspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2018-02-24,2017,23,Kayserispor,Kasimpasa,3-2,3,2,T1,1,5,1,H,1-1,1,1,2,0,D,1,0,0,1
+2018-02-24,2017,23,Alanyaspor,Trabzonspor,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2018-02-25,2017,23,Besiktas,Fenerbahce,3-1,3,1,T1,1,4,2,H,0-1,0,1,1,-1,A,1,0,0,0
+2018-02-25,2017,23,Goztepe,Sivasspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-02-25,2017,23,Osmanlispor FK,Antalyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-02-25,2017,23,Yeni Malatyaspor,Kardemir Karabukspor,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,1,0,0,0
+2018-02-26,2017,23,Basaksehir FK,Genclerbirligi,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2018-03-02,2017,24,Bursaspor,Kayserispor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-03-03,2017,24,Kasimpasa,Osmanlispor FK,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2018-03-03,2017,24,Basaksehir FK,Goztepe,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2018-03-03,2017,24,Kardemir Karabukspor,Galatasaray,0-7,0,7,T1,1,7,-7,A,0-6,0,6,6,-6,A,1,0,0,0
+2018-03-04,2017,24,Genclerbirligi,Alanyaspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2018-03-04,2017,24,Konyaspor,Yeni Malatyaspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2018-03-04,2017,24,Fenerbahce,Akhisarspor,2-3,2,3,T1,1,5,-1,A,0-2,0,2,2,-2,A,1,0,0,0
+2018-03-04,2017,24,Antalyaspor,Sivasspor,1-4,1,4,T1,1,5,-3,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-03-05,2017,24,Trabzonspor,Besiktas,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,0
+2018-03-09,2017,25,Alanyaspor,Basaksehir FK,4-1,4,1,T1,1,5,3,H,1-0,1,0,1,1,H,1,0,1,1
+2018-03-10,2017,25,Sivasspor,Kasimpasa,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,0,0
+2018-03-10,2017,25,Osmanlispor FK,Bursaspor,2-1,2,1,T1,1,3,1,H,2-0,2,0,2,2,H,1,0,0,0
+2018-03-10,2017,25,Besiktas,Genclerbirligi,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-03-11,2017,25,Galatasaray,Konyaspor,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,1,0,0,0
+2018-03-11,2017,25,Goztepe,Antalyaspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,1
+2018-03-11,2017,25,Kayserispor,Kardemir Karabukspor,3-2,3,2,T1,1,5,1,H,1-1,1,1,2,0,D,1,0,0,1
+2018-03-11,2017,25,Yeni Malatyaspor,Fenerbahce,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-03-12,2017,25,Akhisarspor,Trabzonspor,1-3,1,3,T1,1,4,-2,A,0-1,0,1,1,-1,A,1,0,1,0
+2018-03-16,2017,26,Kardemir Karabukspor,Osmanlispor FK,0-4,0,4,T1,1,4,-4,A,0-2,0,2,2,-2,A,1,0,0,0
+2018-03-16,2017,26,Kasimpasa,Antalyaspor,2-3,2,3,T1,1,5,-1,A,0-1,0,1,1,-1,A,1,0,1,0
+2018-03-17,2017,26,Genclerbirligi,Akhisarspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2018-03-17,2017,26,Bursaspor,Sivasspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-03-17,2017,26,Fenerbahce,Galatasaray,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-03-18,2017,26,Konyaspor,Kayserispor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,1,1
+2018-03-18,2017,26,Alanyaspor,Goztepe,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-03-18,2017,26,Trabzonspor,Yeni Malatyaspor,4-1,4,1,T1,1,5,3,H,1-1,1,1,2,0,D,1,0,0,0
+2018-03-18,2017,26,Basaksehir FK,Besiktas,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,1,0
+2018-03-30,2017,27,Sivasspor,Kardemir Karabukspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-03-31,2017,27,Yeni Malatyaspor,Genclerbirligi,4-1,4,1,T1,1,5,3,H,1-1,1,1,2,0,D,1,0,0,0
+2018-03-31,2017,27,Antalyaspor,Bursaspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2018-03-31,2017,27,Besiktas,Alanyaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-04-01,2017,27,Galatasaray,Trabzonspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-04-01,2017,27,Akhisarspor,Basaksehir FK,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,1,0,1,0
+2018-04-01,2017,27,Osmanlispor FK,Konyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-04-01,2017,27,Goztepe,Kasimpasa,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,1,0
+2018-04-02,2017,27,Kayserispor,Fenerbahce,0-5,0,5,T1,1,5,-5,A,0-3,0,3,3,-3,A,1,0,0,0
+2018-04-06,2017,28,Basaksehir FK,Yeni Malatyaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-04-07,2017,28,Kardemir Karabukspor,Antalyaspor,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-04-07,2017,28,Trabzonspor,Kayserispor,4-0,4,0,T1,1,4,4,H,0-0,0,0,0,0,D,1,0,0,0
+2018-04-07,2017,28,Besiktas,Goztepe,5-1,5,1,T1,1,6,4,H,2-0,2,0,2,2,H,1,0,0,1
+2018-04-08,2017,28,Alanyaspor,Akhisarspor,3-1,3,1,T1,1,4,2,H,2-0,2,0,2,2,H,1,0,0,0
+2018-04-08,2017,28,Konyaspor,Sivasspor,5-0,5,0,T1,1,5,5,H,1-0,1,0,1,1,H,1,0,0,1
+2018-04-08,2017,28,Bursaspor,Kasimpasa,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-04-08,2017,28,Fenerbahce,Osmanlispor FK,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2018-04-09,2017,28,Genclerbirligi,Galatasaray,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-04-13,2017,29,Akhisarspor,Besiktas,0-3,0,3,T1,1,3,-3,A,0-2,0,2,2,-2,A,1,0,0,0
+2018-04-14,2017,29,Kasimpasa,Kardemir Karabukspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2018-04-14,2017,29,Yeni Malatyaspor,Alanyaspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-04-14,2017,29,Sivasspor,Fenerbahce,1-2,1,2,T1,1,3,-1,A,0-2,0,2,2,-2,A,1,0,0,0
+2018-04-15,2017,29,Galatasaray,Basaksehir FK,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2018-04-15,2017,29,Goztepe,Bursaspor,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-04-15,2017,29,Antalyaspor,Konyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-04-15,2017,29,Kayserispor,Genclerbirligi,3-2,3,2,T1,1,5,1,H,2-0,2,0,2,2,H,1,0,0,0
+2018-04-16,2017,29,Osmanlispor FK,Trabzonspor,3-3,3,3,T1,1,6,0,D,0-2,0,2,2,-2,A,1,0,0,0
+2018-04-20,2017,30,Basaksehir FK,Kayserispor,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,1,0,0,0
+2018-04-21,2017,30,Genclerbirligi,Osmanlispor FK,0-3,0,3,T1,1,3,-3,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-04-21,2017,30,Kardemir Karabukspor,Bursaspor,1-4,1,4,T1,1,5,-3,A,1-2,1,2,3,-1,A,1,0,1,0
+2018-04-21,2017,30,Trabzonspor,Sivasspor,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-04-21,2017,30,Alanyaspor,Galatasaray,2-3,2,3,T1,1,5,-1,A,1-2,1,2,3,-1,A,1,0,0,0
+2018-04-22,2017,30,Besiktas,Yeni Malatyaspor,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,0,0
+2018-04-22,2017,30,Konyaspor,Kasimpasa,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2018-04-22,2017,30,Akhisarspor,Goztepe,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2018-04-23,2017,30,Fenerbahce,Antalyaspor,4-1,4,1,T1,1,5,3,H,2-1,2,1,3,1,H,1,0,0,0
+2018-04-27,2017,31,Goztepe,Kardemir Karabukspor,5-0,5,0,T1,1,5,5,H,2-0,2,0,2,2,H,1,0,0,0
+2018-04-28,2017,31,Kayserispor,Alanyaspor,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,1,0,1,0
+2018-04-28,2017,31,Sivasspor,Genclerbirligi,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-04-28,2017,31,Antalyaspor,Trabzonspor,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2018-04-28,2017,31,Kasimpasa,Fenerbahce,1-4,1,4,T1,1,5,-3,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-04-29,2017,31,Galatasaray,Besiktas,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,1
+2018-04-29,2017,31,Yeni Malatyaspor,Akhisarspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-04-29,2017,31,Osmanlispor FK,Basaksehir FK,1-4,1,4,T1,1,5,-3,A,1-0,1,0,1,1,H,1,0,0,0
+2018-04-30,2017,31,Bursaspor,Konyaspor,2-1,2,1,T1,1,3,1,H,2-0,2,0,2,2,H,1,0,0,0
+2018-05-04,2017,32,Basaksehir FK,Sivasspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,2,0
+2018-05-05,2017,32,Kardemir Karabukspor,Konyaspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-05-05,2017,32,Alanyaspor,Osmanlispor FK,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2018-05-05,2017,32,Trabzonspor,Kasimpasa,2-5,2,5,T1,1,7,-3,A,1-3,1,3,4,-2,A,1,0,2,0
+2018-05-06,2017,32,Genclerbirligi,Antalyaspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2018-05-06,2017,32,Fenerbahce,Bursaspor,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,2
+2018-05-06,2017,32,Akhisarspor,Galatasaray,1-2,1,2,T1,1,3,-1,A,0-2,0,2,2,-2,A,1,0,1,0
+2018-05-07,2017,32,Besiktas,Kayserispor,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,1,0,1,1
+2018-05-07,2017,32,Goztepe,Yeni Malatyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-05-11,2017,33,Antalyaspor,Basaksehir FK,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-05-12,2017,33,Galatasaray,Yeni Malatyaspor,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,1,0,0,0
+2018-05-12,2017,33,Kasimpasa,Genclerbirligi,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,1,0,0,1
+2018-05-12,2017,33,Konyaspor,Goztepe,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,1
+2018-05-13,2017,33,Osmanlispor FK,Besiktas,2-3,2,3,T1,1,5,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2018-05-13,2017,33,Bursaspor,Trabzonspor,1-3,1,3,T1,1,4,-2,A,1-3,1,3,4,-2,A,1,0,0,0
+2018-05-13,2017,33,Sivasspor,Alanyaspor,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,0,0
+2018-05-14,2017,33,Kardemir Karabukspor,Fenerbahce,0-7,0,7,T1,1,7,-7,A,0-4,0,4,4,-4,A,1,0,0,0
+2018-05-14,2017,33,Kayserispor,Akhisarspor,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2018-05-18,2017,34,Trabzonspor,Kardemir Karabukspor,3-0,3,0,T1,1,3,3,H,0-0,0,0,0,0,D,1,0,0,0
+2018-05-18,2017,34,Genclerbirligi,Bursaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-05-18,2017,34,Alanyaspor,Antalyaspor,3-2,3,2,T1,1,5,1,H,1-1,1,1,2,0,D,1,0,0,0
+2018-05-18,2017,34,Yeni Malatyaspor,Kayserispor,3-2,3,2,T1,1,5,1,H,2-0,2,0,2,2,H,1,0,0,0
+2018-05-18,2017,34,Akhisarspor,Osmanlispor FK,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2018-05-19,2017,34,Besiktas,Sivasspor,5-1,5,1,T1,1,6,4,H,1-0,1,0,1,1,H,1,0,0,1
+2018-05-19,2017,34,Basaksehir FK,Kasimpasa,3-2,3,2,T1,1,5,1,H,2-2,2,2,4,0,D,1,0,0,0
+2018-05-19,2017,34,Fenerbahce,Konyaspor,3-2,3,2,T1,1,5,1,H,2-0,2,0,2,2,H,1,0,0,0
+2018-05-19,2017,34,Goztepe,Galatasaray,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2018-08-10,2018,1,MKE Ankaragucu,Galatasaray,1-3,1,3,T1,1,4,-2,A,1-2,1,2,3,-1,A,1,0,0,0
+2018-08-11,2018,1,Fenerbahce,Bursaspor,2-1,2,1,T1,1,3,1,H,2-1,2,1,3,1,H,1,0,0,0
+2018-08-11,2018,1,Caykur Rizespor,Kasimpasa,2-3,2,3,T1,1,5,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2018-08-11,2018,1,Sivasspor,Alanyaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-08-12,2018,1,Basaksehir FK,Trabzonspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2018-08-12,2018,1,Konyaspor,BB Erzurumspor,3-2,3,2,T1,1,5,1,H,2-1,2,1,3,1,H,1,0,0,0
+2018-08-12,2018,1,Goztepe,Yeni Malatyaspor,1-3,1,3,T1,1,4,-2,A,0-1,0,1,1,-1,A,1,0,2,1
+2018-08-12,2018,1,Besiktas,Akhisarspor,2-1,2,1,T1,1,3,1,H,2-0,2,0,2,2,H,1,0,0,0
+2018-08-13,2018,1,Kayserispor,Antalyaspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,1
+2018-08-17,2018,2,Trabzonspor,Sivasspor,3-1,3,1,T1,1,4,2,H,3-1,3,1,4,2,H,1,0,0,0
+2018-08-18,2018,2,Antalyaspor,Konyaspor,3-3,3,3,T1,1,6,0,D,1-2,1,2,3,-1,A,1,0,0,1
+2018-08-18,2018,2,Yeni Malatyaspor,Fenerbahce,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-08-18,2018,2,Bursaspor,Kayserispor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-08-19,2018,2,BB Erzurumspor,Besiktas,1-3,1,3,T1,1,4,-2,A,1-0,1,0,1,1,H,1,0,0,0
+2018-08-19,2018,2,Akhisarspor,Caykur Rizespor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,1,0
+2018-08-19,2018,2,Galatasaray,Goztepe,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-08-19,2018,2,Alanyaspor,MKE Ankaragucu,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,1,1
+2018-08-20,2018,2,Kasimpasa,Basaksehir FK,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-08-24,2018,3,Caykur Rizespor,BB Erzurumspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-08-25,2018,3,Goztepe,Fenerbahce,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-08-25,2018,3,Kayserispor,Yeni Malatyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-08-25,2018,3,MKE Ankaragucu,Trabzonspor,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,0,0
+2018-08-26,2018,3,Sivasspor,Kasimpasa,0-3,0,3,T1,1,3,-3,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-08-26,2018,3,Besiktas,Antalyaspor,2-3,2,3,T1,1,5,-1,A,1-3,1,3,4,-2,A,1,0,0,0
+2018-08-26,2018,3,Konyaspor,Bursaspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2018-08-27,2018,3,Basaksehir FK,Akhisarspor,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,0,0
+2018-08-27,2018,3,Galatasaray,Alanyaspor,6-0,6,0,T1,1,6,6,H,1-0,1,0,1,1,H,1,0,0,0
+2018-08-31,2018,4,Yeni Malatyaspor,Konyaspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-09-01,2018,4,Alanyaspor,Goztepe,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-09-01,2018,4,Trabzonspor,Galatasaray,4-0,4,0,T1,1,4,4,H,3-0,3,0,3,3,H,1,0,0,1
+2018-09-01,2018,4,Fenerbahce,Kayserispor,2-3,2,3,T1,1,5,-1,A,1-0,1,0,1,1,H,1,0,0,1
+2018-09-01,2018,4,Akhisarspor,Sivasspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-09-02,2018,4,Kasimpasa,MKE Ankaragucu,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-09-02,2018,4,BB Erzurumspor,Basaksehir FK,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-09-02,2018,4,Bursaspor,Besiktas,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-09-02,2018,4,Antalyaspor,Caykur Rizespor,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,1,0,1,1
+2018-09-14,2018,5,Galatasaray,Kasimpasa,4-1,4,1,T1,1,5,3,H,0-0,0,0,0,0,D,1,0,0,0
+2018-09-15,2018,5,Goztepe,Kayserispor,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,1,0,0,0
+2018-09-15,2018,5,Besiktas,Yeni Malatyaspor,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,1,0
+2018-09-15,2018,5,MKE Ankaragucu,Akhisarspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-09-16,2018,5,Sivasspor,BB Erzurumspor,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,0,0
+2018-09-16,2018,5,Basaksehir FK,Antalyaspor,4-0,4,0,T1,1,4,4,H,1-0,1,0,1,1,H,1,0,0,0
+2018-09-16,2018,5,Konyaspor,Fenerbahce,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2018-09-16,2018,5,Caykur Rizespor,Bursaspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2018-09-17,2018,5,Alanyaspor,Trabzonspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-09-21,2018,6,Bursaspor,Basaksehir FK,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-09-21,2018,6,BB Erzurumspor,MKE Ankaragucu,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,1
+2018-09-22,2018,6,Kayserispor,Konyaspor,0-2,0,2,T1,1,2,-2,A,0-2,0,2,2,-2,A,1,0,0,0
+2018-09-22,2018,6,Trabzonspor,Goztepe,1-2,1,2,T1,1,3,-1,A,0-2,0,2,2,-2,A,1,0,0,0
+2018-09-22,2018,6,Yeni Malatyaspor,Caykur Rizespor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,1
+2018-09-23,2018,6,Kasimpasa,Alanyaspor,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-09-23,2018,6,Akhisarspor,Galatasaray,3-0,3,0,T1,1,3,3,H,0-0,0,0,0,0,D,1,0,0,0
+2018-09-23,2018,6,Antalyaspor,Sivasspor,2-1,2,1,T1,1,3,1,H,2-1,2,1,3,1,H,1,0,0,0
+2018-09-24,2018,6,Fenerbahce,Besiktas,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,1
+2018-09-28,2018,7,Galatasaray,BB Erzurumspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-09-29,2018,7,Alanyaspor,Akhisarspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,1,0
+2018-09-29,2018,7,Trabzonspor,Kasimpasa,4-2,4,2,T1,1,6,2,H,1-2,1,2,3,-1,A,1,0,0,0
+2018-09-29,2018,7,Besiktas,Kayserispor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2018-09-30,2018,7,Sivasspor,Bursaspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2018-09-30,2018,7,Goztepe,Konyaspor,3-2,3,2,T1,1,5,1,H,2-0,2,0,2,2,H,1,0,0,0
+2018-09-30,2018,7,Caykur Rizespor,Fenerbahce,3-0,3,0,T1,1,3,3,H,3-0,3,0,3,3,H,1,0,0,0
+2018-10-01,2018,7,Basaksehir FK,Yeni Malatyaspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2018-10-01,2018,7,MKE Ankaragucu,Antalyaspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-10-05,2018,8,Kasimpasa,Goztepe,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,1,0,0,0
+2018-10-06,2018,8,Bursaspor,MKE Ankaragucu,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-10-06,2018,8,Antalyaspor,Galatasaray,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2018-10-06,2018,8,Kayserispor,Caykur Rizespor,2-2,2,2,T1,1,4,0,D,0-1,0,1,1,-1,A,1,0,1,1
+2018-10-06,2018,8,BB Erzurumspor,Alanyaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-10-07,2018,8,Akhisarspor,Trabzonspor,1-3,1,3,T1,1,4,-2,A,0-2,0,2,2,-2,A,1,0,0,0
+2018-10-07,2018,8,Konyaspor,Besiktas,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,1,0,0,1
+2018-10-07,2018,8,Yeni Malatyaspor,Sivasspor,4-4,4,4,T1,1,8,0,D,1-3,1,3,4,-2,A,1,0,0,1
+2018-10-07,2018,8,Fenerbahce,Basaksehir FK,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-10-19,2018,9,Galatasaray,Bursaspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-10-20,2018,9,Kasimpasa,Akhisarspor,5-0,5,0,T1,1,5,5,H,0-0,0,0,0,0,D,1,0,0,0
+2018-10-20,2018,9,Basaksehir FK,Kayserispor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-10-20,2018,9,Sivasspor,Fenerbahce,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-10-21,2018,9,Caykur Rizespor,Konyaspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,1,0
+2018-10-21,2018,9,Alanyaspor,Antalyaspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,1,0
+2018-10-21,2018,9,MKE Ankaragucu,Yeni Malatyaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-10-21,2018,9,Goztepe,Besiktas,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2018-10-22,2018,9,Trabzonspor,BB Erzurumspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-10-26,2018,10,Bursaspor,Alanyaspor,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,1,0,0,0
+2018-10-27,2018,10,BB Erzurumspor,Kasimpasa,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,1,0
+2018-10-27,2018,10,Konyaspor,Basaksehir FK,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2018-10-27,2018,10,Antalyaspor,Trabzonspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2018-10-28,2018,10,Kayserispor,Sivasspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,1
+2018-10-28,2018,10,Yeni Malatyaspor,Galatasaray,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2018-10-28,2018,10,Fenerbahce,MKE Ankaragucu,1-3,1,3,T1,1,4,-2,A,0-1,0,1,1,-1,A,1,0,1,0
+2018-10-29,2018,10,Besiktas,Caykur Rizespor,4-1,4,1,T1,1,5,3,H,2-0,2,0,2,2,H,1,0,0,2
+2018-10-29,2018,10,Akhisarspor,Goztepe,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-11-02,2018,11,Galatasaray,Fenerbahce,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,1,0,1,2
+2018-11-03,2018,11,Kasimpasa,Antalyaspor,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2018-11-03,2018,11,Akhisarspor,BB Erzurumspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2018-11-03,2018,11,Basaksehir FK,Besiktas,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-11-04,2018,11,MKE Ankaragucu,Kayserispor,3-1,3,1,T1,1,4,2,H,2-0,2,0,2,2,H,1,0,0,1
+2018-11-04,2018,11,Alanyaspor,Yeni Malatyaspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-11-04,2018,11,Trabzonspor,Bursaspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2018-11-05,2018,11,Goztepe,Caykur Rizespor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2018-11-05,2018,11,Sivasspor,Konyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,1
+2018-11-09,2018,12,Yeni Malatyaspor,Trabzonspor,5-0,5,0,T1,1,5,5,H,2-0,2,0,2,2,H,1,0,0,0
+2018-11-10,2018,12,Konyaspor,MKE Ankaragucu,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2018-11-10,2018,12,BB Erzurumspor,Goztepe,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-11-10,2018,12,Caykur Rizespor,Basaksehir FK,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2018-11-10,2018,12,Kayserispor,Galatasaray,0-3,0,3,T1,1,3,-3,A,0-1,0,1,1,-1,A,1,0,1,0
+2018-11-11,2018,12,Bursaspor,Kasimpasa,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2018-11-11,2018,12,Fenerbahce,Alanyaspor,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,1,0,0,0
+2018-11-11,2018,12,Antalyaspor,Akhisarspor,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2018-11-11,2018,12,Besiktas,Sivasspor,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2018-11-23,2018,13,Galatasaray,Konyaspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,1,0
+2018-11-24,2018,13,MKE Ankaragucu,Besiktas,1-4,1,4,T1,1,5,-3,A,0-3,0,3,3,-3,A,1,0,0,0
+2018-11-24,2018,13,BB Erzurumspor,Antalyaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-11-24,2018,13,Alanyaspor,Kayserispor,5-0,5,0,T1,1,5,5,H,1-0,1,0,1,1,H,1,0,0,0
+2018-11-25,2018,13,Sivasspor,Caykur Rizespor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,1,0
+2018-11-25,2018,13,Akhisarspor,Bursaspor,2-4,2,4,T1,1,6,-2,A,2-1,2,1,3,1,H,1,0,0,0
+2018-11-25,2018,13,Kasimpasa,Yeni Malatyaspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2018-11-25,2018,13,Trabzonspor,Fenerbahce,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-11-26,2018,13,Goztepe,Basaksehir FK,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-11-30,2018,14,Caykur Rizespor,MKE Ankaragucu,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2018-11-30,2018,14,Konyaspor,Alanyaspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,1
+2018-12-01,2018,14,Kayserispor,Trabzonspor,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,0
+2018-12-01,2018,14,Antalyaspor,Goztepe,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-12-01,2018,14,Basaksehir FK,Sivasspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-12-02,2018,14,Bursaspor,BB Erzurumspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2018-12-02,2018,14,Besiktas,Galatasaray,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2018-12-03,2018,14,Yeni Malatyaspor,Akhisarspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2018-12-03,2018,14,Fenerbahce,Kasimpasa,2-2,2,2,T1,1,4,0,D,2-1,2,1,3,1,H,1,0,0,0
+2018-12-07,2018,15,Alanyaspor,Besiktas,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-12-08,2018,15,Galatasaray,Caykur Rizespor,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,1,0,0,0
+2018-12-08,2018,15,Sivasspor,Goztepe,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,1
+2018-12-08,2018,15,Trabzonspor,Konyaspor,3-0,3,0,T1,1,3,3,H,0-0,0,0,0,0,D,1,0,0,0
+2018-12-09,2018,15,BB Erzurumspor,Yeni Malatyaspor,1-3,1,3,T1,1,4,-2,A,1-0,1,0,1,1,H,1,0,0,0
+2018-12-09,2018,15,Bursaspor,Antalyaspor,0-2,0,2,T1,1,2,-2,A,0-2,0,2,2,-2,A,1,0,0,0
+2018-12-09,2018,15,Akhisarspor,Fenerbahce,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2018-12-10,2018,15,MKE Ankaragucu,Basaksehir FK,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-12-10,2018,15,Kasimpasa,Kayserispor,0-3,0,3,T1,1,3,-3,A,0-1,0,1,1,-1,A,1,0,0,0
+2018-12-14,2018,16,Goztepe,Bursaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-12-15,2018,16,Caykur Rizespor,Alanyaspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2018-12-15,2018,16,Sivasspor,MKE Ankaragucu,4-0,4,0,T1,1,4,4,H,2-0,2,0,2,2,H,1,0,0,0
+2018-12-15,2018,16,Konyaspor,Kasimpasa,3-2,3,2,T1,1,5,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-12-15,2018,16,Basaksehir FK,Galatasaray,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2018-12-16,2018,16,Yeni Malatyaspor,Antalyaspor,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,1,0,1,1
+2018-12-16,2018,16,Kayserispor,Akhisarspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2018-12-16,2018,16,Besiktas,Trabzonspor,2-2,2,2,T1,1,4,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2018-12-17,2018,16,Fenerbahce,BB Erzurumspor,2-2,2,2,T1,1,4,0,D,2-0,2,0,2,2,H,1,0,0,0
+2018-12-22,2018,17,Kasimpasa,Besiktas,4-1,4,1,T1,1,5,3,H,2-0,2,0,2,2,H,1,0,0,0
+2018-12-22,2018,17,Alanyaspor,Basaksehir FK,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,1,0
+2018-12-22,2018,17,MKE Ankaragucu,Goztepe,0-3,0,3,T1,1,3,-3,A,0-0,0,0,0,0,D,1,0,0,0
+2018-12-23,2018,17,Galatasaray,Sivasspor,4-2,4,2,T1,1,6,2,H,2-2,2,2,4,0,D,1,0,0,0
+2018-12-23,2018,17,Trabzonspor,Caykur Rizespor,4-1,4,1,T1,1,5,3,H,1-0,1,0,1,1,H,1,0,0,0
+2018-12-23,2018,17,Bursaspor,Yeni Malatyaspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,1
+2018-12-23,2018,17,BB Erzurumspor,Kayserispor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2018-12-24,2018,17,Akhisarspor,Konyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2018-12-24,2018,17,Antalyaspor,Fenerbahce,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,1
+2019-01-18,2018,18,Akhisarspor,Besiktas,0-3,0,3,T1,1,3,-3,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-01-19,2018,18,BB Erzurumspor,Konyaspor,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-01-19,2018,18,Yeni Malatyaspor,Goztepe,3-2,3,2,T1,1,5,1,H,2-2,2,2,4,0,D,1,0,0,0
+2019-01-19,2018,18,Antalyaspor,Kayserispor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-01-19,2018,18,Galatasaray,MKE Ankaragucu,6-0,6,0,T1,1,6,6,H,3-0,3,0,3,3,H,1,0,0,0
+2019-01-20,2018,18,Alanyaspor,Sivasspor,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,1,0,0,0
+2019-01-20,2018,18,Trabzonspor,Basaksehir FK,2-4,2,4,T1,1,6,-2,A,0-2,0,2,2,-2,A,1,0,0,0
+2019-01-21,2018,18,Bursaspor,Fenerbahce,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2019-01-21,2018,18,Kasimpasa,Caykur Rizespor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-01-25,2018,19,Besiktas,BB Erzurumspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,1,0
+2019-01-26,2018,19,Kayserispor,Bursaspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,1,0
+2019-01-26,2018,19,Goztepe,Galatasaray,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2019-01-27,2018,19,Konyaspor,Antalyaspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2019-01-27,2018,19,Sivasspor,Trabzonspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-01-27,2018,19,Caykur Rizespor,Akhisarspor,3-1,3,1,T1,1,4,2,H,0-1,0,1,1,-1,A,1,0,0,1
+2019-01-28,2018,19,MKE Ankaragucu,Alanyaspor,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-01-28,2018,19,Basaksehir FK,Kasimpasa,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2019-01-28,2018,19,Fenerbahce,Yeni Malatyaspor,3-2,3,2,T1,1,5,1,H,2-2,2,2,4,0,D,1,0,0,0
+2019-02-01,2018,20,Fenerbahce,Goztepe,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,1
+2019-02-02,2018,20,Alanyaspor,Galatasaray,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2019-02-02,2018,20,Yeni Malatyaspor,Kayserispor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2019-02-02,2018,20,Kasimpasa,Sivasspor,1-3,1,3,T1,1,4,-2,A,1-1,1,1,2,0,D,1,0,0,0
+2019-02-02,2018,20,Trabzonspor,MKE Ankaragucu,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2019-02-03,2018,20,BB Erzurumspor,Caykur Rizespor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2019-02-03,2018,20,Akhisarspor,Basaksehir FK,0-3,0,3,T1,1,3,-3,A,0-2,0,2,2,-2,A,1,0,0,0
+2019-02-03,2018,20,Antalyaspor,Besiktas,2-6,2,6,T1,1,8,-4,A,0-3,0,3,3,-3,A,1,0,0,0
+2019-02-04,2018,20,Bursaspor,Konyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-02-08,2018,21,Kayserispor,Fenerbahce,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,2
+2019-02-09,2018,21,Basaksehir FK,BB Erzurumspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2019-02-09,2018,21,Besiktas,Bursaspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2019-02-09,2018,21,Caykur Rizespor,Antalyaspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2019-02-10,2018,21,Galatasaray,Trabzonspor,3-1,3,1,T1,1,4,2,H,2-1,2,1,3,1,H,1,0,0,0
+2019-02-10,2018,21,Goztepe,Alanyaspor,3-2,3,2,T1,1,5,1,H,2-1,2,1,3,1,H,1,0,1,0
+2019-02-10,2018,21,Konyaspor,Yeni Malatyaspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-02-11,2018,21,Sivasspor,Akhisarspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,1,0
+2019-02-11,2018,21,MKE Ankaragucu,Kasimpasa,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2019-02-15,2018,22,Yeni Malatyaspor,Besiktas,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,1,0,1,0
+2019-02-16,2018,22,Akhisarspor,MKE Ankaragucu,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,1
+2019-02-16,2018,22,Bursaspor,Caykur Rizespor,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-02-16,2018,22,Fenerbahce,Konyaspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,1
+2019-02-17,2018,22,Kasimpasa,Galatasaray,1-4,1,4,T1,1,5,-3,A,1-2,1,2,3,-1,A,1,0,0,0
+2019-02-17,2018,22,Trabzonspor,Alanyaspor,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,0
+2019-02-17,2018,22,Kayserispor,Goztepe,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2019-02-17,2018,22,BB Erzurumspor,Sivasspor,4-2,4,2,T1,1,6,2,H,2-1,2,1,3,1,H,1,0,0,0
+2019-02-18,2018,22,Antalyaspor,Basaksehir FK,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-02-22,2018,23,Goztepe,Trabzonspor,1-3,1,3,T1,1,4,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-02-22,2018,23,Caykur Rizespor,Yeni Malatyaspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2019-02-23,2018,23,Sivasspor,Antalyaspor,1-2,1,2,T1,1,3,-1,A,0-2,0,2,2,-2,A,1,0,0,0
+2019-02-23,2018,23,Alanyaspor,Kasimpasa,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,1
+2019-02-24,2018,23,Galatasaray,Akhisarspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2019-02-24,2018,23,Basaksehir FK,Bursaspor,3-0,3,0,T1,1,3,3,H,2-0,2,0,2,2,H,1,0,0,0
+2019-02-24,2018,23,Konyaspor,Kayserispor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2019-02-24,2018,23,MKE Ankaragucu,BB Erzurumspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,1
+2019-02-25,2018,23,Besiktas,Fenerbahce,3-3,3,3,T1,1,6,0,D,3-0,3,0,3,3,H,1,0,0,0
+2019-03-01,2018,24,Antalyaspor,MKE Ankaragucu,2-4,2,4,T1,1,6,-2,A,2-3,2,3,5,-1,A,1,0,0,0
+2019-03-02,2018,24,Bursaspor,Sivasspor,3-2,3,2,T1,1,5,1,H,1-1,1,1,2,0,D,1,0,0,0
+2019-03-02,2018,24,Kayserispor,Besiktas,2-2,2,2,T1,1,4,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2019-03-02,2018,24,Fenerbahce,Caykur Rizespor,3-2,3,2,T1,1,5,1,H,2-1,2,1,3,1,H,1,0,0,1
+2019-03-03,2018,24,Konyaspor,Goztepe,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,1
+2019-03-03,2018,24,Yeni Malatyaspor,Basaksehir FK,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-03-03,2018,24,BB Erzurumspor,Galatasaray,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2019-03-04,2018,24,Akhisarspor,Alanyaspor,3-1,3,1,T1,1,4,2,H,0-0,0,0,0,0,D,1,0,0,0
+2019-03-04,2018,24,Kasimpasa,Trabzonspor,2-2,2,2,T1,1,4,0,D,0-2,0,2,2,-2,A,1,0,0,0
+2019-03-08,2018,25,Sivasspor,Yeni Malatyaspor,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,1,0,0,0
+2019-03-09,2018,25,Trabzonspor,Akhisarspor,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,0
+2019-03-09,2018,25,MKE Ankaragucu,Bursaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-03-09,2018,25,Basaksehir FK,Fenerbahce,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2019-03-10,2018,25,Besiktas,Konyaspor,3-2,3,2,T1,1,5,1,H,2-1,2,1,3,1,H,1,0,0,0
+2019-03-10,2018,25,Caykur Rizespor,Kayserispor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2019-03-10,2018,25,Goztepe,Kasimpasa,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-03-10,2018,25,Alanyaspor,BB Erzurumspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2019-03-11,2018,25,Galatasaray,Antalyaspor,5-0,5,0,T1,1,5,5,H,1-0,1,0,1,1,H,1,0,0,0
+2019-03-15,2018,26,Fenerbahce,Sivasspor,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,0
+2019-03-16,2018,26,Besiktas,Goztepe,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2019-03-16,2018,26,BB Erzurumspor,Trabzonspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2019-03-16,2018,26,Antalyaspor,Alanyaspor,3-0,3,0,T1,1,3,3,H,2-0,2,0,2,2,H,1,0,0,0
+2019-03-16,2018,26,Konyaspor,Caykur Rizespor,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,1,0
+2019-03-16,2018,26,Akhisarspor,Kasimpasa,2-3,2,3,T1,1,5,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2019-03-17,2018,26,Yeni Malatyaspor,MKE Ankaragucu,3-1,3,1,T1,1,4,2,H,0-0,0,0,0,0,D,1,0,0,0
+2019-03-17,2018,26,Kayserispor,Basaksehir FK,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2019-03-17,2018,26,Bursaspor,Galatasaray,2-3,2,3,T1,1,5,-1,A,2-1,2,1,3,1,H,1,0,0,0
+2019-04-05,2018,27,Trabzonspor,Antalyaspor,4-1,4,1,T1,1,5,3,H,1-1,1,1,2,0,D,1,0,0,0
+2019-04-06,2018,27,Alanyaspor,Bursaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2019-04-06,2018,27,Sivasspor,Kayserispor,1-3,1,3,T1,1,4,-2,A,0-3,0,3,3,-3,A,1,0,0,0
+2019-04-06,2018,27,Galatasaray,Yeni Malatyaspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2019-04-07,2018,27,Basaksehir FK,Konyaspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2019-04-07,2018,27,MKE Ankaragucu,Fenerbahce,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,1,1
+2019-04-07,2018,27,Goztepe,Akhisarspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2019-04-07,2018,27,Kasimpasa,BB Erzurumspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2019-04-08,2018,27,Caykur Rizespor,Besiktas,2-7,2,7,T1,1,9,-5,A,1-2,1,2,3,-1,A,1,0,0,0
+2019-04-12,2018,28,Bursaspor,Trabzonspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2019-04-13,2018,28,Caykur Rizespor,Goztepe,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2019-04-13,2018,28,Konyaspor,Sivasspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2019-04-13,2018,28,Besiktas,Basaksehir FK,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2019-04-14,2018,28,Fenerbahce,Galatasaray,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,1,0
+2019-04-14,2018,28,Antalyaspor,Kasimpasa,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,1,0
+2019-04-14,2018,28,Kayserispor,MKE Ankaragucu,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,0
+2019-04-14,2018,28,Yeni Malatyaspor,Alanyaspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,1,1
+2019-04-15,2018,28,BB Erzurumspor,Akhisarspor,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,0
+2019-04-19,2018,29,Kasimpasa,Bursaspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-04-20,2018,29,Akhisarspor,Antalyaspor,1-2,1,2,T1,1,3,-1,A,0-2,0,2,2,-2,A,1,0,0,0
+2019-04-20,2018,29,Trabzonspor,Yeni Malatyaspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,1
+2019-04-20,2018,29,Goztepe,BB Erzurumspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-04-20,2018,29,Galatasaray,Kayserispor,3-1,3,1,T1,1,4,2,H,3-1,3,1,4,2,H,1,0,0,1
+2019-04-21,2018,29,Alanyaspor,Fenerbahce,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2019-04-21,2018,29,Basaksehir FK,Caykur Rizespor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-04-21,2018,29,MKE Ankaragucu,Konyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-04-22,2018,29,Sivasspor,Besiktas,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2019-04-26,2018,30,Basaksehir FK,Goztepe,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-04-27,2018,30,Antalyaspor,BB Erzurumspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2019-04-27,2018,30,Caykur Rizespor,Sivasspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-04-27,2018,30,Fenerbahce,Trabzonspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,1,0
+2019-04-28,2018,30,Kayserispor,Alanyaspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2019-04-28,2018,30,Bursaspor,Akhisarspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-04-28,2018,30,Besiktas,MKE Ankaragucu,4-1,4,1,T1,1,5,3,H,1-0,1,0,1,1,H,1,0,0,0
+2019-04-29,2018,30,Yeni Malatyaspor,Kasimpasa,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2019-04-29,2018,30,Konyaspor,Galatasaray,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-05-03,2018,31,Sivasspor,Basaksehir FK,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-05-04,2018,31,Kasimpasa,Fenerbahce,1-3,1,3,T1,1,4,-2,A,1-1,1,1,2,0,D,1,0,0,0
+2019-05-04,2018,31,MKE Ankaragucu,Caykur Rizespor,2-2,2,2,T1,1,4,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2019-05-04,2018,31,BB Erzurumspor,Bursaspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2019-05-05,2018,31,Galatasaray,Besiktas,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2019-05-05,2018,31,Akhisarspor,Yeni Malatyaspor,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,0
+2019-05-05,2018,31,Goztepe,Antalyaspor,4-1,4,1,T1,1,5,3,H,2-1,2,1,3,1,H,1,0,0,1
+2019-05-06,2018,31,Alanyaspor,Konyaspor,2-4,2,4,T1,1,6,-2,A,1-2,1,2,3,-1,A,1,0,0,0
+2019-05-06,2018,31,Trabzonspor,Kayserispor,4-2,4,2,T1,1,6,2,H,2-1,2,1,3,1,H,1,0,0,0
+2019-05-10,2018,32,Antalyaspor,Bursaspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,1,0
+2019-05-11,2018,32,Caykur Rizespor,Galatasaray,2-3,2,3,T1,1,5,-1,A,1-1,1,1,2,0,D,1,0,1,0
+2019-05-11,2018,32,Goztepe,Sivasspor,3-3,3,3,T1,1,6,0,D,1-2,1,2,3,-1,A,1,0,1,0
+2019-05-11,2018,32,Fenerbahce,Akhisarspor,2-1,2,1,T1,1,3,1,H,2-1,2,1,3,1,H,1,0,0,0
+2019-05-12,2018,32,Kayserispor,Kasimpasa,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,1,0,0,1
+2019-05-12,2018,32,Konyaspor,Trabzonspor,2-2,2,2,T1,1,4,0,D,2-1,2,1,3,1,H,1,0,0,0
+2019-05-12,2018,32,Basaksehir FK,MKE Ankaragucu,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,1,0,0,0
+2019-05-12,2018,32,Yeni Malatyaspor,BB Erzurumspor,3-1,3,1,T1,1,4,2,H,0-0,0,0,0,0,D,1,0,0,0
+2019-05-13,2018,32,Besiktas,Alanyaspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2019-05-17,2018,33,Kasimpasa,Konyaspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2019-05-18,2018,33,Trabzonspor,Besiktas,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,0
+2019-05-18,2018,33,Antalyaspor,Yeni Malatyaspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,1
+2019-05-19,2018,33,Bursaspor,Goztepe,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-05-19,2018,33,Alanyaspor,Caykur Rizespor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2019-05-19,2018,33,Akhisarspor,Kayserispor,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,1,0,0,0
+2019-05-19,2018,33,Galatasaray,Basaksehir FK,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,1,0,0,0
+2019-05-20,2018,33,MKE Ankaragucu,Sivasspor,3-1,3,1,T1,1,4,2,H,2-0,2,0,2,2,H,1,0,0,0
+2019-05-20,2018,33,BB Erzurumspor,Fenerbahce,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2019-05-24,2018,34,Caykur Rizespor,Trabzonspor,2-3,2,3,T1,1,5,-1,A,1-3,1,3,4,-2,A,1,0,0,0
+2019-05-24,2018,34,Sivasspor,Galatasaray,4-3,4,3,T1,1,7,1,H,2-2,2,2,4,0,D,1,0,0,0
+2019-05-24,2018,34,Basaksehir FK,Alanyaspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2019-05-24,2018,34,Besiktas,Kasimpasa,3-2,3,2,T1,1,5,1,H,3-1,3,1,4,2,H,1,0,1,0
+2019-05-25,2018,34,Konyaspor,Akhisarspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-05-26,2018,34,Fenerbahce,Antalyaspor,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,0,0
+2019-05-26,2018,34,Goztepe,MKE Ankaragucu,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2019-05-26,2018,34,Kayserispor,BB Erzurumspor,0-2,0,2,T1,1,2,-2,A,0-2,0,2,2,-2,A,1,0,1,0
+2019-05-26,2018,34,Yeni Malatyaspor,Bursaspor,1-2,1,2,T1,1,3,-1,A,0-2,0,2,2,-2,A,1,0,2,1
+2019-08-16,2019,1,Denizlispor,Galatasaray,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,1
+2019-08-17,2019,1,Genclerbirligi,Caykur Rizespor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,1,0
+2019-08-17,2019,1,Kayserispor,Alanyaspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2019-08-17,2019,1,Sivasspor,Besiktas,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2019-08-18,2019,1,Goztepe,Antalyaspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-08-18,2019,1,Yeni Malatyaspor,Basaksehir FK,3-0,3,0,T1,1,3,3,H,0-0,0,0,0,0,D,1,0,0,1
+2019-08-18,2019,1,Konyaspor,MKE Ankaragucu,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-08-18,2019,1,Kasimpasa,Trabzonspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2019-08-19,2019,1,Fenerbahce,Gaziantep FK,5-0,5,0,T1,1,5,5,H,3-0,3,0,3,3,H,1,0,0,0
+2019-08-23,2019,2,Besiktas,Goztepe,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,0
+2019-08-24,2019,2,MKE Ankaragucu,Kayserispor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-08-24,2019,2,Basaksehir FK,Fenerbahce,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2019-08-24,2019,2,Alanyaspor,Kasimpasa,4-1,4,1,T1,1,5,3,H,1-1,1,1,2,0,D,1,0,0,0
+2019-08-25,2019,2,Antalyaspor,Denizlispor,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-08-25,2019,2,Caykur Rizespor,Sivasspor,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,0
+2019-08-25,2019,2,Trabzonspor,Yeni Malatyaspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2019-08-25,2019,2,Galatasaray,Konyaspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,1,0
+2019-08-26,2019,2,Gaziantep FK,Genclerbirligi,4-1,4,1,T1,1,5,3,H,2-0,2,0,2,2,H,1,0,0,2
+2019-08-30,2019,3,Kayserispor,Galatasaray,2-3,2,3,T1,1,5,-1,A,1-0,1,0,1,1,H,1,0,3,1
+2019-08-30,2019,3,Kasimpasa,MKE Ankaragucu,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-08-31,2019,3,Konyaspor,Antalyaspor,2-2,2,2,T1,1,4,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2019-08-31,2019,3,Besiktas,Caykur Rizespor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2019-08-31,2019,3,Goztepe,Denizlispor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,1
+2019-09-01,2019,3,Yeni Malatyaspor,Alanyaspor,2-3,2,3,T1,1,5,-1,A,0-3,0,3,3,-3,A,1,0,0,0
+2019-09-01,2019,3,Fenerbahce,Trabzonspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,1,0,0,0
+2019-09-01,2019,3,Genclerbirligi,Basaksehir FK,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2019-09-01,2019,3,Sivasspor,Gaziantep FK,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2019-09-13,2019,4,Galatasaray,Kasimpasa,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2019-09-14,2019,4,Basaksehir FK,Sivasspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2019-09-14,2019,4,Gaziantep FK,Besiktas,3-2,3,2,T1,1,5,1,H,1-0,1,0,1,1,H,1,0,1,2
+2019-09-14,2019,4,Antalyaspor,Kayserispor,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,0,0
+2019-09-15,2019,4,Denizlispor,Konyaspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2019-09-15,2019,4,Caykur Rizespor,Goztepe,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-09-15,2019,4,MKE Ankaragucu,Yeni Malatyaspor,0-4,0,4,T1,1,4,-4,A,0-3,0,3,3,-3,A,1,0,1,0
+2019-09-15,2019,4,Trabzonspor,Genclerbirligi,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,0,0
+2019-09-16,2019,4,Alanyaspor,Fenerbahce,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,0,0
+2019-09-20,2019,5,Goztepe,Konyaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,1,0
+2019-09-21,2019,5,Kasimpasa,Antalyaspor,3-0,3,0,T1,1,3,3,H,0-0,0,0,0,0,D,1,0,0,0
+2019-09-21,2019,5,Kayserispor,Denizlispor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2019-09-21,2019,5,Fenerbahce,MKE Ankaragucu,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2019-09-22,2019,5,Caykur Rizespor,Gaziantep FK,1-2,1,2,T1,1,3,-1,A,0-2,0,2,2,-2,A,1,0,0,0
+2019-09-22,2019,5,Genclerbirligi,Alanyaspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2019-09-22,2019,5,Yeni Malatyaspor,Galatasaray,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2019-09-23,2019,5,Sivasspor,Trabzonspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2019-09-23,2019,5,Besiktas,Basaksehir FK,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-09-27,2019,6,Basaksehir FK,Caykur Rizespor,5-0,5,0,T1,1,5,5,H,2-0,2,0,2,2,H,1,0,0,0
+2019-09-28,2019,6,Denizlispor,Kasimpasa,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2019-09-28,2019,6,Alanyaspor,Sivasspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2019-09-28,2019,6,Galatasaray,Fenerbahce,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-09-29,2019,6,Konyaspor,Kayserispor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,2
+2019-09-29,2019,6,Antalyaspor,Yeni Malatyaspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,1,0,0,1
+2019-09-29,2019,6,MKE Ankaragucu,Genclerbirligi,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,0
+2019-09-29,2019,6,Trabzonspor,Besiktas,4-1,4,1,T1,1,5,3,H,2-0,2,0,2,2,H,1,0,0,0
+2019-09-30,2019,6,Gaziantep FK,Goztepe,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,1
+2019-10-04,2019,7,Fenerbahce,Antalyaspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-10-04,2019,7,Yeni Malatyaspor,Denizlispor,5-1,5,1,T1,1,6,4,H,2-0,2,0,2,2,H,1,0,0,0
+2019-10-05,2019,7,Kasimpasa,Konyaspor,1-4,1,4,T1,1,5,-3,A,1-3,1,3,4,-2,A,1,0,0,0
+2019-10-05,2019,7,Goztepe,Kayserispor,4-0,4,0,T1,1,4,4,H,3-0,3,0,3,3,H,1,0,0,0
+2019-10-05,2019,7,Genclerbirligi,Galatasaray,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,1,0
+2019-10-06,2019,7,Sivasspor,MKE Ankaragucu,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,0,0
+2019-10-06,2019,7,Besiktas,Alanyaspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2019-10-06,2019,7,Gaziantep FK,Basaksehir FK,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,1,0
+2019-10-06,2019,7,Caykur Rizespor,Trabzonspor,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2019-10-18,2019,8,Galatasaray,Sivasspor,3-2,3,2,T1,1,5,1,H,2-0,2,0,2,2,H,1,0,0,1
+2019-10-19,2019,8,MKE Ankaragucu,Besiktas,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,1,0
+2019-10-19,2019,8,Trabzonspor,Gaziantep FK,4-1,4,1,T1,1,5,3,H,2-0,2,0,2,2,H,1,0,0,1
+2019-10-19,2019,8,Antalyaspor,Genclerbirligi,0-6,0,6,T1,1,6,-6,A,0-5,0,5,5,-5,A,1,0,1,0
+2019-10-19,2019,8,Basaksehir FK,Goztepe,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2019-10-20,2019,8,Denizlispor,Fenerbahce,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-10-20,2019,8,Kayserispor,Kasimpasa,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2019-10-20,2019,8,Alanyaspor,Caykur Rizespor,5-2,5,2,T1,1,7,3,H,2-0,2,0,2,2,H,1,0,0,0
+2019-10-21,2019,8,Konyaspor,Yeni Malatyaspor,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,1,0
+2019-10-25,2019,9,Caykur Rizespor,MKE Ankaragucu,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2019-10-26,2019,9,Fenerbahce,Konyaspor,5-1,5,1,T1,1,6,4,H,3-1,3,1,4,2,H,1,0,0,0
+2019-10-26,2019,9,Gaziantep FK,Alanyaspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2019-10-26,2019,9,Sivasspor,Antalyaspor,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,1,0,0,0
+2019-10-27,2019,9,Yeni Malatyaspor,Kayserispor,4-0,4,0,T1,1,4,4,H,1-0,1,0,1,1,H,1,0,0,0
+2019-10-27,2019,9,Genclerbirligi,Denizlispor,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-10-27,2019,9,Goztepe,Kasimpasa,1-4,1,4,T1,1,5,-3,A,1-1,1,1,2,0,D,1,0,0,0
+2019-10-27,2019,9,Besiktas,Galatasaray,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2019-10-28,2019,9,Basaksehir FK,Trabzonspor,2-2,2,2,T1,1,4,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-11-01,2019,10,Galatasaray,Caykur Rizespor,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,1,0,0,0
+2019-11-02,2019,10,Antalyaspor,Besiktas,1-2,1,2,T1,1,3,-1,A,0-2,0,2,2,-2,A,1,0,0,0
+2019-11-02,2019,10,Trabzonspor,Goztepe,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-11-02,2019,10,Alanyaspor,Basaksehir FK,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-11-02,2019,10,Konyaspor,Genclerbirligi,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2019-11-03,2019,10,Denizlispor,Sivasspor,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-11-03,2019,10,Kasimpasa,Yeni Malatyaspor,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,1,0,0,1
+2019-11-03,2019,10,Kayserispor,Fenerbahce,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2019-11-04,2019,10,MKE Ankaragucu,Gaziantep FK,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-11-08,2019,11,Fenerbahce,Kasimpasa,3-2,3,2,T1,1,5,1,H,2-1,2,1,3,1,H,1,0,1,1
+2019-11-09,2019,11,Gaziantep FK,Galatasaray,0-2,0,2,T1,1,2,-2,A,0-2,0,2,2,-2,A,1,0,0,0
+2019-11-09,2019,11,Sivasspor,Konyaspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,1
+2019-11-09,2019,11,Caykur Rizespor,Antalyaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,1,0
+2019-11-09,2019,11,Genclerbirligi,Kayserispor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2019-11-10,2019,11,Goztepe,Yeni Malatyaspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,1,1
+2019-11-10,2019,11,Trabzonspor,Alanyaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,1,1
+2019-11-10,2019,11,Besiktas,Denizlispor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2019-11-10,2019,11,Basaksehir FK,MKE Ankaragucu,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2019-11-22,2019,12,Galatasaray,Basaksehir FK,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2019-11-23,2019,12,MKE Ankaragucu,Trabzonspor,0-3,0,3,T1,1,3,-3,A,0-1,0,1,1,-1,A,1,0,1,0
+2019-11-23,2019,12,Konyaspor,Besiktas,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2019-11-23,2019,12,Denizlispor,Caykur Rizespor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2019-11-24,2019,12,Kayserispor,Sivasspor,1-4,1,4,T1,1,5,-3,A,1-1,1,1,2,0,D,1,0,0,0
+2019-11-24,2019,12,Kasimpasa,Genclerbirligi,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2019-11-24,2019,12,Alanyaspor,Goztepe,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2019-11-24,2019,12,Yeni Malatyaspor,Fenerbahce,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-11-25,2019,12,Antalyaspor,Gaziantep FK,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2019-11-29,2019,13,Genclerbirligi,Yeni Malatyaspor,3-3,3,3,T1,1,6,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2019-11-30,2019,13,Goztepe,Fenerbahce,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,0,1
+2019-11-30,2019,13,Sivasspor,Kasimpasa,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,1,0,0,0
+2019-11-30,2019,13,Caykur Rizespor,Konyaspor,3-1,3,1,T1,1,4,2,H,2-1,2,1,3,1,H,1,0,0,0
+2019-11-30,2019,13,Alanyaspor,MKE Ankaragucu,5-0,5,0,T1,1,5,5,H,2-0,2,0,2,2,H,1,0,0,0
+2019-12-01,2019,13,Gaziantep FK,Denizlispor,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2019-12-01,2019,13,Basaksehir FK,Antalyaspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2019-12-01,2019,13,Trabzonspor,Galatasaray,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-12-02,2019,13,Besiktas,Kayserispor,4-1,4,1,T1,1,5,3,H,3-0,3,0,3,3,H,1,0,0,0
+2019-12-06,2019,14,Fenerbahce,Genclerbirligi,5-2,5,2,T1,1,7,3,H,3-1,3,1,4,2,H,1,0,0,0
+2019-12-07,2019,14,Yeni Malatyaspor,Sivasspor,1-3,1,3,T1,1,4,-2,A,1-2,1,2,3,-1,A,1,0,0,0
+2019-12-07,2019,14,MKE Ankaragucu,Goztepe,1-3,1,3,T1,1,4,-2,A,1-1,1,1,2,0,D,1,0,0,0
+2019-12-07,2019,14,Galatasaray,Alanyaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2019-12-08,2019,14,Konyaspor,Gaziantep FK,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-12-08,2019,14,Denizlispor,Basaksehir FK,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-12-08,2019,14,Antalyaspor,Trabzonspor,1-3,1,3,T1,1,4,-2,A,1-3,1,3,4,-2,A,1,0,0,0
+2019-12-08,2019,14,Kasimpasa,Besiktas,2-3,2,3,T1,1,5,-1,A,1-1,1,1,2,0,D,1,0,1,0
+2019-12-09,2019,14,Kayserispor,Caykur Rizespor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2019-12-13,2019,15,Alanyaspor,Antalyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2019-12-14,2019,15,Galatasaray,MKE Ankaragucu,2-2,2,2,T1,1,4,0,D,0-0,0,0,0,0,D,1,0,0,1
+2019-12-14,2019,15,Caykur Rizespor,Kasimpasa,0-3,0,3,T1,1,3,-3,A,0-2,0,2,2,-2,A,1,0,1,0
+2019-12-14,2019,15,Genclerbirligi,Goztepe,3-1,3,1,T1,1,4,2,H,2-1,2,1,3,1,H,1,0,0,0
+2019-12-15,2019,15,Gaziantep FK,Kayserispor,3-0,3,0,T1,1,3,3,H,0-0,0,0,0,0,D,1,0,0,0
+2019-12-15,2019,15,Sivasspor,Fenerbahce,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,1,0,0,2
+2019-12-15,2019,15,Besiktas,Yeni Malatyaspor,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,1,0
+2019-12-16,2019,15,Basaksehir FK,Konyaspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,0
+2019-12-16,2019,15,Trabzonspor,Denizlispor,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2019-12-20,2019,16,Antalyaspor,MKE Ankaragucu,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,1,0,0,0
+2019-12-21,2019,16,Yeni Malatyaspor,Caykur Rizespor,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,1,0,0,0
+2019-12-21,2019,16,Kasimpasa,Gaziantep FK,3-4,3,4,T1,1,7,-1,A,1-4,1,4,5,-3,A,1,0,0,0
+2019-12-21,2019,16,Goztepe,Galatasaray,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2019-12-22,2019,16,Kayserispor,Basaksehir FK,1-4,1,4,T1,1,5,-3,A,1-2,1,2,3,-1,A,1,0,0,0
+2019-12-22,2019,16,Genclerbirligi,Sivasspor,2-2,2,2,T1,1,4,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2019-12-22,2019,16,Fenerbahce,Besiktas,3-1,3,1,T1,1,4,2,H,2-1,2,1,3,1,H,1,0,0,0
+2019-12-23,2019,16,Konyaspor,Trabzonspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,1,0,1,0
+2019-12-23,2019,16,Denizlispor,Alanyaspor,1-5,1,5,T1,1,6,-4,A,0-3,0,3,3,-3,A,1,0,0,0
+2019-12-27,2019,17,Besiktas,Genclerbirligi,4-1,4,1,T1,1,5,3,H,0-1,0,1,1,-1,A,1,0,0,2
+2019-12-28,2019,17,Trabzonspor,Kayserispor,6-2,6,2,T1,1,8,4,H,2-1,2,1,3,1,H,1,0,0,0
+2019-12-28,2019,17,Galatasaray,Antalyaspor,5-0,5,0,T1,1,5,5,H,3-0,3,0,3,3,H,1,0,0,0
+2019-12-28,2019,17,MKE Ankaragucu,Denizlispor,2-2,2,2,T1,1,4,0,D,0-2,0,2,2,-2,A,1,0,0,1
+2019-12-28,2019,17,Basaksehir FK,Kasimpasa,5-1,5,1,T1,1,6,4,H,4-0,4,0,4,4,H,1,0,0,0
+2019-12-29,2019,17,Caykur Rizespor,Fenerbahce,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2019-12-29,2019,17,Gaziantep FK,Yeni Malatyaspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,1,1
+2019-12-29,2019,17,Sivasspor,Goztepe,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2019-12-29,2019,17,Alanyaspor,Konyaspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,1,0,0,0
+2020-01-17,2019,18,MKE Ankaragucu,Konyaspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2020-01-18,2019,18,Alanyaspor,Kayserispor,5-1,5,1,T1,1,6,4,H,1-0,1,0,1,1,H,1,0,0,1
+2020-01-18,2019,18,Basaksehir FK,Yeni Malatyaspor,4-1,4,1,T1,1,5,3,H,4-0,4,0,4,4,H,1,0,0,0
+2020-01-18,2019,18,Gaziantep FK,Fenerbahce,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,1
+2020-01-19,2019,18,Antalyaspor,Goztepe,0-3,0,3,T1,1,3,-3,A,0-3,0,3,3,-3,A,1,0,1,0
+2020-01-19,2019,18,Trabzonspor,Kasimpasa,6-0,6,0,T1,1,6,6,H,3-0,3,0,3,3,H,1,0,0,1
+2020-01-19,2019,18,Galatasaray,Denizlispor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2020-01-19,2019,18,Besiktas,Sivasspor,1-2,1,2,T1,1,3,-1,A,1-2,1,2,3,-1,A,1,0,0,1
+2020-01-20,2019,18,Caykur Rizespor,Genclerbirligi,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2020-01-24,2019,19,Genclerbirligi,Gaziantep FK,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2020-01-25,2019,19,Kayserispor,MKE Ankaragucu,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,1,0,0,1
+2020-01-25,2019,19,Kasimpasa,Alanyaspor,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,1,0
+2020-01-25,2019,19,Fenerbahce,Basaksehir FK,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,0
+2020-01-26,2019,19,Konyaspor,Galatasaray,0-3,0,3,T1,1,3,-3,A,0-2,0,2,2,-2,A,1,0,0,0
+2020-01-26,2019,19,Goztepe,Besiktas,2-1,2,1,T1,1,3,1,H,2-1,2,1,3,1,H,1,0,0,0
+2020-01-26,2019,19,Denizlispor,Antalyaspor,0-3,0,3,T1,1,3,-3,A,0-2,0,2,2,-2,A,1,0,0,0
+2020-01-27,2019,19,Sivasspor,Caykur Rizespor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2020-01-31,2019,20,Basaksehir FK,Genclerbirligi,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,1,0,0,0
+2020-02-01,2019,20,Antalyaspor,Konyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2020-02-01,2019,20,Caykur Rizespor,Besiktas,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,0
+2020-02-01,2019,20,Trabzonspor,Fenerbahce,2-1,2,1,T1,1,3,1,H,2-1,2,1,3,1,H,1,0,0,1
+2020-02-02,2019,20,MKE Ankaragucu,Kasimpasa,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2020-02-02,2019,20,Gaziantep FK,Sivasspor,5-1,5,1,T1,1,6,4,H,3-1,3,1,4,2,H,1,0,0,0
+2020-02-02,2019,20,Alanyaspor,Yeni Malatyaspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,1,0
+2020-02-02,2019,20,Galatasaray,Kayserispor,4-1,4,1,T1,1,5,3,H,2-0,2,0,2,2,H,1,0,0,0
+2020-02-03,2019,20,Denizlispor,Goztepe,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2020-02-07,2019,21,Yeni Malatyaspor,MKE Ankaragucu,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,1,0
+2020-02-08,2019,21,Fenerbahce,Alanyaspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2020-02-08,2019,21,Konyaspor,Denizlispor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2020-02-08,2019,21,Besiktas,Gaziantep FK,3-0,3,0,T1,1,3,3,H,0-0,0,0,0,0,D,1,0,0,0
+2020-02-08,2019,21,Genclerbirligi,Trabzonspor,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,1,0,0,1
+2020-02-09,2019,21,Sivasspor,Basaksehir FK,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2020-02-09,2019,21,Kasimpasa,Galatasaray,0-3,0,3,T1,1,3,-3,A,0-3,0,3,3,-3,A,1,0,0,0
+2020-02-09,2019,21,Kayserispor,Antalyaspor,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,0,0
+2020-02-14,2019,22,Basaksehir FK,Besiktas,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2020-02-15,2019,22,Denizlispor,Kayserispor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2020-02-15,2019,22,Konyaspor,Goztepe,1-3,1,3,T1,1,4,-2,A,1-1,1,1,2,0,D,1,0,0,0
+2020-02-15,2019,22,MKE Ankaragucu,Fenerbahce,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2020-02-16,2019,22,Alanyaspor,Genclerbirligi,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,1,0,0,0
+2020-02-16,2019,22,Trabzonspor,Sivasspor,2-1,2,1,T1,1,3,1,H,2-0,2,0,2,2,H,1,0,0,0
+2020-02-16,2019,22,Galatasaray,Yeni Malatyaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2020-02-17,2019,22,Gaziantep FK,Caykur Rizespor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,1,0,0,1
+2020-02-17,2019,22,Antalyaspor,Kasimpasa,3-1,3,1,T1,1,4,2,H,0-0,0,0,0,0,D,1,0,0,0
+2020-02-21,2019,23,Sivasspor,Alanyaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,1,0,0,0
+2020-02-22,2019,23,Goztepe,Gaziantep FK,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2020-02-22,2019,23,Kayserispor,Konyaspor,2-2,2,2,T1,1,4,0,D,1-2,1,2,3,-1,A,1,0,0,0
+2020-02-22,2019,23,Besiktas,Trabzonspor,2-2,2,2,T1,1,4,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2020-02-23,2019,23,Fenerbahce,Galatasaray,1-3,1,3,T1,1,4,-2,A,1-1,1,1,2,0,D,1,0,1,1
+2020-02-23,2019,23,Genclerbirligi,MKE Ankaragucu,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2020-02-23,2019,23,Yeni Malatyaspor,Antalyaspor,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,1,0,0,1
+2020-02-24,2019,23,Caykur Rizespor,Basaksehir FK,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,1,0,0,0
+2020-02-24,2019,23,Kasimpasa,Denizlispor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,0
+2020-02-28,2019,24,Alanyaspor,Besiktas,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,1,0,0,0
+2020-02-29,2019,24,Konyaspor,Kasimpasa,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,1,0,0,0
+2020-02-29,2019,24,Trabzonspor,Caykur Rizespor,5-2,5,2,T1,1,7,3,H,0-1,0,1,1,-1,A,1,0,1,0
+2020-02-29,2019,24,Antalyaspor,Fenerbahce,2-2,2,2,T1,1,4,0,D,0-1,0,1,1,-1,A,1,0,1,0
+2020-03-01,2019,24,Galatasaray,Genclerbirligi,3-0,3,0,T1,1,3,3,H,2-0,2,0,2,2,H,1,0,0,0
+2020-03-01,2019,24,Denizlispor,Yeni Malatyaspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,1,0,0,1
+2020-03-01,2019,24,MKE Ankaragucu,Sivasspor,0-3,0,3,T1,1,3,-3,A,0-0,0,0,0,0,D,1,0,1,0
+2020-03-02,2019,24,Basaksehir FK,Gaziantep FK,3-1,3,1,T1,1,4,2,H,0-0,0,0,0,0,D,1,0,0,0
+2020-03-02,2019,24,Kayserispor,Goztepe,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,1,0,0,0
+2020-03-06,2019,25,Besiktas,MKE Ankaragucu,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,1,0,0,0
+2020-03-07,2019,25,Yeni Malatyaspor,Konyaspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,1,1
+2020-03-07,2019,25,Gaziantep FK,Trabzonspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2020-03-07,2019,25,Fenerbahce,Denizlispor,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,1,0,1,0
+2020-03-07,2019,25,Goztepe,Basaksehir FK,0-3,0,3,T1,1,3,-3,A,0-1,0,1,1,-1,A,1,0,0,1
+2020-03-08,2019,25,Caykur Rizespor,Alanyaspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,1,0,0,0
+2020-03-08,2019,25,Sivasspor,Galatasaray,2-2,2,2,T1,1,4,0,D,1-2,1,2,3,-1,A,1,0,0,0
+2020-03-08,2019,25,Kasimpasa,Kayserispor,5-1,5,1,T1,1,6,4,H,3-0,3,0,3,3,H,1,0,0,0
+2020-03-09,2019,25,Genclerbirligi,Antalyaspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,1,0,0,0
+2020-03-11,2019,19,Yeni Malatyaspor,Trabzonspor,1-3,1,3,T1,1,4,-2,A,1-2,1,2,3,-1,A,1,0,0,0
+2020-03-13,2019,26,Kasimpasa,Goztepe,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,0,0,0,0
+2020-03-13,2019,26,MKE Ankaragucu,Caykur Rizespor,2-1,2,1,T1,1,3,1,H,2-1,2,1,3,1,H,0,0,0,1
+2020-03-14,2019,26,Denizlispor,Genclerbirligi,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,0,0,0,0
+2020-03-14,2019,26,Alanyaspor,Gaziantep FK,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,0,0,0,0
+2020-03-14,2019,26,Konyaspor,Fenerbahce,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,0,0,2,0
+2020-03-15,2019,26,Trabzonspor,Basaksehir FK,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,0,0,0,0
+2020-03-15,2019,26,Kayserispor,Yeni Malatyaspor,2-1,2,1,T1,1,3,1,H,2-0,2,0,2,2,H,0,0,0,0
+2020-03-15,2019,26,Galatasaray,Besiktas,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,0,0,0,0
+2020-03-16,2019,26,Antalyaspor,Sivasspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,0,0,0,1
+2020-03-17,2019,21,Goztepe,Caykur Rizespor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,0,0,0,0
+2020-06-12,2019,27,Fenerbahce,Kayserispor,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,0,0,1,0
+2020-06-12,2019,27,Goztepe,Trabzonspor,1-3,1,3,T1,1,4,-2,A,0-1,0,1,1,-1,A,0,0,0,1
+2020-06-13,2019,27,Basaksehir FK,Alanyaspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,0,0,0,0
+2020-06-13,2019,27,Besiktas,Antalyaspor,1-2,1,2,T1,1,3,-1,A,0-2,0,2,2,-2,A,0,0,0,0
+2020-06-13,2019,27,Yeni Malatyaspor,Kasimpasa,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,0,0,0,0
+2020-06-14,2019,27,Gaziantep FK,MKE Ankaragucu,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,0,0,0,0
+2020-06-14,2019,27,Caykur Rizespor,Galatasaray,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,0,0,0,1
+2020-06-14,2019,27,Genclerbirligi,Konyaspor,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,0,0,0,0
+2020-06-15,2019,27,Sivasspor,Denizlispor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,0,0,0,1
+2020-06-19,2019,28,MKE Ankaragucu,Basaksehir FK,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,0,0,0,0
+2020-06-20,2019,28,Kayserispor,Genclerbirligi,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,0,0,0,0
+2020-06-20,2019,28,Yeni Malatyaspor,Goztepe,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,0,0,0,0
+2020-06-20,2019,28,Denizlispor,Besiktas,1-5,1,5,T1,1,6,-4,A,0-1,0,1,1,-1,A,0,0,0,0
+2020-06-21,2019,28,Konyaspor,Sivasspor,2-2,2,2,T1,1,4,0,D,2-1,2,1,3,1,H,0,0,0,0
+2020-06-21,2019,28,Galatasaray,Gaziantep FK,3-3,3,3,T1,1,6,0,D,2-1,2,1,3,1,H,0,0,1,0
+2020-06-21,2019,28,Kasimpasa,Fenerbahce,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,0,0,0,0
+2020-06-22,2019,28,Alanyaspor,Trabzonspor,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,0,0,1,1
+2020-06-22,2019,28,Antalyaspor,Caykur Rizespor,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,0,0,0,0
+2020-06-26,2019,29,Besiktas,Konyaspor,3-0,3,0,T1,1,3,3,H,2-0,2,0,2,2,H,0,0,0,1
+2020-06-27,2019,29,Fenerbahce,Yeni Malatyaspor,3-2,3,2,T1,1,5,1,H,0-0,0,0,0,0,D,0,0,0,1
+2020-06-27,2019,29,Goztepe,Alanyaspor,3-3,3,3,T1,1,6,0,D,1-2,1,2,3,-1,A,0,0,0,0
+2020-06-27,2019,29,Trabzonspor,MKE Ankaragucu,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,0,0,0,1
+2020-06-28,2019,29,Gaziantep FK,Antalyaspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,0,0,0,1
+2020-06-28,2019,29,Basaksehir FK,Galatasaray,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,0,0,1,0
+2020-06-28,2019,29,Sivasspor,Kayserispor,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,0,0,0,0
+2020-06-28,2019,29,Caykur Rizespor,Denizlispor,2-2,2,2,T1,1,4,0,D,1-2,1,2,3,-1,A,0,0,0,0
+2020-06-29,2019,29,Genclerbirligi,Kasimpasa,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,0,0,0,0
+2020-07-03,2019,30,Denizlispor,Gaziantep FK,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,0,0,0,0
+2020-07-04,2019,30,MKE Ankaragucu,Alanyaspor,1-4,1,4,T1,1,5,-3,A,0-0,0,0,0,0,D,0,0,0,0
+2020-07-04,2019,30,Yeni Malatyaspor,Genclerbirligi,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,0,0,0,0
+2020-07-04,2019,30,Fenerbahce,Goztepe,2-1,2,1,T1,1,3,1,H,2-0,2,0,2,2,H,0,0,1,0
+2020-07-04,2019,30,Antalyaspor,Basaksehir FK,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,0,0,0,0
+2020-07-05,2019,30,Kasimpasa,Sivasspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,0,0,1,0
+2020-07-05,2019,30,Konyaspor,Caykur Rizespor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,0,0,0,0
+2020-07-05,2019,30,Galatasaray,Trabzonspor,1-3,1,3,T1,1,4,-2,A,0-1,0,1,1,-1,A,0,0,1,0
+2020-07-06,2019,30,Kayserispor,Besiktas,3-1,3,1,T1,1,4,2,H,0-0,0,0,0,0,D,0,0,0,0
+2020-07-07,2019,31,Genclerbirligi,Fenerbahce,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,0,0,0,0
+2020-07-07,2019,31,Basaksehir FK,Denizlispor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,0,0,0,0
+2020-07-08,2019,31,Alanyaspor,Galatasaray,4-1,4,1,T1,1,5,3,H,2-1,2,1,3,1,H,0,0,0,0
+2020-07-08,2019,31,Goztepe,MKE Ankaragucu,2-2,2,2,T1,1,4,0,D,2-1,2,1,3,1,H,0,0,0,0
+2020-07-08,2019,31,Sivasspor,Yeni Malatyaspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,0,0,0,0
+2020-07-08,2019,31,Trabzonspor,Antalyaspor,2-2,2,2,T1,1,4,0,D,2-1,2,1,3,1,H,0,0,0,0
+2020-07-09,2019,31,Caykur Rizespor,Kayserispor,3-2,3,2,T1,1,5,1,H,1-1,1,1,2,0,D,0,0,0,1
+2020-07-09,2019,31,Besiktas,Kasimpasa,3-2,3,2,T1,1,5,1,H,1-2,1,2,3,-1,A,0,0,0,0
+2020-07-09,2019,31,Gaziantep FK,Konyaspor,3-1,3,1,T1,1,4,2,H,0-1,0,1,1,-1,A,0,0,0,0
+2020-07-11,2019,32,Goztepe,Genclerbirligi,1-3,1,3,T1,1,4,-2,A,0-2,0,2,2,-2,A,0,0,0,0
+2020-07-12,2019,32,MKE Ankaragucu,Galatasaray,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,0,0,0,0
+2020-07-12,2019,32,Antalyaspor,Alanyaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,0,0,0,0
+2020-07-12,2019,32,Fenerbahce,Sivasspor,1-2,1,2,T1,1,3,-1,A,1-2,1,2,3,-1,A,0,0,0,0
+2020-07-13,2019,32,Denizlispor,Trabzonspor,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,0,0,0,0
+2020-07-13,2019,32,Yeni Malatyaspor,Besiktas,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,0,0,0,0
+2020-07-13,2019,32,Kasimpasa,Caykur Rizespor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,0,0,0,0
+2020-07-13,2019,32,Kayserispor,Gaziantep FK,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,0,0,2,0
+2020-07-13,2019,32,Konyaspor,Basaksehir FK,4-3,4,3,T1,1,7,1,H,3-1,3,1,4,2,H,0,0,0,0
+2020-07-18,2019,33,Galatasaray,Goztepe,3-1,3,1,T1,1,4,2,H,0-0,0,0,0,0,D,0,0,0,0
+2020-07-18,2019,33,Gaziantep FK,Kasimpasa,2-2,2,2,T1,1,4,0,D,1-2,1,2,3,-1,A,0,0,0,0
+2020-07-19,2019,33,MKE Ankaragucu,Antalyaspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,0,0,0,1
+2020-07-19,2019,33,Trabzonspor,Konyaspor,3-4,3,4,T1,1,7,-1,A,1-1,1,1,2,0,D,0,0,0,0
+2020-07-19,2019,33,Sivasspor,Genclerbirligi,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,0,0,0,0
+2020-07-19,2019,33,Besiktas,Fenerbahce,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,0,0,0,1
+2020-07-19,2019,33,Caykur Rizespor,Yeni Malatyaspor,3-0,3,0,T1,1,3,3,H,3-0,3,0,3,3,H,0,0,0,0
+2020-07-19,2019,33,Basaksehir FK,Kayserispor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,0,0,0,0
+2020-07-19,2019,33,Alanyaspor,Denizlispor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,0,0,0,0
+2020-07-24,2019,34,Antalyaspor,Galatasaray,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,0,0,0,0
+2020-07-25,2019,34,Konyaspor,Alanyaspor,2-3,2,3,T1,1,5,-1,A,2-0,2,0,2,2,H,0,0,0,0
+2020-07-25,2019,34,Kayserispor,Trabzonspor,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,0,0,0,0
+2020-07-25,2019,34,Denizlispor,MKE Ankaragucu,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,0,0,0,0
+2020-07-25,2019,34,Goztepe,Sivasspor,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,0,0,1,0
+2020-07-25,2019,34,Yeni Malatyaspor,Gaziantep FK,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,0,0,0,0
+2020-07-25,2019,34,Fenerbahce,Caykur Rizespor,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,0,0,0,0
+2020-07-25,2019,34,Genclerbirligi,Besiktas,0-3,0,3,T1,1,3,-3,A,0-0,0,0,0,0,D,0,0,0,0
+2020-07-26,2019,34,Kasimpasa,Basaksehir FK,3-2,3,2,T1,1,5,1,H,2-0,2,0,2,2,H,0,0,0,0
+2020-09-11,2020,1,Caykur Rizespor,Fenerbahce,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,0,0,0,0
+2020-09-12,2020,1,Fatih Karagumruk,Yeni Malatyaspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,0,0,0,0
+2020-09-12,2020,1,Sivasspor,Alanyaspor,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,0,0,0,0
+2020-09-12,2020,1,Goztepe,Denizlispor,5-1,5,1,T1,1,6,4,H,3-0,3,0,3,3,H,0,0,0,0
+2020-09-12,2020,1,Galatasaray,Gaziantep FK,3-1,3,1,T1,1,4,2,H,3-0,3,0,3,3,H,0,0,0,0
+2020-09-13,2020,1,Kayserispor,Kasimpasa,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,0,0,0,0
+2020-09-13,2020,1,MKE Ankaragucu,BB Erzurumspor,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,0,0,0,0
+2020-09-13,2020,1,Trabzonspor,Besiktas,1-3,1,3,T1,1,4,-2,A,0-1,0,1,1,-1,A,0,0,1,0
+2020-09-13,2020,1,Antalyaspor,Genclerbirligi,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,0,0,0,0
+2020-09-14,2020,1,Hatayspor,Basaksehir FK,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,0,0,0,0
+18/09/2020,2020,2,Yeni Malatyaspor,Goztepe,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,0,0,0,0
+19/09/2020,2020,2,Genclerbirligi,Konyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,0,0,0,0
+19/09/2020,2020,2,Alanyaspor,Kayserispor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,0,0,0,0
+19/09/2020,2020,2,Denizlispor,Trabzonspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,0,0,1,0
+19/09/2020,2020,2,Besiktas,Antalyaspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,0,0,0,0
+20/09/2020,2020,2,BB Erzurumspor,Sivasspor,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,0,0,0,0
+20/09/2020,2020,2,Kasimpasa,Caykur Rizespor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,0,0,1,0
+20/09/2020,2020,2,Gaziantep FK,Fatih Karagumruk,2-2,2,2,T1,1,4,0,D,0-1,0,1,1,-1,A,0,0,0,0
+20/09/2020,2020,2,Basaksehir FK,Galatasaray,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,0,0,0,0
+21/09/2020,2020,2,Fenerbahce,Hatayspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,0,0,0,2
+25/09/2020,2020,3,Fatih Karagumruk,Basaksehir FK,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,0,0,0,1
+26/09/2020,2020,3,Kayserispor,BB Erzurumspor,1-3,1,3,T1,1,4,-2,A,0-2,0,2,2,-2,A,0,0,0,0
+26/09/2020,2020,3,Hatayspor,Kasimpasa,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,0,0,0,0
+26/09/2020,2020,3,Goztepe,Gaziantep FK,2-2,2,2,T1,1,4,0,D,0-1,0,1,1,-1,A,0,0,0,0
+26/09/2020,2020,3,Trabzonspor,Yeni Malatyaspor,3-1,3,1,T1,1,4,2,H,3-0,3,0,3,3,H,0,0,0,0
+27/09/2020,2020,3,Konyaspor,Besiktas,4-1,4,1,T1,1,5,3,H,1-0,1,0,1,1,H,0,0,0,0
+27/09/2020,2020,3,Galatasaray,Fenerbahce,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,0,0,0,0
+27/09/2020,2020,3,Caykur Rizespor,Alanyaspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,0,0,0,0
+27/09/2020,2020,3,Sivasspor,MKE Ankaragucu,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,0,0,0,0
+28/09/2020,2020,3,Antalyaspor,Denizlispor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,0,0,0,0
+02/10/2020,2020,4,MKE Ankaragucu,Kayserispor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,0,0,0,0
+02/10/2020,2020,4,Gaziantep FK,Trabzonspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,0,0,0,1
+03/10/2020,2020,4,Basaksehir FK,Goztepe,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,0,0,0,0
+03/10/2020,2020,4,Fenerbahce,Fatih Karagumruk,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,0,0,1,0
+03/10/2020,2020,4,Yeni Malatyaspor,Antalyaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,0,0,0,0
+03/10/2020,2020,4,BB Erzurumspor,Caykur Rizespor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,0,0,0,0
+04/10/2020,2020,4,Denizlispor,Konyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,0,0,0,0
+04/10/2020,2020,4,Besiktas,Genclerbirligi,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,0,0,0,0
+04/10/2020,2020,4,Alanyaspor,Hatayspor,6-0,6,0,T1,1,6,6,H,4-0,4,0,4,4,H,0,0,0,0
+04/10/2020,2020,4,Kasimpasa,Galatasaray,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,0,0,0,0
+17/10/2020,2020,5,Trabzonspor,Basaksehir FK,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,0,0,0,0
+17/10/2020,2020,5,Caykur Rizespor,MKE Ankaragucu,5-3,5,3,T1,1,8,2,H,2-3,2,3,5,-1,A,0,0,0,1
+17/10/2020,2020,5,Konyaspor,Yeni Malatyaspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,0,0,0,0
+17/10/2020,2020,5,Kayserispor,Sivasspor,1-3,1,3,T1,1,4,-2,A,0-1,0,1,1,-1,A,0,0,1,0
+18/10/2020,2020,5,Fatih Karagumruk,Kasimpasa,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,0,0,1,0
+18/10/2020,2020,5,Antalyaspor,Gaziantep FK,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,0,0,2,2
+18/10/2020,2020,5,Goztepe,Fenerbahce,2-3,2,3,T1,1,5,-1,A,1-2,1,2,3,-1,A,0,0,0,0
+19/10/2020,2020,5,Genclerbirligi,Denizlispor,1-2,1,2,T1,1,3,-1,A,0-2,0,2,2,-2,A,0,0,0,0
+19/10/2020,2020,5,Galatasaray,Alanyaspor,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,0,0,1,0
+23/10/2020,2020,6,Kasimpasa,Goztepe,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,0,0,0,0
+24/10/2020,2020,6,Gaziantep FK,Konyaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,0,0,0,0
+24/10/2020,2020,6,Basaksehir FK,Antalyaspor,5-1,5,1,T1,1,6,4,H,4-1,4,1,5,3,H,0,0,0,1
+24/10/2020,2020,6,BB Erzurumspor,Galatasaray,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,0,0,0,1
+25/10/2020,2020,6,Fenerbahce,Trabzonspor,3-1,3,1,T1,1,4,2,H,0-1,0,1,1,-1,A,0,0,0,0
+25/10/2020,2020,6,Alanyaspor,Fatih Karagumruk,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,0,0,0,0
+25/10/2020,2020,6,Yeni Malatyaspor,Genclerbirligi,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,0,0,0,0
+26/10/2020,2020,6,Denizlispor,Besiktas,2-3,2,3,T1,1,5,-1,A,0-2,0,2,2,-2,A,0,0,0,1
+26/10/2020,2020,6,Sivasspor,Caykur Rizespor,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,0,0,0,0
+30/10/2020,2020,7,Fatih Karagumruk,BB Erzurumspor,5-1,5,1,T1,1,6,4,H,3-0,3,0,3,3,H,0,0,0,0
+30/10/2020,2020,7,Trabzonspor,Kasimpasa,3-4,3,4,T1,1,7,-1,A,3-2,3,2,5,1,H,0,0,0,0
+31/10/2020,2020,7,Genclerbirligi,Gaziantep FK,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,0,0,0,0
+31/10/2020,2020,7,Galatasaray,MKE Ankaragucu,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,0,0,0,0
+01/11/2020,2020,7,Caykur Rizespor,Kayserispor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,0,0,0,0
+01/11/2020,2020,7,Besiktas,Yeni Malatyaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,0,0,0,0
+01/11/2020,2020,7,Konyaspor,Basaksehir FK,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,0,0,0,0
+02/11/2020,2020,7,Antalyaspor,Fenerbahce,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,0,0,1,1
+02/11/2020,2020,7,Hatayspor,Sivasspor,1-1,1,1,T1,1,2,0,D,1-1,1,1,2,0,D,0,0,1,0
+06/11/2020,2020,8,Gaziantep FK,Besiktas,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,0,0,0,1
+07/11/2020,2020,8,Kasimpasa,Antalyaspor,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,0,0,0,0
+07/11/2020,2020,8,Alanyaspor,Trabzonspor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,0,0,0,0
+07/11/2020,2020,8,BB Erzurumspor,Goztepe,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,0,0,1,0
+07/11/2020,2020,8,Fenerbahce,Konyaspor,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,0,0,0,0
+08/11/2020,2020,8,Sivasspor,Galatasaray,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,0,0,0,0
+08/11/2020,2020,8,MKE Ankaragucu,Fatih Karagumruk,2-2,2,2,T1,1,4,0,D,1-2,1,2,3,-1,A,0,0,0,0
+08/11/2020,2020,8,Yeni Malatyaspor,Denizlispor,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,0,0,0,0
+08/11/2020,2020,8,Kayserispor,Hatayspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,0,0,1,0
+08/11/2020,2020,8,Basaksehir FK,Genclerbirligi,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,0,0,0,1
+21/11/2020,2020,9,Besiktas,Basaksehir FK,3-2,3,2,T1,1,5,1,H,2-0,2,0,2,2,H,0,0,0,1
+21/11/2020,2020,9,Denizlispor,Gaziantep FK,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,0,0,0,0
+21/11/2020,2020,9,Genclerbirligi,Fenerbahce,1-5,1,5,T1,1,6,-4,A,1-2,1,2,3,-1,A,0,0,0,0
+21/11/2020,2020,9,Fatih Karagumruk,Sivasspor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,0,0,0,0
+22/11/2020,2020,9,Hatayspor,Caykur Rizespor,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,0,0,0,0
+22/11/2020,2020,9,Konyaspor,Kasimpasa,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,0,0,0,0
+22/11/2020,2020,9,Goztepe,MKE Ankaragucu,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,0,0,0,0
+22/11/2020,2020,9,Trabzonspor,BB Erzurumspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,0,0,0,0
+22/11/2020,2020,9,Antalyaspor,Alanyaspor,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,0,0,1,0
+23/11/2020,2020,9,Galatasaray,Kayserispor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,0,0,0,1
+27/11/2020,2020,10,MKE Ankaragucu,Trabzonspor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,0,0,0,1
+28/11/2020,2020,10,Gaziantep FK,Yeni Malatyaspor,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,0,0,1,0
+28/11/2020,2020,10,Caykur Rizespor,Galatasaray,0-4,0,4,T1,1,4,-4,A,0-1,0,1,1,-1,A,0,0,1,0
+28/11/2020,2020,10,Basaksehir FK,Denizlispor,3-3,3,3,T1,1,6,0,D,2-0,2,0,2,2,H,0,0,0,0
+29/11/2020,2020,10,BB Erzurumspor,Antalyaspor,2-2,2,2,T1,1,4,0,D,1-0,1,0,1,1,H,0,0,0,1
+29/11/2020,2020,10,Alanyaspor,Konyaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,0,0,0,0
+29/11/2020,2020,10,Kasimpasa,Genclerbirligi,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,0,0,0,0
+29/11/2020,2020,10,Fenerbahce,Besiktas,3-4,3,4,T1,1,7,-1,A,1-2,1,2,3,-1,A,0,0,0,1
+30/11/2020,2020,10,Kayserispor,Fatih Karagumruk,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,0,0,0,0
+30/11/2020,2020,10,Sivasspor,Goztepe,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,0,0,0,0
+04/12/2020,2020,11,Besiktas,Kasimpasa,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,0,0,0,1
+05/12/2020,2020,11,Goztepe,Kayserispor,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,0,0,0,0
+05/12/2020,2020,11,Genclerbirligi,Alanyaspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,0,0,0,0
+05/12/2020,2020,11,Konyaspor,BB Erzurumspor,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,0,0,0,1
+05/12/2020,2020,11,Yeni Malatyaspor,Basaksehir FK,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,0,0,0,0
+05/12/2020,2020,11,Galatasaray,Hatayspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,0,0,0,1
+06/12/2020,2020,11,Antalyaspor,MKE Ankaragucu,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,0,0,0,0
+06/12/2020,2020,11,Fatih Karagumruk,Caykur Rizespor,2-1,2,1,T1,1,3,1,H,2-1,2,1,3,1,H,0,0,0,0
+06/12/2020,2020,11,Denizlispor,Fenerbahce,0-2,0,2,T1,1,2,-2,A,0-2,0,2,2,-2,A,0,0,0,1
+07/12/2020,2020,11,Trabzonspor,Sivasspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,0,0,0,0
+09/12/2020,2020,5,Hatayspor,BB Erzurumspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,0,0,0,0
+09/12/2020,2020,7,Goztepe,Alanyaspor,1-0,1,0,T1,1,1,1,H,0-0,0,0,0,0,D,0,0,0,0
+11/12/2020,2020,12,Kasimpasa,Denizlispor,3-2,3,2,T1,1,5,1,H,2-1,2,1,3,1,H,0,0,0,0
+12/12/2020,2020,12,Hatayspor,Fatih Karagumruk,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,0,0,0,2
+12/12/2020,2020,12,Caykur Rizespor,Goztepe,3-2,3,2,T1,1,5,1,H,1-0,1,0,1,1,H,0,0,0,0
+12/12/2020,2020,12,Kayserispor,Trabzonspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,0,0,0,0
+12/12/2020,2020,12,MKE Ankaragucu,Konyaspor,4-3,4,3,T1,1,7,1,H,1-2,1,2,3,-1,A,0,0,1,0
+12/12/2020,2020,12,Fenerbahce,Yeni Malatyaspor,0-3,0,3,T1,1,3,-3,A,0-2,0,2,2,-2,A,0,0,0,0
+13/12/2020,2020,12,Alanyaspor,Besiktas,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,0,0,1,0
+13/12/2020,2020,12,BB Erzurumspor,Genclerbirligi,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,0,0,0,0
+13/12/2020,2020,12,Basaksehir FK,Gaziantep FK,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,0,0,0,0
+14/12/2020,2020,12,Sivasspor,Antalyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,0,0,0,0
+15/12/2020,2020,6,MKE Ankaragucu,Hatayspor,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,0,0,0,1
+18/12/2020,2020,13,Fatih Karagumruk,Galatasaray,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,0,0,1,1
+19/12/2020,2020,13,Yeni Malatyaspor,Kasimpasa,2-0,2,0,T1,1,2,2,H,1-0,1,0,1,1,H,0,0,0,0
+19/12/2020,2020,13,Trabzonspor,Caykur Rizespor,2-1,2,1,T1,1,3,1,H,0-1,0,1,1,-1,A,0,0,0,0
+19/12/2020,2020,13,Goztepe,Hatayspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,0,0,0,0
+19/12/2020,2020,13,Gaziantep FK,Fenerbahce,3-1,3,1,T1,1,4,2,H,2-1,2,1,3,1,H,0,0,0,0
+20/12/2020,2020,13,Besiktas,BB Erzurumspor,4-0,4,0,T1,1,4,4,H,0-0,0,0,0,0,D,0,0,0,0
+20/12/2020,2020,13,Denizlispor,Alanyaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,0,0,1,0
+20/12/2020,2020,13,Genclerbirligi,MKE Ankaragucu,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,0,0,1,0
+21/12/2020,2020,13,Antalyaspor,Kayserispor,2-0,2,0,T1,1,2,2,H,2-0,2,0,2,2,H,0,0,0,0
+21/12/2020,2020,13,Konyaspor,Sivasspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,0,0,0,0
+22/12/2020,2020,14,Hatayspor,Trabzonspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,0,0,0,0
+22/12/2020,2020,14,Galatasaray,Goztepe,3-1,3,1,T1,1,4,2,H,2-1,2,1,3,1,H,0,0,0,0
+23/12/2020,2020,14,Kasimpasa,Gaziantep FK,0-4,0,4,T1,1,4,-4,A,0-2,0,2,2,-2,A,0,0,0,0
+23/12/2020,2020,14,Alanyaspor,Yeni Malatyaspor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,0,0,0,0
+23/12/2020,2020,14,BB Erzurumspor,Denizlispor,1-2,1,2,T1,1,3,-1,A,0-1,0,1,1,-1,A,0,0,1,0
+23/12/2020,2020,14,Fenerbahce,Basaksehir FK,4-1,4,1,T1,1,5,3,H,1-1,1,1,2,0,D,0,0,0,2
+24/12/2020,2020,14,Kayserispor,Konyaspor,1-2,1,2,T1,1,3,-1,A,1-0,1,0,1,1,H,0,0,1,0
+24/12/2020,2020,14,Sivasspor,Genclerbirligi,3-1,3,1,T1,1,4,2,H,1-0,1,0,1,1,H,0,0,0,0
+24/12/2020,2020,14,MKE Ankaragucu,Besiktas,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,0,0,0,0
+24/12/2020,2020,14,Caykur Rizespor,Antalyaspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,0,0,0,0
+26/12/2020,2020,15,Goztepe,Fatih Karagumruk,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,0,0,0,0
+26/12/2020,2020,15,Trabzonspor,Galatasaray,0-2,0,2,T1,1,2,-2,A,0-1,0,1,1,-1,A,0,0,0,0
+27/12/2020,2020,15,Yeni Malatyaspor,BB Erzurumspor,1-3,1,3,T1,1,4,-2,A,0-1,0,1,1,-1,A,0,0,0,0
+27/12/2020,2020,15,Basaksehir FK,Kasimpasa,2-2,2,2,T1,1,4,0,D,1-1,1,1,2,0,D,0,0,0,1
+27/12/2020,2020,15,Gaziantep FK,Alanyaspor,3-1,3,1,T1,1,4,2,H,2-1,2,1,3,1,H,0,0,0,0
+27/12/2020,2020,15,Denizlispor,MKE Ankaragucu,1-2,1,2,T1,1,3,-1,A,0-2,0,2,2,-2,A,0,0,0,0
+28/12/2020,2020,15,Konyaspor,Caykur Rizespor,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,0,0,0,1
+28/12/2020,2020,15,Besiktas,Sivasspor,3-0,3,0,T1,1,3,3,H,1-0,1,0,1,1,H,0,0,0,1
+28/12/2020,2020,15,Genclerbirligi,Kayserispor,3-2,3,2,T1,1,5,1,H,1-1,1,1,2,0,D,0,0,0,0
+29/12/2020,2020,15,Antalyaspor,Hatayspor,0-6,0,6,T1,1,6,-6,A,0-5,0,5,5,-5,A,0,0,0,0
+02/01/2021,2020,16,BB Erzurumspor,Gaziantep FK,1-1,1,1,T1,1,2,0,D,0-0,0,0,0,0,D,0,0,0,0
+02/01/2021,2020,16,Sivasspor,Denizlispor,2-2,2,2,T1,1,4,0,D,2-1,2,1,3,1,H,0,0,0,0
+02/01/2021,2020,16,MKE Ankaragucu,Yeni Malatyaspor,3-1,3,1,T1,1,4,2,H,2-0,2,0,2,2,H,0,0,0,1
+02/01/2021,2020,16,Alanyaspor,Basaksehir FK,3-0,3,0,T1,1,3,3,H,2-0,2,0,2,2,H,0,0,0,0
+02/01/2021,2020,16,Hatayspor,Konyaspor,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,0,0,0,0
+02/01/2021,2020,16,Galatasaray,Antalyaspor,0-0,0,0,T1,1,0,0,D,0-0,0,0,0,0,D,0,0,1,0
+03/01/2021,2020,16,Kayserispor,Besiktas,0-2,0,2,T1,1,2,-2,A,0-0,0,0,0,0,D,0,0,1,0
+03/01/2021,2020,16,Fatih Karagumruk,Trabzonspor,1-2,1,2,T1,1,3,-1,A,0-0,0,0,0,0,D,0,0,0,0
+03/01/2021,2020,16,Caykur Rizespor,Genclerbirligi,1-1,1,1,T1,1,2,0,D,1-0,1,0,1,1,H,0,0,0,0
+04/01/2021,2020,16,Kasimpasa,Fenerbahce,0-3,0,3,T1,1,3,-3,A,0-2,0,2,2,-2,A,0,0,0,0
+05/01/2021,2020,17,Gaziantep FK,MKE Ankaragucu,2-0,2,0,T1,1,2,2,H,0-0,0,0,0,0,D,0,0,0,0
+05/01/2021,2020,17,Yeni Malatyaspor,Sivasspor,2-2,2,2,T1,1,4,0,D,1-2,1,2,3,-1,A,0,0,0,0
+05/01/2021,2020,17,Konyaspor,Galatasaray,4-3,4,3,T1,1,7,1,H,1-1,1,1,2,0,D,0,0,0,0
+06/01/2021,2020,17,Denizlispor,Kayserispor,0-1,0,1,T1,1,1,-1,A,0-1,0,1,1,-1,A,0,0,0,0
+06/01/2021,2020,17,Genclerbirligi,Hatayspor,3-1,3,1,T1,1,4,2,H,1-1,1,1,2,0,D,0,0,0,1
+06/01/2021,2020,17,Basaksehir FK,BB Erzurumspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,0,0,0,0
+06/01/2021,2020,17,Trabzonspor,Goztepe,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,0,0,0,0
+06/01/2021,2020,17,Besiktas,Caykur Rizespor,6-0,6,0,T1,1,6,6,H,2-0,2,0,2,2,H,0,0,0,0
+06/01/2021,2020,17,Antalyaspor,Fatih Karagumruk,3-1,3,1,T1,1,4,2,H,2-1,2,1,3,1,H,0,0,0,1
+07/01/2021,2020,17,Fenerbahce,Alanyaspor,2-1,2,1,T1,1,3,1,H,1-0,1,0,1,1,H,0,0,0,0
+09/01/2021,2020,18,Galatasaray,Genclerbirligi,6-0,6,0,T1,1,6,6,H,4-0,4,0,4,4,H,0,0,0,0
+09/01/2021,2020,18,Sivasspor,Gaziantep FK,2-1,2,1,T1,1,3,1,H,1-1,1,1,2,0,D,0,0,0,1
+09/01/2021,2020,18,Goztepe,Antalyaspor,0-1,0,1,T1,1,1,-1,A,0-0,0,0,0,0,D,0,0,0,0
+09/01/2021,2020,18,Kayserispor,Yeni Malatyaspor,1-0,1,0,T1,1,1,1,H,1-0,1,0,1,1,H,0,0,0,0
+10/01/2021,2020,18,Fatih Karagumruk,Konyaspor,2-1,2,1,T1,1,3,1,H,0-0,0,0,0,0,D,0,0,0,0
+10/01/2021,2020,18,MKE Ankaragucu,Basaksehir FK,1-2,1,2,T1,1,3,-1,A,1-1,1,1,2,0,D,0,0,0,0
+10/01/2021,2020,18,Caykur Rizespor,Denizlispor,1-1,1,1,T1,1,2,0,D,0-1,0,1,1,-1,A,0,0,0,0
+10/01/2021,2020,18,Hatayspor,Besiktas,2-2,2,2,T1,1,4,0,D,2-2,2,2,4,0,D,0,0,0,0
+11/01/2021,2020,18,BB Erzurumspor,Fenerbahce,0-3,0,3,T1,1,3,-3,A,0-1,0,1,1,-1,A,0,0,0,0
+11/01/2021,2020,18,Alanyaspor,Kasimpasa,1-2,1,2,T1,1,3,-1,A,1-2,1,2,3,-1,A,0,0,0,1
+15/01/2021,2020,19,Genclerbirligi,Fatih Karagumruk,1-3,1,3,T1,1,4,-2,A,0-2,0,2,2,-2,A,0,0,0,0
