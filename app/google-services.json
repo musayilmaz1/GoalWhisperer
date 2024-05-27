@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534382457720",
+    "project_id": "tahmin-add93",
+    "storage_bucket": "tahmin-add93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534382457720:android:33a8b11f30fed1b71b0e8d",
+        "android_client_info": {
+          "package_name": "com.example.tahminci1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1tiKiWf-hhOd2LxIlqSJ4BaxZVdZHlAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

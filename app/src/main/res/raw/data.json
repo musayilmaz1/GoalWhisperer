@@ -1,0 +1,2322 @@
+{
+    "Sivasspor": {
+        "Galatasaray": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Besiktas": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 3
+        },
+        "Trabzonspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Alanyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 2
+        },
+        "Fenerbahce": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 3
+        },
+        "Kayserispor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 5
+        },
+        "Rizespor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        },
+        "Konyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Istanbul Bsaksehir": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Kasimpasa": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 0
+        },
+        "Ankaragucu": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 1
+        },
+        "Antalyaspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Gazişehir Gaziantep": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Hatayspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 3
+        },
+        "İstanbulspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 2
+        },
+        "Samsunspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        },
+        "Adana Demirspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 1
+        },
+        "Pendikspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Fatih Karagümrük": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 5,
+            "Misafir Gol Sayisi": 1
+        }
+    },
+    "Galatasaray": {
+        "Sivasspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Besiktas": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Trabzonspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Alanyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 5,
+            "Misafir Gol Sayisi": 1
+        },
+        "Fenerbahce": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Kayserispor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Rizespor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 0
+        },
+        "Konyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 1
+        },
+        "Istanbul Bsaksehir": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 2
+        },
+        "Kasimpasa": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Ankaragucu": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Antalyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Gazişehir Gaziantep": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Hatayspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "İstanbulspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 2
+        },
+        "Samsunspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 0
+        },
+        "Adana Demirspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Pendikspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Fatih Karagümrük": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        }
+    },
+    "Besiktas": {
+        "Sivasspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Galatasaray": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Trabzonspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        },
+        "Alanyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 1
+        },
+        "Fenerbahce": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 2
+        },
+        "Kayserispor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 0
+        },
+        "Rizespor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        },
+        "Konyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 0
+        },
+        "Istanbul Bsaksehir": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Kasimpasa": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Ankaragucu": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Antalyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 6,
+            "Misafir Gol Sayisi": 0
+        },
+        "Gazişehir Gaziantep": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Hatayspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 1
+        },
+        "İstanbulspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 3
+        },
+        "Samsunspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 1
+        },
+        "Adana Demirspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Pendikspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Fatih Karagümrük": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 1
+        }
+    },
+    "Trabzonspor": {
+        "Sivasspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Galatasaray": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Besiktas": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Alanyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Fenerbahce": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Kayserispor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Rizespor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Konyaspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Istanbul Bsaksehir": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Kasimpasa": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Ankaragucu": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Antalyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Gazişehir Gaziantep": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Hatayspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "İstanbulspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 2
+        },
+        "Samsunspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 1
+        },
+        "Adana Demirspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Pendikspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 1
+        },
+        "Fatih Karagümrük": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 6,
+            "Misafir Gol Sayisi": 0
+        }
+    },
+    "Alanyaspor": {
+        "Sivasspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Galatasaray": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 3
+        },
+        "Besiktas": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 4
+        },
+        "Trabzonspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 0
+        },
+        "Fenerbahce": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 3
+        },
+        "Kayserispor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 0
+        },
+        "Rizespor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 3
+        },
+        "Konyaspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 3
+        },
+        "Istanbul Bsaksehir": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 5
+        },
+        "Kasimpasa": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 1
+        },
+        "Ankaragucu": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 2
+        },
+        "Antalyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Gazişehir Gaziantep": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 3
+        },
+        "Hatayspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "İstanbulspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Samsunspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Adana Demirspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 2
+        },
+        "Pendikspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 0
+        },
+        "Fatih Karagümrük": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 2
+        }
+    },
+    "Fenerbahce": {
+        "Sivasspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 0
+        },
+        "Galatasaray": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 0
+        },
+        "Besiktas": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Trabzonspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Alanyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Kayserispor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Rizespor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        },
+        "Konyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 1
+        },
+        "Istanbul Bsaksehir": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 2
+        },
+        "Kasimpasa": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Ankaragucu": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 1
+        },
+        "Antalyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Gazişehir Gaziantep": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Hatayspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "İstanbulspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Samsunspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Adana Demirspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Pendikspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 3
+        },
+        "Fatih Karagümrük": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 1
+        }
+    },
+    "Kayserispor": {
+        "Sivasspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 2
+        },
+        "Galatasaray": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Besiktas": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Trabzonspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Alanyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 0
+        },
+        "Fenerbahce": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Rizespor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Konyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 2
+        },
+        "Istanbul Bsaksehir": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        },
+        "Kasimpasa": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Ankaragucu": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Antalyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 4
+        },
+        "Gazişehir Gaziantep": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Hatayspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "İstanbulspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Samsunspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Adana Demirspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Pendikspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Fatih Karagümrük": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        }
+    },
+    "Rizespor": {
+        "Sivasspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Galatasaray": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Besiktas": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Trabzonspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Alanyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Fenerbahce": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Kayserispor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Konyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Istanbul Bsaksehir": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 1
+        },
+        "Kasimpasa": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Ankaragucu": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Antalyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 0
+        },
+        "Gazişehir Gaziantep": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 1
+        },
+        "Hatayspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "İstanbulspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Samsunspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Adana Demirspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 1
+        },
+        "Pendikspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Fatih Karagümrük": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        }
+    },
+    "Konyaspor": {
+        "Sivasspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Galatasaray": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Besiktas": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        },
+        "Trabzonspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Alanyaspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 3
+        },
+        "Fenerbahce": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 5
+        },
+        "Kayserispor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 1
+        },
+        "Rizespor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Istanbul Bsaksehir": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 2
+        },
+        "Kasimpasa": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Ankaragucu": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Antalyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Gazişehir Gaziantep": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Hatayspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "İstanbulspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 3
+        },
+        "Samsunspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 0
+        },
+        "Adana Demirspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 1
+        },
+        "Pendikspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Fatih Karagümrük": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 2
+        }
+    },
+    "Istanbul Bsaksehir": {
+        "Sivasspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 2
+        },
+        "Galatasaray": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 3
+        },
+        "Besiktas": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Trabzonspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        },
+        "Alanyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Fenerbahce": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Kayserispor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Rizespor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Konyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 5,
+            "Misafir Gol Sayisi": 0
+        },
+        "Kasimpasa": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Ankaragucu": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        },
+        "Antalyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Gazişehir Gaziantep": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        },
+        "Hatayspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "İstanbulspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Samsunspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 2
+        },
+        "Adana Demirspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Pendikspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Fatih Karagümrük": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        }
+    },
+    "Kasimpasa": {
+        "Sivasspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 4
+        },
+        "Galatasaray": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 4
+        },
+        "Besiktas": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Trabzonspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Alanyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Fenerbahce": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 4
+        },
+        "Kayserispor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 2
+        },
+        "Rizespor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Konyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Istanbul Bsaksehir": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Ankaragucu": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Antalyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 2
+        },
+        "Gazişehir Gaziantep": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Hatayspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "İstanbulspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 1
+        },
+        "Samsunspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Adana Demirspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 2
+        },
+        "Pendikspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Fatih Karagümrük": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        }
+    },
+    "Ankaragucu": {
+        "Sivasspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Galatasaray": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Besiktas": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 3
+        },
+        "Trabzonspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Alanyaspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 2
+        },
+        "Fenerbahce": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 3
+        },
+        "Kayserispor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 2
+        },
+        "Rizespor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Konyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Istanbul Bsaksehir": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Kasimpasa": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Antalyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Gazişehir Gaziantep": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Hatayspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "İstanbulspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 5
+        },
+        "Samsunspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Adana Demirspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 1
+        },
+        "Pendikspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 2
+        },
+        "Fatih Karagümrük": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        }
+    },
+    "Antalyaspor": {
+        "Sivasspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        },
+        "Galatasaray": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Besiktas": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Trabzonspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Alanyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Fenerbahce": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Kayserispor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Rizespor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Konyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Istanbul Bsaksehir": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Kasimpasa": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Ankaragucu": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Gazişehir Gaziantep": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Hatayspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "İstanbulspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Samsunspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 3
+        },
+        "Adana Demirspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Pendikspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Fatih Karagümrük": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 0
+        }
+    },
+    "Gazişehir Gaziantep": {
+        "Sivasspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Galatasaray": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Besiktas": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Trabzonspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        },
+        "Alanyaspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 3
+        },
+        "Fenerbahce": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Kayserispor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Rizespor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Konyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 2
+        },
+        "Istanbul Bsaksehir": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Kasimpasa": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Ankaragucu": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Antalyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Hatayspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "İstanbulspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Samsunspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 2
+        },
+        "Adana Demirspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Pendikspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 1
+        },
+        "Fatih Karagümrük": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 2
+        }
+    },
+    "Hatayspor": {
+        "Sivasspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Galatasaray": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 5
+        },
+        "Besiktas": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Trabzonspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 2
+        },
+        "Alanyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 3
+        },
+        "Fenerbahce": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Kayserispor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Rizespor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Konyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Istanbul Bsaksehir": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        },
+        "Kasimpasa": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 1
+        },
+        "Ankaragucu": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 2
+        },
+        "Antalyaspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        },
+        "Gazişehir Gaziantep": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 3
+        },
+        "İstanbulspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 3
+        },
+        "Samsunspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Adana Demirspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Pendikspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Fatih Karagümrük": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 5,
+            "Misafir Gol Sayisi": 0
+        }
+    },
+    "İstanbulspor": {
+        "Sivasspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Galatasaray": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 2
+        },
+        "Besiktas": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 4
+        },
+        "Trabzonspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Alanyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Fenerbahce": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Kayserispor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 1
+        },
+        "Rizespor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Konyaspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 3
+        },
+        "Istanbul Bsaksehir": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Kasimpasa": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Ankaragucu": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Antalyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Gazişehir Gaziantep": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Hatayspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 2
+        },
+        "Samsunspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Adana Demirspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Pendikspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Fatih Karagümrük": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        }
+    },
+    "Samsunspor": {
+        "Sivasspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Galatasaray": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        },
+        "Besiktas": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 4,
+            "Misafir Gol Sayisi": 1
+        },
+        "Trabzonspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Alanyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 0
+        },
+        "Fenerbahce": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        },
+        "Kayserispor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        },
+        "Rizespor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 3
+        },
+        "Konyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Istanbul Bsaksehir": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 4
+        },
+        "Kasimpasa": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 2
+        },
+        "Ankaragucu": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Antalyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Gazişehir Gaziantep": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Hatayspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "İstanbulspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Adana Demirspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 2
+        },
+        "Pendikspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Fatih Karagümrük": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 3
+        }
+    },
+    "Adana Demirspor": {
+        "Sivasspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 3
+        },
+        "Galatasaray": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 2
+        },
+        "Besiktas": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Trabzonspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Alanyaspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 3
+        },
+        "Fenerbahce": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Kayserispor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Rizespor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Konyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 0
+        },
+        "Istanbul Bsaksehir": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 2
+        },
+        "Kasimpasa": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Ankaragucu": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 1
+        },
+        "Antalyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Gazişehir Gaziantep": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Hatayspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "İstanbulspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Samsunspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Pendikspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        },
+        "Fatih Karagümrük": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 4
+        }
+    },
+    "Pendikspor": {
+        "Sivasspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Galatasaray": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Besiktas": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Trabzonspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Alanyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Fenerbahce": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Kayserispor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Rizespor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Konyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 2
+        },
+        "Istanbul Bsaksehir": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Kasimpasa": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Ankaragucu": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 2
+        },
+        "Antalyaspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "Gazişehir Gaziantep": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 2
+        },
+        "Hatayspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 2
+        },
+        "İstanbulspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 1
+        },
+        "Samsunspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Adana Demirspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Fatih Karagümrük": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 6,
+            "Misafir Gol Sayisi": 1
+        }
+    },
+    "Fatih Karagümrük": {
+        "Sivasspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Galatasaray": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Besiktas": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Trabzonspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 2
+        },
+        "Alanyaspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 2
+        },
+        "Fenerbahce": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 3
+        },
+        "Kayserispor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 0
+        },
+        "Rizespor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Konyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 1
+        },
+        "Istanbul Bsaksehir": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 2
+        },
+        "Kasimpasa": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 3
+        },
+        "Ankaragucu": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 2
+        },
+        "Antalyaspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 3,
+            "Misafir Gol Sayisi": 0
+        },
+        "Gazişehir Gaziantep": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 2,
+            "Misafir Gol Sayisi": 2
+        },
+        "Hatayspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 1
+        },
+        "İstanbulspor": {
+            "Tam Sonuc": "H",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 0
+        },
+        "Samsunspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "A",
+            "Ev Sahibi Gol Sayisi": 0,
+            "Misafir Gol Sayisi": 2
+        },
+        "Adana Demirspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "H",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        },
+        "Pendikspor": {
+            "Tam Sonuc": "A",
+            "Ilk Yari Sonucu": "D",
+            "Ev Sahibi Gol Sayisi": 1,
+            "Misafir Gol Sayisi": 2
+        }
+    }
+}
